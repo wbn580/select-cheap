@@ -1,0 +1,2064 @@
+{
+  "status": "PASS",
+  "created_at": "2026-07-31T06:36:49.008166+00:00",
+  "site": "select-cheap",
+  "crawl": "scraped-data/select-cheap-live-recovery/20260731-1433/raw/crawl.json",
+  "backup": "outputs/workbuddy-bulk-drafts/2026-07-29-bulk-repair-v1/release-2026-07-30/backups/select-cheap-public-pre-live-recovery",
+  "recovered_count": 403,
+  "new_article_count": 6,
+  "recovered": [
+    {
+      "url": "https://select.cheap/",
+      "target": ".recovery-public-stage/index.html",
+      "sha256": "1cd4ef61fa08db4cecb32e380ddc683b5d26ce2382a299269a451f7b437f322f"
+    },
+    {
+      "url": "https://select.cheap/2025-remote-office-trend-forecast-hardware-for-hybrid-collaboration/",
+      "target": ".recovery-public-stage/2025-remote-office-trend-forecast-hardware-for-hybrid-collaboration/index.html",
+      "sha256": "e904177d5212db7d616be2cf9168723f5cba667e1f4d902d8f7ceb05c5975efa"
+    },
+    {
+      "url": "https://select.cheap/2025-remote-work-office-essentials-budget-setup-guide-for-global-nomads/",
+      "target": ".recovery-public-stage/2025-remote-work-office-essentials-budget-setup-guide-for-global-nomads/index.html",
+      "sha256": "a0b05697c4cd423430b9616ff03d087f3299074162effbe4c942490719de3985"
+    },
+    {
+      "url": "https://select.cheap/_astro/_slug_.D0ikse9M.css",
+      "target": ".recovery-public-stage/_astro/_slug_.D0ikse9M.css",
+      "sha256": "4b0db5f6cd2155d21f67391705f7c38eaedc88a323403a6c70607b26c96b71c7"
+    },
+    {
+      "url": "https://select.cheap/about",
+      "target": ".recovery-public-stage/about.html",
+      "sha256": "e789dfc65d6f866588bb2e77edde7c33a7db425fcd98a72ad77c78f1abe42349"
+    },
+    {
+      "url": "https://select.cheap/affordable-software-deals-aggregator-legit-sites-for-discounted-licenses/",
+      "target": ".recovery-public-stage/affordable-software-deals-aggregator-legit-sites-for-discounted-licenses/index.html",
+      "sha256": "7b116a1dc500e5b2f9f1b4171722ca4f82fe69af10875e48f5f4ceaf3ee74cf0"
+    },
+    {
+      "url": "https://select.cheap/ai-tool-comparison-metrics-output-quality-speed-and-cost-per-query/",
+      "target": ".recovery-public-stage/ai-tool-comparison-metrics-output-quality-speed-and-cost-per-query/index.html",
+      "sha256": "62d3ef3198e1e79499f5b9c97c2d9fedfb44e52794b5de43af0eb43eed093dd8"
+    },
+    {
+      "url": "https://select.cheap/ai-tool-comparison-sites-how-to-evaluate-features-and-pricing-objectively/",
+      "target": ".recovery-public-stage/ai-tool-comparison-sites-how-to-evaluate-features-and-pricing-objectively/index.html",
+      "sha256": "e78a255ae62e35a4bd4666dd2c13b584c1b907065db6c9a31e0e597e0b7cbcd4"
+    },
+    {
+      "url": "https://select.cheap/ai-writing-tool-cost-per-word-quality-adjusted-ranking-for-content-creators/",
+      "target": ".recovery-public-stage/ai-writing-tool-cost-per-word-quality-adjusted-ranking-for-content-creators/index.html",
+      "sha256": "c5a07fa86ebae8a0b41ad6cea2f323544bdb888fa9ed795207f800b7f9ca9885"
+    },
+    {
+      "url": "https://select.cheap/arena-breakout-budget-gear-builds-best-value-loadouts-for-every-map/",
+      "target": ".recovery-public-stage/arena-breakout-budget-gear-builds-best-value-loadouts-for-every-map/index.html",
+      "sha256": "ad6aef215d6f30bb074db08498a55beb0c0dd5fcb13c0b43692f9face05b5046"
+    },
+    {
+      "url": "https://select.cheap/arena-breakout-market-flipping-arbitrage-opportunities-for-budget-builds/",
+      "target": ".recovery-public-stage/arena-breakout-market-flipping-arbitrage-opportunities-for-budget-builds/index.html",
+      "sha256": "e414cec0514a2ba0730546aee0ee6d9880f18203f2d650292e69b294153d3969"
+    },
+    {
+      "url": "https://select.cheap/arena-breakout-market-timing-buying-budget-gear-during-price-dips/",
+      "target": ".recovery-public-stage/arena-breakout-market-timing-buying-budget-gear-during-price-dips/index.html",
+      "sha256": "f0b5288bb424a61bf50d47f6c8a81e823c341cb0335e724c3eb4e22bbe58e9f7"
+    },
+    {
+      "url": "https://select.cheap/atm-dynamic-currency-conversion-how-to-spot-and-always-decline-safely/",
+      "target": ".recovery-public-stage/atm-dynamic-currency-conversion-how-to-spot-and-always-decline-safely/index.html",
+      "sha256": "4a9a77adf0009152e194715940817453e37b9a54eb6e400a31643a8d06ff9a3a"
+    },
+    {
+      "url": "https://select.cheap/atm-fee-free-withdrawal-bank-partnerships-and-multi-currency-card-options/",
+      "target": ".recovery-public-stage/atm-fee-free-withdrawal-bank-partnerships-and-multi-currency-card-options/index.html",
+      "sha256": "aeabb2fbb28a0a60bcce9c513e8e91e957842c38f9145fb104e6d5eb11332607"
+    },
+    {
+      "url": "https://select.cheap/australia-kmart-vs-bunnings-overlapping-tool-categories-and-price-comparison/",
+      "target": ".recovery-public-stage/australia-kmart-vs-bunnings-overlapping-tool-categories-and-price-comparison/index.html",
+      "sha256": "a679dbf6cccc8cba02570e053bea4906089f57ade523c6dd5f95ff99c249f430"
+    },
+    {
+      "url": "https://select.cheap/australia-online-tool-store-bnpl-afterpay-and-zip-experience-and-limits/",
+      "target": ".recovery-public-stage/australia-online-tool-store-bnpl-afterpay-and-zip-experience-and-limits/index.html",
+      "sha256": "54506e262a095b15797097a00018e4d34e44c03a787aee7e7e5cba9bd64237af"
+    },
+    {
+      "url": "https://select.cheap/australia-tool-store-student-discounts-loyalty-point-stacking-strategies/",
+      "target": ".recovery-public-stage/australia-tool-store-student-discounts-loyalty-point-stacking-strategies/index.html",
+      "sha256": "9742acf5d68fa31c52d1b1142344e9d0d88a81d3f10d092e67db719f8d5f2606"
+    },
+    {
+      "url": "https://select.cheap/best-budget-gear-2025-value-picks-across-tech-tools-and-travel/",
+      "target": ".recovery-public-stage/best-budget-gear-2025-value-picks-across-tech-tools-and-travel/index.html",
+      "sha256": "93e4e9f4b8466915563758205cb3549ace70ef63524cf04f3e9ff1161ced5d59"
+    },
+    {
+      "url": "https://select.cheap/best-budget-gear-cycle-options-in-india-brands-and-online-stores-ranked/",
+      "target": ".recovery-public-stage/best-budget-gear-cycle-options-in-india-brands-and-online-stores-ranked/index.html",
+      "sha256": "646e883e0d6f37d363757681eb54b051f2c3d616687efae0cd33229ab3b32b63"
+    },
+    {
+      "url": "https://select.cheap/best-budget-gear-for-arena-breakout-weapon-mods-and-armor-tier-list/",
+      "target": ".recovery-public-stage/best-budget-gear-for-arena-breakout-weapon-mods-and-armor-tier-list/index.html",
+      "sha256": "ccc7c5439305cc2299c011a4e666b26838502385d7f0b5c841a0bd70879f5bcc"
+    },
+    {
+      "url": "https://select.cheap/best-budget-gear-for-cycling-commuter-essentials-without-overspending/",
+      "target": ".recovery-public-stage/best-budget-gear-for-cycling-commuter-essentials-without-overspending/index.html",
+      "sha256": "067c1716feecce9bfdfe6dce6867f615da35e2da6be19d0962207d7c36437b87"
+    },
+    {
+      "url": "https://select.cheap/best-budget-gear-for-motorcycle-beginners-helmets-jackets-and-gloves/",
+      "target": ".recovery-public-stage/best-budget-gear-for-motorcycle-beginners-helmets-jackets-and-gloves/index.html",
+      "sha256": "90adcfed64d175061ea281930da197018b637535e3d8f379abeb820c95e64585"
+    },
+    {
+      "url": "https://select.cheap/best-budget-gear-for-your-bike-upgrades-that-improve-ride-quality-affordably/",
+      "target": ".recovery-public-stage/best-budget-gear-for-your-bike-upgrades-that-improve-ride-quality-affordably/index.html",
+      "sha256": "12d5a77df5ebe0a6bdc7aa75056616edc63de97bcfbb8e4763efea4945fce42e"
+    },
+    {
+      "url": "https://select.cheap/best-budget-gear-shifter-for-sim-racing-h-pattern-and-sequential-compared/",
+      "target": ".recovery-public-stage/best-budget-gear-shifter-for-sim-racing-h-pattern-and-sequential-compared/index.html",
+      "sha256": "680c4cb3a07a8a95b95bb8595f0cfd6bb53794fc76f4e5ea471980a9eead7b3a"
+    },
+    {
+      "url": "https://select.cheap/best-budget-geared-tripod-head-pan-and-tilt-vs-ball-head-for-video/",
+      "target": ".recovery-public-stage/best-budget-geared-tripod-head-pan-and-tilt-vs-ball-head-for-video/index.html",
+      "sha256": "52bee23faa46d015fee29bd8edbe452f0ecdb9daf65a13dbb0a2b9db09dd68f9"
+    },
+    {
+      "url": "https://select.cheap/best-digital-nomad-gear-lightweight-and-multi-functional-packing-list/",
+      "target": ".recovery-public-stage/best-digital-nomad-gear-lightweight-and-multi-functional-packing-list/index.html",
+      "sha256": "586d8cd2577e55fa30ac995c743d9f09b52dd3cc927a4aba1744dadc76aeee1d"
+    },
+    {
+      "url": "https://select.cheap/best-value-bicycle-groupset-shimano-sram-and-microshift-tier-comparison/",
+      "target": ".recovery-public-stage/best-value-bicycle-groupset-shimano-sram-and-microshift-tier-comparison/index.html",
+      "sha256": "82184f63602b0d4dc41fd80c4bc4c7a841d00c7e9074aaf0b1cb75a90bbacdc4"
+    },
+    {
+      "url": "https://select.cheap/bicycle-groupset-microshift-vs-shimano-tourney-shift-quality-and-weight/",
+      "target": ".recovery-public-stage/bicycle-groupset-microshift-vs-shimano-tourney-shift-quality-and-weight/index.html",
+      "sha256": "d0edae98e7869acaa62a3abb399e4396960bc43da6e7de5bfcb61a1f00c1a1c3"
+    },
+    {
+      "url": "https://select.cheap/budget-cycling-gear-checklist-helmet-lights-and-apparel-recommendations/",
+      "target": ".recovery-public-stage/budget-cycling-gear-checklist-helmet-lights-and-apparel-recommendations/index.html",
+      "sha256": "74e7d86dfab61e5b0ad6d2d796193afa16a8cda49ab2ce8c69383b26931de744"
+    },
+    {
+      "url": "https://select.cheap/budget-cycling-gloves-and-eyewear-multi-brand-fit-and-fog-resistance-test/",
+      "target": ".recovery-public-stage/budget-cycling-gloves-and-eyewear-multi-brand-fit-and-fog-resistance-test/index.html",
+      "sha256": "0ce70159f02cb964b5e3ed955c03e2fcd3c757d35f12bbed2d5c59b8b3954194"
+    },
+    {
+      "url": "https://select.cheap/budget-gaming-laptop-vs-desktop-performance-portability-and-upgrade-costs/",
+      "target": ".recovery-public-stage/budget-gaming-laptop-vs-desktop-performance-portability-and-upgrade-costs/index.html",
+      "sha256": "2fa0e76d78856209de6735555a9f52d38e176707b7979697f7666388cd5004ff"
+    },
+    {
+      "url": "https://select.cheap/budget-gaming-laptop-vs-ps5-decision-guide-exclusive-titles-and-upgrades/",
+      "target": ".recovery-public-stage/budget-gaming-laptop-vs-ps5-decision-guide-exclusive-titles-and-upgrades/index.html",
+      "sha256": "761732e1dd42de0107034bdce5b1b324125bb0d11373b649e5ee34c76ab324e4"
+    },
+    {
+      "url": "https://select.cheap/budget-gaming-laptop-vs-ps5-game-library-cost-and-long-term-value-analysis/",
+      "target": ".recovery-public-stage/budget-gaming-laptop-vs-ps5-game-library-cost-and-long-term-value-analysis/index.html",
+      "sha256": "45c0334ae7c06c83afe170e1033a7ff958cfecb55990a808adf270d8ce565e2a"
+    },
+    {
+      "url": "https://select.cheap/budget-gaming-laptop-vs-steam-deck-external-monitor-and-peripheral-support/",
+      "target": ".recovery-public-stage/budget-gaming-laptop-vs-steam-deck-external-monitor-and-peripheral-support/index.html",
+      "sha256": "9032b02d36195a4a2d34b42515df56d48ab4cf66f7d6885883b63dd6b5f6dcb0"
+    },
+    {
+      "url": "https://select.cheap/budget-gaming-laptop-vs-steam-deck-screen-size-keyboard-and-versatility/",
+      "target": ".recovery-public-stage/budget-gaming-laptop-vs-steam-deck-screen-size-keyboard-and-versatility/index.html",
+      "sha256": "79ae656a95da528480adc673726c6286b1fd0c69cfb922c5057346d02ac90801"
+    },
+    {
+      "url": "https://select.cheap/budget-gaming-pc-vs-laptop-thermal-performance-and-future-proofing-compared/",
+      "target": ".recovery-public-stage/budget-gaming-pc-vs-laptop-thermal-performance-and-future-proofing-compared/index.html",
+      "sha256": "f5edc334f3f10609d1ddeaeab3d018eb9f86cb004c1e1e94f93a63ff6dcc9acb"
+    },
+    {
+      "url": "https://select.cheap/budget-laptop-comparison-guide-operating-systems-and-use-case-matching/",
+      "target": ".recovery-public-stage/budget-laptop-comparison-guide-operating-systems-and-use-case-matching/index.html",
+      "sha256": "1838dbff99b394baeca7c1d385997cca6340b532c0e5b104e2130b2133785809"
+    },
+    {
+      "url": "https://select.cheap/budget-laptop-vs-chromebook-offline-capabilities-and-app-ecosystem-review/",
+      "target": ".recovery-public-stage/budget-laptop-vs-chromebook-offline-capabilities-and-app-ecosystem-review/index.html",
+      "sha256": "a1e274762f58dc00857a4aa4a068d607f42beebdf8989d10e20a4dee19755d03"
+    },
+    {
+      "url": "https://select.cheap/budget-laptop-vs-tablet-productivity-and-entertainment-trade-offs-explained/",
+      "target": ".recovery-public-stage/budget-laptop-vs-tablet-productivity-and-entertainment-trade-offs-explained/index.html",
+      "sha256": "eb82bc98bb20d72ff663fe4361598f86804090cba4e041d37df74535089c9b34"
+    },
+    {
+      "url": "https://select.cheap/budget-windows-laptop-vs-chromebook-schoolwork-and-media-consumption/",
+      "target": ".recovery-public-stage/budget-windows-laptop-vs-chromebook-schoolwork-and-media-consumption/index.html",
+      "sha256": "64544b315a833fcc92cffc0743cb11ae45b79a2ab44aea9f24b743580e16c3e7"
+    },
+    {
+      "url": "https://select.cheap/cheap-guitar-vs-expensive-guitar-playability-and-tone-wood-blind-test/",
+      "target": ".recovery-public-stage/cheap-guitar-vs-expensive-guitar-playability-and-tone-wood-blind-test/index.html",
+      "sha256": "eda3bd97526f9f8bc26f8a31bf6c95e4a9f07dc8c0ddf326927eee814aee3a87"
+    },
+    {
+      "url": "https://select.cheap/cheap-laptop-vs-tablet-buying-guide-keyboard-cases-and-stylus-support/",
+      "target": ".recovery-public-stage/cheap-laptop-vs-tablet-buying-guide-keyboard-cases-and-stylus-support/index.html",
+      "sha256": "ca8d046484d76290a8d0cb3e25b84304c2eb20dea015ddd11f7ff162a42bfb6c"
+    },
+    {
+      "url": "https://select.cheap/cheap-laptop-vs-tablet-showdown-multitasking-and-external-display-support/",
+      "target": ".recovery-public-stage/cheap-laptop-vs-tablet-showdown-multitasking-and-external-display-support/index.html",
+      "sha256": "bd0554e952b1a96a6683f0ef02efe3178dc0c507dc7b90d92ef7c62ffb7f72f2"
+    },
+    {
+      "url": "https://select.cheap/cheap-tools-australia-best-online-and-in-store-retailers-ranked/",
+      "target": ".recovery-public-stage/cheap-tools-australia-best-online-and-in-store-retailers-ranked/index.html",
+      "sha256": "1c5c6bb0fc1812d3a160f24f4e434003efea00afc1f04c07fc10231241fb3036"
+    },
+    {
+      "url": "https://select.cheap/cheap-tools-buying-guide-when-budget-options-are-good-enough/",
+      "target": ".recovery-public-stage/cheap-tools-buying-guide-when-budget-options-are-good-enough/index.html",
+      "sha256": "ce83f1cf36d5325610514989e74310b660b170ff592b59023c7a195b8d7e9853"
+    },
+    {
+      "url": "https://select.cheap/cheap-tools-ireland-domestic-shops-and-cross-border-shipping-options/",
+      "target": ".recovery-public-stage/cheap-tools-ireland-domestic-shops-and-cross-border-shipping-options/index.html",
+      "sha256": "d6d1d2e3454a40e79137d285856d002f58599789aa1a11c93a9b1a5d4832bae5"
+    },
+    {
+      "url": "https://select.cheap/cheap-tools-near-me-how-to-locate-discount-hardware-stores-locally/",
+      "target": ".recovery-public-stage/cheap-tools-near-me-how-to-locate-discount-hardware-stores-locally/index.html",
+      "sha256": "ffa3737168a2aad7acb51f8962417d92e5d42ea7dcc65ac86b361b47e42d3601"
+    },
+    {
+      "url": "https://select.cheap/cheap-tools-online-australia-shipping-cost-comparison-and-return-policies/",
+      "target": ".recovery-public-stage/cheap-tools-online-australia-shipping-cost-comparison-and-return-policies/index.html",
+      "sha256": "4ff947d82579afe282b0069276249b9257fbfe67be60eea90d52a17625add46b"
+    },
+    {
+      "url": "https://select.cheap/cheap-tools-online-platform-trustworthiness-and-brand-screening-tips/",
+      "target": ".recovery-public-stage/cheap-tools-online-platform-trustworthiness-and-brand-screening-tips/index.html",
+      "sha256": "cc86791f4ddfe7f1b95b8ab71efd393b8ec108381150bdec917b0d4feddfbfcb"
+    },
+    {
+      "url": "https://select.cheap/cheap-tools-store-chains-membership-and-loyalty-discount-programs-compared/",
+      "target": ".recovery-public-stage/cheap-tools-store-chains-membership-and-loyalty-discount-programs-compared/index.html",
+      "sha256": "2e7c92ec78c3e563761a061f873bc75afd0a5eef48e5a0a66b95cfead0f028b1"
+    },
+    {
+      "url": "https://select.cheap/cheap-tools-uk-high-street-brands-and-online-clearance-sections/",
+      "target": ".recovery-public-stage/cheap-tools-uk-high-street-brands-and-online-clearance-sections/index.html",
+      "sha256": "5055b9096298d8b7180e0c9bb0a1405c342eeb370dd0826d28c5eb7248ba7dde"
+    },
+    {
+      "url": "https://select.cheap/cheap-toothpaste-vs-expensive-ingredient-analysis-and-whitening-efficacy/",
+      "target": ".recovery-public-stage/cheap-toothpaste-vs-expensive-ingredient-analysis-and-whitening-efficacy/index.html",
+      "sha256": "e0e59023349e8a507b61baf8e7266185354ee77fe4b3e8040d9630e9bc04a1a0"
+    },
+    {
+      "url": "https://select.cheap/cheap-vs-expensive-a-framework-for-evaluating-everyday-purchases/",
+      "target": ".recovery-public-stage/cheap-vs-expensive-a-framework-for-evaluating-everyday-purchases/index.html",
+      "sha256": "64c49f3a86428a09909506b6ee3f99869f41ba05ede24c21bcf365c3927b921a"
+    },
+    {
+      "url": "https://select.cheap/cheap-vs-expensive-engine-oil-lab-test-results-on-wear-protection/",
+      "target": ".recovery-public-stage/cheap-vs-expensive-engine-oil-lab-test-results-on-wear-protection/index.html",
+      "sha256": "c63adfb41ff85e4935353a0c470f1faf5327b0c9503e133a1d697792e31424a5"
+    },
+    {
+      "url": "https://select.cheap/cheap-vs-expensive-pasta-blind-taste-test-and-durum-wheat-content-analysis/",
+      "target": ".recovery-public-stage/cheap-vs-expensive-pasta-blind-taste-test-and-durum-wheat-content-analysis/index.html",
+      "sha256": "4d890cf604cbc832136934938c0bcd04e3652379fca2aa0101582e32da7dcbe7"
+    },
+    {
+      "url": "https://select.cheap/cheap-vs-expensive-perfume-longevity-projection-and-sillage-comparison/",
+      "target": ".recovery-public-stage/cheap-vs-expensive-perfume-longevity-projection-and-sillage-comparison/index.html",
+      "sha256": "646fd3adc4160fc8ef520432d42418b5c1a0005bd50f6157105e62b906b3b9cb"
+    },
+    {
+      "url": "https://select.cheap/cheap-vs-expensive-stainless-steel-pan-heat-distribution-and-durability-test/",
+      "target": ".recovery-public-stage/cheap-vs-expensive-stainless-steel-pan-heat-distribution-and-durability-test/index.html",
+      "sha256": "459fade01f0fd92779fde381e5e3a0a04c9c1ea42e7a6bb431c44493a3ef66eb"
+    },
+    {
+      "url": "https://select.cheap/cheap-vs-expensive-suit-construction-details-and-fabric-quality-breakdown/",
+      "target": ".recovery-public-stage/cheap-vs-expensive-suit-construction-details-and-fabric-quality-breakdown/index.html",
+      "sha256": "dfd7e636d3e556370c9b220728c6e01c0e6c88a065748da3a375e5758f3cd9dd"
+    },
+    {
+      "url": "https://select.cheap/cheap-vs-expensive-whetstone-grit-consistency-and-sharpening-speed-tested/",
+      "target": ".recovery-public-stage/cheap-vs-expensive-whetstone-grit-consistency-and-sharpening-speed-tested/index.html",
+      "sha256": "856fd35ff13f00fbe063899709856e541c407a124f77b4d8d8b0cba94bf506ee"
+    },
+    {
+      "url": "https://select.cheap/chromebook-linux-container-vs-budget-windows-wsl-developer-environment-speed/",
+      "target": ".recovery-public-stage/chromebook-linux-container-vs-budget-windows-wsl-developer-environment-speed/index.html",
+      "sha256": "e759ff9570bb29a1db6bcb55c0a21ffabcc6c9c01876f4c8e43adebc1d4d0c9a"
+    },
+    {
+      "url": "https://select.cheap/claude-code-api-token-cost-control-usage-caps-and-budget-alert-setup/",
+      "target": ".recovery-public-stage/claude-code-api-token-cost-control-usage-caps-and-budget-alert-setup/index.html",
+      "sha256": "70b9edecab1deac20052057e94e50db1f4d7074de7c4b35b3e020202e932b83c"
+    },
+    {
+      "url": "https://select.cheap/claude-code-plan-comparison-individual-pro-vs-team-subscription-cost-analysis/",
+      "target": ".recovery-public-stage/claude-code-plan-comparison-individual-pro-vs-team-subscription-cost-analysis/index.html",
+      "sha256": "d6364d0fad87d2368ecdc20dec23dfb10bd73c660fc3354f431eb9df978e7aa3"
+    },
+    {
+      "url": "https://select.cheap/claude-code-subscription-savings-student-and-freelancer-discount-strategies/",
+      "target": ".recovery-public-stage/claude-code-subscription-savings-student-and-freelancer-discount-strategies/index.html",
+      "sha256": "fbd6dca956538ca493d85f749d92b50b898e7514c5e57481a3318b4dd9ae6964"
+    },
+    {
+      "url": "https://select.cheap/cornwell-tools-student-discount-denial-reasons-and-appeal-process/",
+      "target": ".recovery-public-stage/cornwell-tools-student-discount-denial-reasons-and-appeal-process/index.html",
+      "sha256": "0a731b03d5550af8571d1a6f8bdbcd7b17edf67561a6c5b923b5ace6534a9f76"
+    },
+    {
+      "url": "https://select.cheap/cornwell-tools-student-discount-eligibility-and-step-by-step-application/",
+      "target": ".recovery-public-stage/cornwell-tools-student-discount-eligibility-and-step-by-step-application/index.html",
+      "sha256": "cc275274724a60ce06353eb792640640af7852b7c88800a5c4390433168b64fc"
+    },
+    {
+      "url": "https://select.cheap/cornwell-tools-student-discount-renewal-terms-and-eligible-programs-list/",
+      "target": ".recovery-public-stage/cornwell-tools-student-discount-renewal-terms-and-eligible-programs-list/index.html",
+      "sha256": "3aaabec80e89acbb33a066ae2fa7e23a500a58ca07d070445617c47b26325c00"
+    },
+    {
+      "url": "https://select.cheap/cycling-gear-savings-used-market-tips-and-off-season-discount-timing/",
+      "target": ".recovery-public-stage/cycling-gear-savings-used-market-tips-and-off-season-discount-timing/index.html",
+      "sha256": "5d419b149bc59d751b24039fad596383b56065ed121321005078c8e5a2c75f4c"
+    },
+    {
+      "url": "https://select.cheap/dell-budget-laptop-vs-desktop-decision-tree-portability-and-repair-costs/",
+      "target": ".recovery-public-stage/dell-budget-laptop-vs-desktop-decision-tree-portability-and-repair-costs/index.html",
+      "sha256": "47afcd4513e375e36ec9d18bf7123d82171c78bf82517b1a10fb5781ffbf944a"
+    },
+    {
+      "url": "https://select.cheap/dell-budget-laptop-vs-desktop-expandability-and-display-output-comparison/",
+      "target": ".recovery-public-stage/dell-budget-laptop-vs-desktop-expandability-and-display-output-comparison/index.html",
+      "sha256": "1f19cff969832f2d451a285cb749d7592774487126f47c4b539d692790bcba24"
+    },
+    {
+      "url": "https://select.cheap/delta-force-best-budget-gear-operator-loadouts-and-weapon-tuning-guide/",
+      "target": ".recovery-public-stage/delta-force-best-budget-gear-operator-loadouts-and-weapon-tuning-guide/index.html",
+      "sha256": "c3ea15d7fc35aad83cd7e4d8a58c0728c1289a0270c7c09f2a0a436dfb8ed709"
+    },
+    {
+      "url": "https://select.cheap/delta-force-budget-loadouts-zero-to-hero-gear-progression-paths/",
+      "target": ".recovery-public-stage/delta-force-budget-loadouts-zero-to-hero-gear-progression-paths/index.html",
+      "sha256": "d5bebb88efb9b2dc884a365a57f81c597760f07916e099433d5742d7d2dd9fc5"
+    },
+    {
+      "url": "https://select.cheap/delta-force-container-value-defining-budget-gear-through-slot-efficiency/",
+      "target": ".recovery-public-stage/delta-force-container-value-defining-budget-gear-through-slot-efficiency/index.html",
+      "sha256": "ebfee86b8f44ebcd0396ac291b7ec970b62e65c43af3b62498475168488f4377"
+    },
+    {
+      "url": "https://select.cheap/delta-force-value-loadout-logic-ammo-efficiency-and-armor-tier-selection/",
+      "target": ".recovery-public-stage/delta-force-value-loadout-logic-ammo-efficiency-and-armor-tier-selection/index.html",
+      "sha256": "dfda202abf74688482ab098dcd92cb0d0ca901b2aa3130faccf9b22915f4e7e4"
+    },
+    {
+      "url": "https://select.cheap/desktop-used-gpu-vs-budget-gaming-laptop-warranty-and-failure-rate-comparison/",
+      "target": ".recovery-public-stage/desktop-used-gpu-vs-budget-gaming-laptop-warranty-and-failure-rate-comparison/index.html",
+      "sha256": "d0089ff848a70428ff72c0e24a051d8e4325a5eca20b59d3775b09c433392adb"
+    },
+    {
+      "url": "https://select.cheap/desktop-vs-laptop-at-the-same-price-point-benchmark-scores-and-thermals/",
+      "target": ".recovery-public-stage/desktop-vs-laptop-at-the-same-price-point-benchmark-scores-and-thermals/index.html",
+      "sha256": "b99696de09de0a6f34233c506444ffafa4be375a764fd0bce6333c71fa9a2058"
+    },
+    {
+      "url": "https://select.cheap/digital-nomad-gear-essentials-must-have-items-for-remote-work-abroad/",
+      "target": ".recovery-public-stage/digital-nomad-gear-essentials-must-have-items-for-remote-work-abroad/index.html",
+      "sha256": "fe9dc8c3c81fb5b57dc20c97c2fc1f29bb8d917fe73c4ac1cc132f8f3724dac3"
+    },
+    {
+      "url": "https://select.cheap/digital-nomad-gear-list-printable-checklist-with-weight-and-size-notes/",
+      "target": ".recovery-public-stage/digital-nomad-gear-list-printable-checklist-with-weight-and-size-notes/index.html",
+      "sha256": "8beba46f79daf3819134fa64f8431827735288efe84bc9d7941c40d7b3019843"
+    },
+    {
+      "url": "https://select.cheap/digital-nomad-global-esim-vs-pocket-wifi-data-cost-and-coverage-analysis/",
+      "target": ".recovery-public-stage/digital-nomad-global-esim-vs-pocket-wifi-data-cost-and-coverage-analysis/index.html",
+      "sha256": "23effaa028f73205d412b43fbbc18154e62c21539dad2799db3c8913fc7ecc3e"
+    },
+    {
+      "url": "https://select.cheap/digital-nomad-power-solutions-power-bank-capacity-and-solar-charging-kits/",
+      "target": ".recovery-public-stage/digital-nomad-power-solutions-power-bank-capacity-and-solar-charging-kits/index.html",
+      "sha256": "af87f51abfe573fbcc75d48159a08f90309b8986993a54ac20f3b69d3f0bc212"
+    },
+    {
+      "url": "https://select.cheap/digital-nomad-tech-gear-power-banks-adapters-and-portable-monitors/",
+      "target": ".recovery-public-stage/digital-nomad-tech-gear-power-banks-adapters-and-portable-monitors/index.html",
+      "sha256": "c18dca3c7914fc808125bbcd8a4bf5285390084c06ddf36f8b4e5ec1443fd3d5"
+    },
+    {
+      "url": "https://select.cheap/digital-nomad-travel-gear-lightweight-mod-cutting-weight-without-sacrifice/",
+      "target": ".recovery-public-stage/digital-nomad-travel-gear-lightweight-mod-cutting-weight-without-sacrifice/index.html",
+      "sha256": "418bf7c32d8ab95ca64f00b2e3514cf92e817b644ae31edce4fd160226cc5550"
+    },
+    {
+      "url": "https://select.cheap/digital-nomad-travel-gear-packing-cubes-and-organization-hacks/",
+      "target": ".recovery-public-stage/digital-nomad-travel-gear-packing-cubes-and-organization-hacks/index.html",
+      "sha256": "4f0bb68dc01f9e06de55a1927c3ac308b94ee5add29dde0e99f93763c4032da9"
+    },
+    {
+      "url": "https://select.cheap/discount-tool-store-chains-harbor-freight-princess-auto-and-global-equivalents/",
+      "target": ".recovery-public-stage/discount-tool-store-chains-harbor-freight-princess-auto-and-global-equivalents/index.html",
+      "sha256": "8b46254753866aa3385bc5ec1db5cc84571da582edf9c1b72515cac9b8e29f90"
+    },
+    {
+      "url": "https://select.cheap/discounted-software-subscription-aggregator-stacksocial-and-humble-bundle-tips/",
+      "target": ".recovery-public-stage/discounted-software-subscription-aggregator-stacksocial-and-humble-bundle-tips/index.html",
+      "sha256": "3ed501410462a07e88059fb84a7eceee9654dff155f75c904c8ff99ea377f878"
+    },
+    {
+      "url": "https://select.cheap/electric-bill-saving-hacks-appliance-efficiency-and-phantom-load-reduction/",
+      "target": ".recovery-public-stage/electric-bill-saving-hacks-appliance-efficiency-and-phantom-load-reduction/index.html",
+      "sha256": "ee82bd06460a88c7639797196eb35577a3d2a7f1e1b934180f654a377c5eefa2"
+    },
+    {
+      "url": "https://select.cheap/electricity-usage-analyzer-smart-plug-data-and-vampire-drain-identification/",
+      "target": ".recovery-public-stage/electricity-usage-analyzer-smart-plug-data-and-vampire-drain-identification/index.html",
+      "sha256": "e356d985db18ce68f4c60c091f164abc370a1bb2b57ebbecf5f77b559b330ce5"
+    },
+    {
+      "url": "https://select.cheap/engine-oil-change-interval-risk-assessment-of-budget-full-synthetic-blends/",
+      "target": ".recovery-public-stage/engine-oil-change-interval-risk-assessment-of-budget-full-synthetic-blends/index.html",
+      "sha256": "7bf02445289478b089b14a7bc31f56d83fa896e2025d91d0384e2fc8b39fbec9"
+    },
+    {
+      "url": "https://select.cheap/entry-level-cycling-gear-high-value-picks-for-safety-and-comfort/",
+      "target": ".recovery-public-stage/entry-level-cycling-gear-high-value-picks-for-safety-and-comfort/index.html",
+      "sha256": "1469c2f4ae0a485aab08230efbed3cf248fc6bc52a9172082aeb570681780c16"
+    },
+    {
+      "url": "https://select.cheap/essay-on-saving-money-outline-thesis-statements-and-supporting-arguments/",
+      "target": ".recovery-public-stage/essay-on-saving-money-outline-thesis-statements-and-supporting-arguments/index.html",
+      "sha256": "e1552a74821398b03c1e5d9f495be0570829892b45f3056d031d80f0a669574a"
+    },
+    {
+      "url": "https://select.cheap/favicon.svg",
+      "target": ".recovery-public-stage/favicon.svg",
+      "sha256": "75142cfc8d4fe7c27c021de120ce9cb6dbd65e8439709a2c498f8705ab3e1c05"
+    },
+    {
+      "url": "https://select.cheap/gaming-laptop-egpu-vs-budget-desktop-cost-per-frame-and-bottleneck-analysis/",
+      "target": ".recovery-public-stage/gaming-laptop-egpu-vs-budget-desktop-cost-per-frame-and-bottleneck-analysis/index.html",
+      "sha256": "072b95948cdc984e22a6a9fc27d7637a65cac805b0fa3bd44e3e1cc87ec0f4b2"
+    },
+    {
+      "url": "https://select.cheap/goal-based-saving-step-plan-short-term-vs-long-term-bucket-strategy/",
+      "target": ".recovery-public-stage/goal-based-saving-step-plan-short-term-vs-long-term-bucket-strategy/index.html",
+      "sha256": "dca3adaea4db1dbcff315e3f23d5528db22eadb56384fb65fa8a5f4a18f19beb"
+    },
+    {
+      "url": "https://select.cheap/hello-world/",
+      "target": ".recovery-public-stage/hello-world/index.html",
+      "sha256": "46cfa24dddb3b987c214c3b317240213759003a1c575a6d70b364aa1669d127c"
+    },
+    {
+      "url": "https://select.cheap/home-office-essentials-checklist-productivity-on-a-startup-budget/",
+      "target": ".recovery-public-stage/home-office-essentials-checklist-productivity-on-a-startup-budget/index.html",
+      "sha256": "5da875b6c89023c38676137b1a07703c5120f459b551854afcf1669d89fccecc"
+    },
+    {
+      "url": "https://select.cheap/home-office-lighting-setup-natural-light-maximization-and-led-panel-placement/",
+      "target": ".recovery-public-stage/home-office-lighting-setup-natural-light-maximization-and-led-panel-placement/index.html",
+      "sha256": "09e64173c0e5802af9c6b9c8709e9896d6411d761be9f159aed2c92a3aef8629"
+    },
+    {
+      "url": "https://select.cheap/how-to-avoid-atm-withdrawal-fees-worldwide-multi-currency-account-tips/",
+      "target": ".recovery-public-stage/how-to-avoid-atm-withdrawal-fees-worldwide-multi-currency-account-tips/index.html",
+      "sha256": "d5a2446198e959ab3067cdb2ddbf531f6b26966d903467b7e91c2ca9ee2e58b5"
+    },
+    {
+      "url": "https://select.cheap/how-to-save-money-as-a-kid-allowance-budgeting-and-small-job-ideas/",
+      "target": ".recovery-public-stage/how-to-save-money-as-a-kid-allowance-budgeting-and-small-job-ideas/index.html",
+      "sha256": "b24a29ac67fc4fcadb5f4f011ff8aa8b4ce3ea8f9904ff033e438d5eec0b591a"
+    },
+    {
+      "url": "https://select.cheap/how-to-save-money-at-atms-dcc-avoidance-and-fee-free-network-selection/",
+      "target": ".recovery-public-stage/how-to-save-money-at-atms-dcc-avoidance-and-fee-free-network-selection/index.html",
+      "sha256": "4b2e89cc37421efa1f98e20c7e9d27d0e66a83dd873979316410804a892523c4"
+    },
+    {
+      "url": "https://select.cheap/how-to-save-money-essay-framework-behavioral-economics-of-saving/",
+      "target": ".recovery-public-stage/how-to-save-money-essay-framework-behavioral-economics-of-saving/index.html",
+      "sha256": "22c1efafbaa36d670099d48374c059496cfaa511f8f052b4be452dcd1bbeae59"
+    },
+    {
+      "url": "https://select.cheap/how-to-save-money-on-claude-code-token-usage-optimization-and-plan-choice/",
+      "target": ".recovery-public-stage/how-to-save-money-on-claude-code-token-usage-optimization-and-plan-choice/index.html",
+      "sha256": "be9490e44373653dfaa1c3a2351756d7f68aa6f1aae96b2e3a86e316ccfbacc1"
+    },
+    {
+      "url": "https://select.cheap/how-to-save-money-on-electric-bills-smart-plugs-and-time-of-use-rates/",
+      "target": ".recovery-public-stage/how-to-save-money-on-electric-bills-smart-plugs-and-time-of-use-rates/index.html",
+      "sha256": "cc32ea763d3ce799bbfe40ac4cedc76692fcb417aa7411b0293c12821db537ad"
+    },
+    {
+      "url": "https://select.cheap/how-to-save-money-on-groceries-meal-planning-and-bulk-buying-strategies/",
+      "target": ".recovery-public-stage/how-to-save-money-on-groceries-meal-planning-and-bulk-buying-strategies/index.html",
+      "sha256": "9e78c9fcafc6be894cd88274d5982994241bebf4581a033b807a9d337f7ab41c"
+    },
+    {
+      "url": "https://select.cheap/how-to-save-money-pdf-free-downloadable-guides-with-actionable-tips/",
+      "target": ".recovery-public-stage/how-to-save-money-pdf-free-downloadable-guides-with-actionable-tips/index.html",
+      "sha256": "ed58183bc50a59e32ceac0c80af1013566cdd763ca09b9c1b7a57feda7f77b8e"
+    },
+    {
+      "url": "https://select.cheap/how-to-save-money-tips-daily-habits-that-compound-over-time/",
+      "target": ".recovery-public-stage/how-to-save-money-tips-daily-habits-that-compound-over-time/index.html",
+      "sha256": "9ef9cf5e8c51b18ac72ca3120b154a54d9cbc1445b97eccd2e4ca2b93b96f28d"
+    },
+    {
+      "url": "https://select.cheap/how-to-save-money-to-buy-something-sinking-funds-and-timeline-setting/",
+      "target": ".recovery-public-stage/how-to-save-money-to-buy-something-sinking-funds-and-timeline-setting/index.html",
+      "sha256": "34b76882cf487b0cf40c0dbe19fba88d4290efd6f3cf832d28cd0d5c4f8397b1"
+    },
+    {
+      "url": "https://select.cheap/how-to-save-money-with-goal-based-planning-templates-for-students/",
+      "target": ".recovery-public-stage/how-to-save-money-with-goal-based-planning-templates-for-students/index.html",
+      "sha256": "3a12f03a3b9fdf76f9797dd366b4985386d48b09b858d8cdf4f08108872f6c57"
+    },
+    {
+      "url": "https://select.cheap/india-cycle-accessories-amazon-vs-flipkart-price-tracking-and-seller-ratings/",
+      "target": ".recovery-public-stage/india-cycle-accessories-amazon-vs-flipkart-price-tracking-and-seller-ratings/index.html",
+      "sha256": "697e63ad4fc917801266a8bd64ab787b22595fdfffd527f6349ca61cf9391e14"
+    },
+    {
+      "url": "https://select.cheap/india-cycling-budget-allocation-bike-upgrades-vs-personal-protective-equipment/",
+      "target": ".recovery-public-stage/india-cycling-budget-allocation-bike-upgrades-vs-personal-protective-equipment/index.html",
+      "sha256": "7c85e649e29bd2aa29ef09e55b003d2ccf83dddd6be28615640bacd17036b7d1"
+    },
+    {
+      "url": "https://select.cheap/india-cycling-gear-online-platform-trust-scores-and-payment-gateway-options/",
+      "target": ".recovery-public-stage/india-cycling-gear-online-platform-trust-scores-and-payment-gateway-options/index.html",
+      "sha256": "5de823b0b345b87a6dc1de6ff6cc888934573d97354d8657929d01369cbd395b"
+    },
+    {
+      "url": "https://select.cheap/informational-content-ideas-evergreen-saving-and-tool-knowledge-topics/",
+      "target": ".recovery-public-stage/informational-content-ideas-evergreen-saving-and-tool-knowledge-topics/index.html",
+      "sha256": "1c5d2fb5a28b958e57baf64b84e203963ea938e5f9b1f9a0c10cca4e552221ff"
+    },
+    {
+      "url": "https://select.cheap/ipad-vs-budget-laptop-student-note-taking-and-light-productivity-compared/",
+      "target": ".recovery-public-stage/ipad-vs-budget-laptop-student-note-taking-and-light-productivity-compared/index.html",
+      "sha256": "075ee0c06734db8d4d805d6a1fa05fca59653dac0ceae3a0803d47b03dae2700"
+    },
+    {
+      "url": "https://select.cheap/ipad-vs-budget-laptop-value-comparison-note-taking-apps-and-file-management/",
+      "target": ".recovery-public-stage/ipad-vs-budget-laptop-value-comparison-note-taking-apps-and-file-management/index.html",
+      "sha256": "ea89c15dbf2816d0af4cb337a1d46a1f7c12e13d420cade013e5b826a508de47"
+    },
+    {
+      "url": "https://select.cheap/ireland-hardware-click-and-collect-online-order-to-pickup-time-efficiency/",
+      "target": ".recovery-public-stage/ireland-hardware-click-and-collect-online-order-to-pickup-time-efficiency/index.html",
+      "sha256": "bcf6142bfe5702b234aec8baaba2bbea8a55b4e3ca863ccd85d5d1f50b9d69fe"
+    },
+    {
+      "url": "https://select.cheap/ireland-tool-import-duties-post-brexit-customs-and-vat-calculation-guide/",
+      "target": ".recovery-public-stage/ireland-tool-import-duties-post-brexit-customs-and-vat-calculation-guide/index.html",
+      "sha256": "d3e3c6ecc6f262a8f4829903dc8a78ed892cda804354bd247731f8b073eb50af"
+    },
+    {
+      "url": "https://select.cheap/legit-cheap-software-licenses-how-to-verify-reseller-authorization/",
+      "target": ".recovery-public-stage/legit-cheap-software-licenses-how-to-verify-reseller-authorization/index.html",
+      "sha256": "e05c792616654d8a21b081fc3dc2514a65587fdf0d3304ab81f2c2b5bc46a16e"
+    },
+    {
+      "url": "https://select.cheap/local-tool-store-sale-alerts-app-notifications-and-flyer-scanning-methods/",
+      "target": ".recovery-public-stage/local-tool-store-sale-alerts-app-notifications-and-flyer-scanning-methods/index.html",
+      "sha256": "59c7e25a6b2b9a38cf0d95501f8fd252a967a6771611adbc4d7377b4f48ca177"
+    },
+    {
+      "url": "https://select.cheap/low-cost-windows-laptop-vs-chromebook-software-compatibility-and-storage/",
+      "target": ".recovery-public-stage/low-cost-windows-laptop-vs-chromebook-software-compatibility-and-storage/index.html",
+      "sha256": "e7a5dd709abfa087d2b2d5eca7291c66adce0fd46b143aa90d94d5de883938d7"
+    },
+    {
+      "url": "https://select.cheap/mac-education-discount-tools-bundled-software-and-accessory-savings/",
+      "target": ".recovery-public-stage/mac-education-discount-tools-bundled-software-and-accessory-savings/index.html",
+      "sha256": "7c264caa49a62847ced2e3eab1cbc0ce2997088d939dec754a34d32c5e874107"
+    },
+    {
+      "url": "https://select.cheap/mac-student-discount-tools-apple-education-store-vs-retailer-offers/",
+      "target": ".recovery-public-stage/mac-student-discount-tools-apple-education-store-vs-retailer-offers/index.html",
+      "sha256": "79a99bf9ee3f130a7151fac486a67cd57e1c6f93d75607dca7bc8cc300ed58bf"
+    },
+    {
+      "url": "https://select.cheap/mac-student-discount-tools-education-pricing-and-third-party-deal-comparison/",
+      "target": ".recovery-public-stage/mac-student-discount-tools-education-pricing-and-third-party-deal-comparison/index.html",
+      "sha256": "57407b2303f6ba5d8e0b7568090933764506aa25212b703224340bb1ae132c29"
+    },
+    {
+      "url": "https://select.cheap/marketplace-reselling-tips-buying-and-selling-used-tools-for-profit/",
+      "target": ".recovery-public-stage/marketplace-reselling-tips-buying-and-selling-used-tools-for-profit/index.html",
+      "sha256": "a210043868c56d62b57cfe3a526324fbeebe118d4b076e40270bb1f5dd4d6ae7"
+    },
+    {
+      "url": "https://select.cheap/matco-tools-student-discount-participating-schools-and-verification-methods/",
+      "target": ".recovery-public-stage/matco-tools-student-discount-participating-schools-and-verification-methods/index.html",
+      "sha256": "a872d951b49da4bf762574d9ce9294a0c776328ae00abf564c6f110675ae558a"
+    },
+    {
+      "url": "https://select.cheap/matco-tools-student-discount-program-how-to-verify-and-apply-successfully/",
+      "target": ".recovery-public-stage/matco-tools-student-discount-program-how-to-verify-and-apply-successfully/index.html",
+      "sha256": "44248cd91993c960390748a5b97299acecbed495f293f98dc606844eb3b80a80"
+    },
+    {
+      "url": "https://select.cheap/matco-tools-student-discount-updates-policy-changes-and-renewal-deadlines/",
+      "target": ".recovery-public-stage/matco-tools-student-discount-updates-policy-changes-and-renewal-deadlines/index.html",
+      "sha256": "03ba984968a1605f4d0cc968812de3dda6e9ed2212d2fa7ba036153bdf28da32"
+    },
+    {
+      "url": "https://select.cheap/milwaukee-tools-student-discount-eligibility-verification-and-claim-process/",
+      "target": ".recovery-public-stage/milwaukee-tools-student-discount-eligibility-verification-and-claim-process/index.html",
+      "sha256": "e04a3f0a41563dadb94e6edd3beda835bb58217e7f45786a918e2e9c2f48a2c1"
+    },
+    {
+      "url": "https://select.cheap/milwaukee-tools-student-discount-seasonal-promotions-and-bundle-deals/",
+      "target": ".recovery-public-stage/milwaukee-tools-student-discount-seasonal-promotions-and-bundle-deals/index.html",
+      "sha256": "bfd4bdcdd06d5c2d1c771b56c0ed81d69247c09bc4c4ba01bda81d3f347fb4dd"
+    },
+    {
+      "url": "https://select.cheap/milwaukee-tools-student-promotion-calendar-when-to-expect-the-best-deals/",
+      "target": ".recovery-public-stage/milwaukee-tools-student-promotion-calendar-when-to-expect-the-best-deals/index.html",
+      "sha256": "1266e3b0fea567d144166f82c1f7892d13118a1cb9fedc0c01fb2b430f9fa65b"
+    },
+    {
+      "url": "https://select.cheap/money-saving-guide-pdf-curated-collection-of-printable-worksheets/",
+      "target": ".recovery-public-stage/money-saving-guide-pdf-curated-collection-of-printable-worksheets/index.html",
+      "sha256": "542891a2208e7b498652d032b572d92f9f64bec15ba57da1ba8b002d4d8ab49d"
+    },
+    {
+      "url": "https://select.cheap/motorcycle-helmet-ece-2206-vs-dot-affordable-models-safety-test-roundup/",
+      "target": ".recovery-public-stage/motorcycle-helmet-ece-2206-vs-dot-affordable-models-safety-test-roundup/index.html",
+      "sha256": "72279854f728d963e1d5a9cc8ad3796f68f089517444be4c3459a3c295bde700"
+    },
+    {
+      "url": "https://select.cheap/motorcycle-riding-gear-on-a-budget-all-season-versatility-and-certifications/",
+      "target": ".recovery-public-stage/motorcycle-riding-gear-on-a-budget-all-season-versatility-and-certifications/index.html",
+      "sha256": "97de4feb841479ee7ea7724fbe07ab726d20f697bda6b8734bdaf510ce4fda87"
+    },
+    {
+      "url": "https://select.cheap/nearby-discount-tool-stores-map-search-techniques-and-inventory-checkers/",
+      "target": ".recovery-public-stage/nearby-discount-tool-stores-map-search-techniques-and-inventory-checkers/index.html",
+      "sha256": "32f7d7598ab86f5238835adb7ed50ed8b438ed5bbb7493d7d10addb258ebf0ca"
+    },
+    {
+      "url": "https://select.cheap/og-image.jpg",
+      "target": ".recovery-public-stage/og-image.jpg",
+      "sha256": "e7111434a989fd10c5ae3a1f500bd67f69699fc8ff6d54a53a9eaffb06889081"
+    },
+    {
+      "url": "https://select.cheap/pasta-ingredient-label-semolina-content-and-protein-in-budget-brands/",
+      "target": ".recovery-public-stage/pasta-ingredient-label-semolina-content-and-protein-in-budget-brands/index.html",
+      "sha256": "26156d4e4978a56bdb63529e6763a6b3d13d2b55c111b980cda45c1150751636"
+    },
+    {
+      "url": "https://select.cheap/perfume-oil-concentration-how-to-layer-cheap-scents-for-longer-longevity/",
+      "target": ".recovery-public-stage/perfume-oil-concentration-how-to-layer-cheap-scents-for-longer-longevity/index.html",
+      "sha256": "8e96bc452066221a9b55e2449eb6ca1dfbf7272dbcdb31dd2b212a004b9f993f"
+    },
+    {
+      "url": "https://select.cheap/power-tool-comparison-site-feature-filtering-and-user-review-analysis/",
+      "target": ".recovery-public-stage/power-tool-comparison-site-feature-filtering-and-user-review-analysis/index.html",
+      "sha256": "464a43b5d2b69b7b904712897cd1c45745bfd75c68db15b2cf2d77492e87b3da"
+    },
+    {
+      "url": "https://select.cheap/power-tool-comparison-websites-side-by-side-spec-analysis-and-ratings/",
+      "target": ".recovery-public-stage/power-tool-comparison-websites-side-by-side-spec-analysis-and-ratings/index.html",
+      "sha256": "7811a07a878cde3b9a00a3e64012d858aeec2062904c9abe926d7049517d55d2"
+    },
+    {
+      "url": "https://select.cheap/ps5-digital-vs-budget-gaming-laptop-game-acquisition-costs-over-three-years/",
+      "target": ".recovery-public-stage/ps5-digital-vs-budget-gaming-laptop-game-acquisition-costs-over-three-years/index.html",
+      "sha256": "1c17cbb0830319cad6225356a28e8f68b020c69fe0e96a539824b0dc6243f9d2"
+    },
+    {
+      "url": "https://select.cheap/remote-team-free-collaboration-tools-trello-slack-and-budget-alternatives/",
+      "target": ".recovery-public-stage/remote-team-free-collaboration-tools-trello-slack-and-budget-alternatives/index.html",
+      "sha256": "e85f8a4b725a3c16e184bfee347c974720c25662a38f71f8e0ecd73bdef20e51"
+    },
+    {
+      "url": "https://select.cheap/remote-work-desk-essentials-cable-management-and-docking-station-solutions/",
+      "target": ".recovery-public-stage/remote-work-desk-essentials-cable-management-and-docking-station-solutions/index.html",
+      "sha256": "853c33eb8bf01a5948603da53c64651f95b34557f6111318d434871cf9aa8956"
+    },
+    {
+      "url": "https://select.cheap/remote-work-desk-essentials-ergonomic-upgrades-on-a-tight-budget/",
+      "target": ".recovery-public-stage/remote-work-desk-essentials-ergonomic-upgrades-on-a-tight-budget/index.html",
+      "sha256": "6c08ca5afd0f4cd45cdd66e5f92cfd5df0c78194364daf62319777d7480ffb64"
+    },
+    {
+      "url": "https://select.cheap/remote-work-ergonomics-on-a-budget-laptop-stands-and-lumbar-cushions/",
+      "target": ".recovery-public-stage/remote-work-ergonomics-on-a-budget-laptop-stands-and-lumbar-cushions/index.html",
+      "sha256": "abdd8d829bb16842b95528dc4c8cae5f31bf616d3fa8ddbe622b223a07d563c4"
+    },
+    {
+      "url": "https://select.cheap/remote-work-essentials-connectivity-comfort-and-concentration-tools/",
+      "target": ".recovery-public-stage/remote-work-essentials-connectivity-comfort-and-concentration-tools/index.html",
+      "sha256": "e886297b5f85d7104a21923f37b4deda6f2b494eea23d860456b1e14bc72214d"
+    },
+    {
+      "url": "https://select.cheap/remote-work-from-home-essentials-lighting-and-background-setup-ideas/",
+      "target": ".recovery-public-stage/remote-work-from-home-essentials-lighting-and-background-setup-ideas/index.html",
+      "sha256": "795bf860e22cbafca41b8fc56b006dee011f26dcd0f0a4e59a3f5a609c216881"
+    },
+    {
+      "url": "https://select.cheap/remote-work-office-essentials-2025-hybrid-workspace-planning-and-trends/",
+      "target": ".recovery-public-stage/remote-work-office-essentials-2025-hybrid-workspace-planning-and-trends/index.html",
+      "sha256": "4346a7a2661549ca57a48810b35ac22f28483f10bb99bbf644a15c7675baa2a0"
+    },
+    {
+      "url": "https://select.cheap/remote-work-office-essentials-chair-monitor-and-keyboard-value-picks/",
+      "target": ".recovery-public-stage/remote-work-office-essentials-chair-monitor-and-keyboard-value-picks/index.html",
+      "sha256": "44fd4d892a99099d7b50479b1b892d4d75ba42611fd7de8bf9b64027a16e81b9"
+    },
+    {
+      "url": "https://select.cheap/remote-work-travel-essentials-portable-office-setup-for-hotels-and-cafes/",
+      "target": ".recovery-public-stage/remote-work-travel-essentials-portable-office-setup-for-hotels-and-cafes/index.html",
+      "sha256": "b8c8ae5691c5e48d714a3a3a71ebbb4c4d34f475a8ac3ff5557d1189894c693c"
+    },
+    {
+      "url": "https://select.cheap/remote-work-travel-packing-list-co-working-space-and-coffee-shop-adaptations/",
+      "target": ".recovery-public-stage/remote-work-travel-packing-list-co-working-space-and-coffee-shop-adaptations/index.html",
+      "sha256": "f4c6a4f0f902e626ec1ec747ded223020d6de4924a542dea9c14b0b4ff947520"
+    },
+    {
+      "url": "https://select.cheap/resale-platform-pricing-strategy-how-to-list-used-tools-for-quick-sale/",
+      "target": ".recovery-public-stage/resale-platform-pricing-strategy-how-to-list-used-tools-for-quick-sale/index.html",
+      "sha256": "6ccec2aae498542169d133194d886485435bcb9283508433bb84985241a0a3aa"
+    },
+    {
+      "url": "https://select.cheap/robots.txt",
+      "target": ".recovery-public-stage/robots.txt",
+      "sha256": "5469a3774cdbae34fdf3345c1bfd142185a3d8a9dfa2887feea7153e0dd07f06"
+    },
+    {
+      "url": "https://select.cheap/same-price-desktop-build-vs-gaming-laptop-component-quality-face-off/",
+      "target": ".recovery-public-stage/same-price-desktop-build-vs-gaming-laptop-component-quality-face-off/index.html",
+      "sha256": "4eb62614c5defdd596f7fd317f70b4a883e67c009d032e51a4df1c608ccce83e"
+    },
+    {
+      "url": "https://select.cheap/savings-goal-tracker-printable-thermometer-and-app-based-progress-visualization/",
+      "target": ".recovery-public-stage/savings-goal-tracker-printable-thermometer-and-app-based-progress-visualization/index.html",
+      "sha256": "d1ac9970e3bd7e3981b5db86f196f11dde3de180ac3bbe3390f2be2140187a6e"
+    },
+    {
+      "url": "https://select.cheap/sidemen-challenge-budget-wins-statistical-analysis-of-cheap-product-victories/",
+      "target": ".recovery-public-stage/sidemen-challenge-budget-wins-statistical-analysis-of-cheap-product-victories/index.html",
+      "sha256": "0aeef218db2f6e4486834eaf771bff250d00e623b0198b54cdbd9b183823009a"
+    },
+    {
+      "url": "https://select.cheap/sidemen-cheap-vs-expensive-challenge-what-it-teaches-about-value-perception/",
+      "target": ".recovery-public-stage/sidemen-cheap-vs-expensive-challenge-what-it-teaches-about-value-perception/index.html",
+      "sha256": "2a7d2abbfcea123b8711a446a45d7f42b18ce1a2f6c3d8aa3e51d06aad4c474d"
+    },
+    {
+      "url": "https://select.cheap/sidemen-cheap-vs-expensive-series-testing-methodology-and-entertainment-value/",
+      "target": ".recovery-public-stage/sidemen-cheap-vs-expensive-series-testing-methodology-and-entertainment-value/index.html",
+      "sha256": "a0e2431af01fbb0a5a8a22f397ae9f6a5d1021e7662a23ddd8e5b97fa2a3a434"
+    },
+    {
+      "url": "https://select.cheap/sim-racing-beginner-budget-allocation-wheel-pedals-and-shifter-priority/",
+      "target": ".recovery-public-stage/sim-racing-beginner-budget-allocation-wheel-pedals-and-shifter-priority/index.html",
+      "sha256": "eff241f5d8fe15b459130e01a44260cf909c2d1fa4158815d7eb37964c024dee"
+    },
+    {
+      "url": "https://select.cheap/sim-racing-shifter-h-pattern-vs-sequential-budget-solution-decision-guide/",
+      "target": ".recovery-public-stage/sim-racing-shifter-h-pattern-vs-sequential-budget-solution-decision-guide/index.html",
+      "sha256": "7046663786e2ceb1ce592e5a8ee7ffca777156789f14045cf833750fd87997e5"
+    },
+    {
+      "url": "https://select.cheap/site24x7-advanced-monitoring-real-browser-checks-and-comparison-setup/",
+      "target": ".recovery-public-stage/site24x7-advanced-monitoring-real-browser-checks-and-comparison-setup/index.html",
+      "sha256": "0288972aac1463d90e796074b95d6ee59434b69ba275543a33e89d0be14c4937"
+    },
+    {
+      "url": "https://select.cheap/site24x7-vs-pingdom-feature-depth-and-pricing-for-small-business-monitoring/",
+      "target": ".recovery-public-stage/site24x7-vs-pingdom-feature-depth-and-pricing-for-small-business-monitoring/index.html",
+      "sha256": "93e5143eeb4bb79fbde5b5a35cf16c7a36dd3855360cae806d3eff8c2b08a8ac"
+    },
+    {
+      "url": "https://select.cheap/site24x7-website-comparison-tool-advanced-configuration-and-alert-rules/",
+      "target": ".recovery-public-stage/site24x7-website-comparison-tool-advanced-configuration-and-alert-rules/index.html",
+      "sha256": "2f2003e9cd057e0e3078d62f0edec3d5dbb11dbbe6cf604e1ccf4cbc518de4cc"
+    },
+    {
+      "url": "https://select.cheap/site24x7-website-comparison-tool-setup-guide-for-performance-monitoring/",
+      "target": ".recovery-public-stage/site24x7-website-comparison-tool-setup-guide-for-performance-monitoring/index.html",
+      "sha256": "7503412b6265d3a9bd5fda7399a9084c570eedd2e33bf5c99ad93308c6cb188e"
+    },
+    {
+      "url": "https://select.cheap/sitemap-comparison-tool-for-seo-crawl-depth-and-indexation-analysis/",
+      "target": ".recovery-public-stage/sitemap-comparison-tool-for-seo-crawl-depth-and-indexation-analysis/index.html",
+      "sha256": "1abbb0e9c42ec0f3dc950dbb3e8f838f0b79fd455b7b0f810ebb3827a8d9bf4f"
+    },
+    {
+      "url": "https://select.cheap/sitemap-comparison-tool-seo-audit-and-competitor-gap-analysis-guide/",
+      "target": ".recovery-public-stage/sitemap-comparison-tool-seo-audit-and-competitor-gap-analysis-guide/index.html",
+      "sha256": "b8a716e2e32818c35127774fee90f742d08b6496a4c56b134a318589b5d7e701"
+    },
+    {
+      "url": "https://select.cheap/sitemap-index.xml",
+      "target": ".recovery-public-stage/sitemap-index.xml",
+      "sha256": "ad981351cfda0283f011c5ab711f72eb5e8dfd72e308f60ee19f726e56a54be0"
+    },
+    {
+      "url": "https://select.cheap/sk-tools-student-discount-options-direct-website-vs-authorized-dealer/",
+      "target": ".recovery-public-stage/sk-tools-student-discount-options-direct-website-vs-authorized-dealer/index.html",
+      "sha256": "ed4cb7eb30c42ba51bd2817cad7809feaccc6a9f5dedc8c81629fba265e0e1d3"
+    },
+    {
+      "url": "https://select.cheap/sk-tools-student-discount-regional-availability-and-alternative-programs/",
+      "target": ".recovery-public-stage/sk-tools-student-discount-regional-availability-and-alternative-programs/index.html",
+      "sha256": "39e0693883c64b65683f4a846b2e9ded50299f472c035a9cc6b04f70112a9677"
+    },
+    {
+      "url": "https://select.cheap/sk-tools-student-discount-where-to-find-and-how-to-redeem-your-code/",
+      "target": ".recovery-public-stage/sk-tools-student-discount-where-to-find-and-how-to-redeem-your-code/index.html",
+      "sha256": "968465e5efd7da0b72212bf8f0ccfbc8dc8ee02449d8c33e2d7d805cf607b343"
+    },
+    {
+      "url": "https://select.cheap/snap-on-student-discount-tools-catalog-eligibility-and-ordering-process/",
+      "target": ".recovery-public-stage/snap-on-student-discount-tools-catalog-eligibility-and-ordering-process/index.html",
+      "sha256": "1c1fc9efe1cbb4564fb5adc95194b2c511fec9c1254a6418d8bca72ed4d338da"
+    },
+    {
+      "url": "https://select.cheap/snap-on-student-discount-tools-program-details-and-enrollment-walkthrough/",
+      "target": ".recovery-public-stage/snap-on-student-discount-tools-program-details-and-enrollment-walkthrough/index.html",
+      "sha256": "26dce9631ed50f90a838d543bf0ff09ec9f8c50f05a93c3a7b94b63d0ddf008a"
+    },
+    {
+      "url": "https://select.cheap/snap-on-student-program-tool-list-pdf-and-enrollment-period-details/",
+      "target": ".recovery-public-stage/snap-on-student-program-tool-list-pdf-and-enrollment-period-details/index.html",
+      "sha256": "ed22a6b644537d2d4ea1164eeb463f6e9f0c8bb5cec28039657f28a316ced0c2"
+    },
+    {
+      "url": "https://select.cheap/software-deal-cycle-stacksocial-and-humble-bundle-discount-frequency-calendar/",
+      "target": ".recovery-public-stage/software-deal-cycle-stacksocial-and-humble-bundle-discount-frequency-calendar/index.html",
+      "sha256": "f4b2660d91a77db9219c3f668832c4dba0f6b16cef88def10ebc094630063004"
+    },
+    {
+      "url": "https://select.cheap/sonic-tools-student-discount-code-retrieval-and-expiration-date-tracking/",
+      "target": ".recovery-public-stage/sonic-tools-student-discount-code-retrieval-and-expiration-date-tracking/index.html",
+      "sha256": "68eb812e40c094bff371f6fcb95305023ff897f4587eabe33981dd26be23d759"
+    },
+    {
+      "url": "https://select.cheap/sonic-tools-student-discount-plan-included-product-lines-and-exclusions/",
+      "target": ".recovery-public-stage/sonic-tools-student-discount-plan-included-product-lines-and-exclusions/index.html",
+      "sha256": "9c9d44c7ff7e231e919b3bddf03f533e1afb6ce0332dd4d0ce5d702398433e42"
+    },
+    {
+      "url": "https://select.cheap/sonic-tools-student-discount-verification-process-and-eligible-products/",
+      "target": ".recovery-public-stage/sonic-tools-student-discount-verification-process-and-eligible-products/index.html",
+      "sha256": "1e21c67593b0fc8a05ec29e1407413fdb5ef22d2cf8f1b8c7a64f740b529c221"
+    },
+    {
+      "url": "https://select.cheap/stainless-steel-pan-test-clad-vs-disc-bottom-cheap-options-heat-mapping/",
+      "target": ".recovery-public-stage/stainless-steel-pan-test-clad-vs-disc-bottom-cheap-options-heat-mapping/index.html",
+      "sha256": "6cfe96a7311fdf5144de3f10f92669289ec7f1018f9944bbcbeb3bd9d02cba64"
+    },
+    {
+      "url": "https://select.cheap/steam-deck-dual-boot-vs-budget-laptop-emulator-setup-complexity-and-performance/",
+      "target": ".recovery-public-stage/steam-deck-dual-boot-vs-budget-laptop-emulator-setup-complexity-and-performance/index.html",
+      "sha256": "dbdbeeb4b3178aa3929aca5c133d53d6ac85af43a265eb8114029c231dd38922"
+    },
+    {
+      "url": "https://select.cheap/steam-deck-vs-budget-laptop-emulation-performance-and-storage-expansion/",
+      "target": ".recovery-public-stage/steam-deck-vs-budget-laptop-emulation-performance-and-storage-expansion/index.html",
+      "sha256": "7d67540d1bf53dea5bc75e8880a6e09566200e59ef001eb1bf78f4fb0bb3bcda"
+    },
+    {
+      "url": "https://select.cheap/steam-deck-vs-budget-laptop-real-world-gaming-performance-and-battery-life/",
+      "target": ".recovery-public-stage/steam-deck-vs-budget-laptop-real-world-gaming-performance-and-battery-life/index.html",
+      "sha256": "429f933c99eca18ee9e8900dd445e0ebc4e801b485bbaf1fcd25678189e3b136"
+    },
+    {
+      "url": "https://select.cheap/steam-deck-vs-cheap-laptop-native-gaming-vs-cloud-streaming-quality/",
+      "target": ".recovery-public-stage/steam-deck-vs-cheap-laptop-native-gaming-vs-cloud-streaming-quality/index.html",
+      "sha256": "d23dacfd6fcfc5d400023cc93d8d6d4055a55d16657d0b3105b47ea77696a040"
+    },
+    {
+      "url": "https://select.cheap/student-allowance-management-weekly-budgeting-and-spending-category-rules/",
+      "target": ".recovery-public-stage/student-allowance-management-weekly-budgeting-and-spending-category-rules/index.html",
+      "sha256": "7a07fca4bb273965b35966f90db5675d5249484fa70106b977816dda184e0f62"
+    },
+    {
+      "url": "https://select.cheap/student-discount-tool-programs-step-by-step-from-verification-to-checkout/",
+      "target": ".recovery-public-stage/student-discount-tool-programs-step-by-step-from-verification-to-checkout/index.html",
+      "sha256": "62c4a3b5d652219c1bb6dc4f48254d70d7709384e42acbf20022c7283cdba3eb"
+    },
+    {
+      "url": "https://select.cheap/student-discount-tools-complete-platform-guide-from-unidays-to-student-beans/",
+      "target": ".recovery-public-stage/student-discount-tools-complete-platform-guide-from-unidays-to-student-beans/index.html",
+      "sha256": "8db40412a2cf8454b85b679dfeab564374ded95e6ae4f869f185fd6d24952532"
+    },
+    {
+      "url": "https://select.cheap/student-discount-toolstation-in-store-id-requirements-and-online-verification/",
+      "target": ".recovery-public-stage/student-discount-toolstation-in-store-id-requirements-and-online-verification/index.html",
+      "sha256": "7fd1c2b72c8fb1720d827813e726e4fa19901989b6bc1ae7d2f439168fa1b1a8"
+    },
+    {
+      "url": "https://select.cheap/student-identity-verification-sheerid-and-unidays-tool-discount-automation/",
+      "target": ".recovery-public-stage/student-identity-verification-sheerid-and-unidays-tool-discount-automation/index.html",
+      "sha256": "24a8be310369088c2868c03f4cc230af4b6a6bb8b43fa0e732f431e7105ce8fc"
+    },
+    {
+      "url": "https://select.cheap/suit-construction-fused-vs-half-canvas-in-affordable-off-the-rack-options/",
+      "target": ".recovery-public-stage/suit-construction-fused-vs-half-canvas-in-affordable-off-the-rack-options/index.html",
+      "sha256": "64beb6ca3b870d9f1cda2fcbf95c01c9b034dbdd5b2bf3e2df0661ff23192831"
+    },
+    {
+      "url": "https://select.cheap/tablet-with-keyboard-vs-budget-laptop-word-processing-and-spreadsheet-limits/",
+      "target": ".recovery-public-stage/tablet-with-keyboard-vs-budget-laptop-word-processing-and-spreadsheet-limits/index.html",
+      "sha256": "619526d723ff97642b65a6254ceb2eb817d8c3dbc0ea2fe4f600418b6aaa5a08"
+    },
+    {
+      "url": "https://select.cheap/tags/",
+      "target": ".recovery-public-stage/tags/index.html",
+      "sha256": "dfbcd6664d615f328366f22a1c98d45f74f5330d41ab89d12493f0be5651aa0b"
+    },
+    {
+      "url": "https://select.cheap/tags/featured/",
+      "target": ".recovery-public-stage/tags/featured/index.html",
+      "sha256": "047611df843fb7511d7279b2c425e0c6eff4ada12e6f547b28c30eefe72c00dc"
+    },
+    {
+      "url": "https://select.cheap/tags/welcome/",
+      "target": ".recovery-public-stage/tags/welcome/index.html",
+      "sha256": "163dbbf86b8feba707459464a588d98c534dfe24cf28f09354c3719ff64164e2"
+    },
+    {
+      "url": "https://select.cheap/teenager-money-saving-tips-digital-envelope-system-and-goal-visualization/",
+      "target": ".recovery-public-stage/teenager-money-saving-tips-digital-envelope-system-and-goal-visualization/index.html",
+      "sha256": "7ebec04eac80c2ff32215564ab377d5d8c5b826d82079d0dbeadf93004972eb7"
+    },
+    {
+      "url": "https://select.cheap/tekton-tools-student-discount-code-single-use-vs-multi-use-limitations/",
+      "target": ".recovery-public-stage/tekton-tools-student-discount-code-single-use-vs-multi-use-limitations/index.html",
+      "sha256": "8d252976d22ab714143a4ce206ed33589d48d0458faa10667c8bdd56ec9e5943"
+    },
+    {
+      "url": "https://select.cheap/tekton-tools-student-discount-direct-purchase-vs-retailer-enrollment/",
+      "target": ".recovery-public-stage/tekton-tools-student-discount-direct-purchase-vs-retailer-enrollment/index.html",
+      "sha256": "ea58bbee9a9d1d619eaadf2a69f4fdadbbf23d94fd7763987a93a0f4c88d0f56"
+    },
+    {
+      "url": "https://select.cheap/tekton-tools-student-discount-qualification-criteria-and-application-tips/",
+      "target": ".recovery-public-stage/tekton-tools-student-discount-qualification-criteria-and-application-tips/index.html",
+      "sha256": "39cc97319775f65091949fdb08012d29ee8ed1c910e4b39bdbbe45b1578e0726"
+    },
+    {
+      "url": "https://select.cheap/tool-comparison-sites-price-history-graphs-and-drop-alert-settings/",
+      "target": ".recovery-public-stage/tool-comparison-sites-price-history-graphs-and-drop-alert-settings/index.html",
+      "sha256": "0ff441035137eaef47aeca64ef9207992b61862e786bd1c6962eabe0b515bee7"
+    },
+    {
+      "url": "https://select.cheap/tool-price-comparison-browser-extension-setup-and-alert-configuration/",
+      "target": ".recovery-public-stage/tool-price-comparison-browser-extension-setup-and-alert-configuration/index.html",
+      "sha256": "8f7c0b16625ec86fd23f32ccfe4fdea5c005bee9f976a5a30118d930750052fe"
+    },
+    {
+      "url": "https://select.cheap/tool-price-comparison-sites-browser-extensions-and-mobile-app-roundup/",
+      "target": ".recovery-public-stage/tool-price-comparison-sites-browser-extensions-and-mobile-app-roundup/index.html",
+      "sha256": "ef574eddd2abb46f1c60f374f4385b470383c3799b3d59929212811255e2ece7"
+    },
+    {
+      "url": "https://select.cheap/tool-price-comparison-websites-aggregator-accuracy-and-update-frequency/",
+      "target": ".recovery-public-stage/tool-price-comparison-websites-aggregator-accuracy-and-update-frequency/index.html",
+      "sha256": "2585115e45cc7c2234e390fbd06a7b988c6f1877bc5b5b36ad1384c0f240eb56"
+    },
+    {
+      "url": "https://select.cheap/toolstation-student-discount-online-account-setup-and-code-application/",
+      "target": ".recovery-public-stage/toolstation-student-discount-online-account-setup-and-code-application/index.html",
+      "sha256": "d90b5f8ccbc82a8558f1a7c87543b9561bbc73820013a9bb7cfe7201a57c5707"
+    },
+    {
+      "url": "https://select.cheap/toolstation-student-discount-online-and-in-store-redemption-guide/",
+      "target": ".recovery-public-stage/toolstation-student-discount-online-and-in-store-redemption-guide/index.html",
+      "sha256": "d8a0aa4256f82bf028ac69fec8b98471b4c8ee44b7ff761a7609cd72ad5c30d2"
+    },
+    {
+      "url": "https://select.cheap/tripod-head-buying-load-capacity-damping-and-quick-release-compatibility/",
+      "target": ".recovery-public-stage/tripod-head-buying-load-capacity-damping-and-quick-release-compatibility/index.html",
+      "sha256": "4d1862aa49ed2532b5d4e13404b047ae8d9f9ec58e05781f40dada50cd24a505"
+    },
+    {
+      "url": "https://select.cheap/tripod-head-manfrotto-vs-budget-alternative-precision-and-creep-resistance/",
+      "target": ".recovery-public-stage/tripod-head-manfrotto-vs-budget-alternative-precision-and-creep-resistance/index.html",
+      "sha256": "c257c48ae7f65d83aa24cd92710bb6bbe332e6d6633a7109b09d83c416e5c96a"
+    },
+    {
+      "url": "https://select.cheap/uk-tool-store-price-match-policies-how-to-claim-and-exceptions-to-know/",
+      "target": ".recovery-public-stage/uk-tool-store-price-match-policies-how-to-claim-and-exceptions-to-know/index.html",
+      "sha256": "a664358f3725bb2614493a49f9b135134c8b5fbbc07d16049b14d6cab103e056"
+    },
+    {
+      "url": "https://select.cheap/uk-toolstation-vs-screwfix-price-basket-comparison-on-common-diy-items/",
+      "target": ".recovery-public-stage/uk-toolstation-vs-screwfix-price-basket-comparison-on-common-diy-items/index.html",
+      "sha256": "629404f279ea4d0aa9e42e15f889b539b052618bb7da71be9c812e9d159170d1"
+    },
+    {
+      "url": "https://select.cheap/website-comparison-crawl-tool-broken-link-detection-and-redirect-mapping/",
+      "target": ".recovery-public-stage/website-comparison-crawl-tool-broken-link-detection-and-redirect-mapping/index.html",
+      "sha256": "a04e96cc7f342213197942e2f8e2a84cca7c7fef728b4d88aa42cab7b7699dd6"
+    },
+    {
+      "url": "https://select.cheap/whetstone-grit-selection-flattening-and-soaking-tips-for-budget-water-stones/",
+      "target": ".recovery-public-stage/whetstone-grit-selection-flattening-and-soaking-tips-for-budget-water-stones/index.html",
+      "sha256": "5707ddba3042d8603607dac05530cf7cb2896de01146a58a34f0d29314a2380c"
+    },
+    {
+      "url": "https://select.cheap/work-from-home-essentials-noise-cancellation-and-focus-enhancement-tools/",
+      "target": ".recovery-public-stage/work-from-home-essentials-noise-cancellation-and-focus-enhancement-tools/index.html",
+      "sha256": "ce108806dc54d67fd742dbf8b5b4371eda9367d91e9e33a2a51118f5edd5714f"
+    },
+    {
+      "url": "https://select.cheap/work-from-home-noise-reduction-affordable-earplugs-and-acoustic-curtains/",
+      "target": ".recovery-public-stage/work-from-home-noise-reduction-affordable-earplugs-and-acoustic-curtains/index.html",
+      "sha256": "6f2fdbfb8423ae45f5e5f85648036f62c25f0a4eaca6f7111d6bbc4b338577b2"
+    },
+    {
+      "url": "https://select.cheap/zh/%E4%B8%89%E8%A7%92%E6%B4%B2%E9%83%A8%E9%98%9F%E4%BB%93%E5%BA%93%E4%BB%B7%E5%80%BC%E5%8C%B9%E9%85%8D%E4%B8%8E%E6%80%A7%E4%BB%B7%E6%AF%94%E8%A3%85%E5%A4%87%E5%AE%9A%E4%B9%89/",
+      "target": ".recovery-public-stage/zh/三角洲部队仓库价值匹配与性价比装备定义/index.html",
+      "sha256": "20883841ec30ad4ac3572ab65af0b3636d68877d88b84bf8b71e21fa42f4de7c"
+    },
+    {
+      "url": "https://select.cheap/zh/%E4%B8%89%E8%A7%92%E6%B4%B2%E9%83%A8%E9%98%9F%E5%90%84%E6%A8%A1%E5%BC%8F%E6%80%A7%E4%BB%B7%E6%AF%94%E9%85%8D%E8%A3%85%E6%8E%A8%E8%8D%90%E4%B8%8E%E8%B5%84%E6%BA%90%E8%A7%84%E5%88%92/",
+      "target": ".recovery-public-stage/zh/三角洲部队各模式性价比配装推荐与资源规划/index.html",
+      "sha256": "f19e81c26a5986d2939cc7909b66af0c4451ee04db87e9bab23b585b181360d9"
+    },
+    {
+      "url": "https://select.cheap/zh/%E4%B8%89%E8%A7%92%E6%B4%B2%E9%83%A8%E9%98%9F%E6%80%A7%E4%BB%B7%E6%AF%94%E9%85%8D%E8%A3%85%E6%80%9D%E8%B7%AF%E6%AD%A6%E5%99%A8%E6%94%B9%E8%A3%85%E4%B8%8E%E5%BC%B9%E8%8D%AF%E9%80%89%E6%8B%A9/",
+      "target": ".recovery-public-stage/zh/三角洲部队性价比配装思路武器改装与弹药选择/index.html",
+      "sha256": "57d766386851543957c9d934ebab97f6791cf54b00b67d72a0974446e919b9f6"
+    },
+    {
+      "url": "https://select.cheap/zh/%E4%B8%8D%E9%94%88%E9%92%A2%E9%94%85%E5%85%B7%E4%B8%89%E5%B1%82%E9%92%A2%E4%B8%8E%E5%8D%95%E5%B1%82%E5%BB%89%E4%BB%B7%E6%AC%BE%E7%83%AD%E6%88%90%E5%83%8F%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/不锈钢锅具三层钢与单层廉价款热成像对比/index.html",
+      "sha256": "a62c99f9e3e59620ee2f28bacc4dd321c27783672cac7fd1ae544c1c16936192"
+    },
+    {
+      "url": "https://select.cheap/zh/%E4%B8%8D%E9%94%88%E9%92%A2%E9%94%85%E5%85%B7%E6%B6%82%E5%B1%82%E4%B8%8E%E6%97%A0%E6%B6%82%E5%B1%82%E5%BB%89%E4%BB%B7%E6%AC%BE%E9%AB%98%E6%B8%A9%E6%B5%8B%E8%AF%95%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/不锈钢锅具涂层与无涂层廉价款高温测试对比/index.html",
+      "sha256": "aaf36aa6fbeadc4d3e729d1b684cee85407ef4e94ed61b0a6b6579a2193cdd22"
+    },
+    {
+      "url": "https://select.cheap/zh/%E4%BA%8C%E6%89%8B%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%E5%8D%96%E5%AE%B6%E5%AE%9A%E4%BB%B7%E7%AD%96%E7%95%A5%E4%B8%8E%E5%BF%AB%E9%80%9F%E5%87%BA%E6%89%8B%E6%8A%80%E5%B7%A7/",
+      "target": ".recovery-public-stage/zh/二手交易平台卖家定价策略与快速出手技巧/index.html",
+      "sha256": "a2b2d284434f44bf82742a88e5c708487ebcb23a82c6148b92d2ff830085aa26"
+    },
+    {
+      "url": "https://select.cheap/zh/%E4%BA%8C%E6%89%8B%E5%B9%B3%E5%8F%B0%E9%97%B2%E9%B1%BC%E4%B8%8E%E8%BD%AC%E8%BD%AC%E5%B7%A5%E5%85%B7%E5%93%81%E7%B1%BB%E4%BB%B7%E6%A0%BC%E4%B8%8E%E6%B4%BB%E8%B7%83%E5%BA%A6/",
+      "target": ".recovery-public-stage/zh/二手平台闲鱼与转转工具品类价格与活跃度/index.html",
+      "sha256": "472af729c87157fe0fa414f51d71552b69fb14f36c1dd1268593390408f49d66"
+    },
+    {
+      "url": "https://select.cheap/zh/%E4%BA%8C%E6%89%8B%E9%97%B2%E7%BD%AE%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%E5%AF%B9%E6%AF%94%E5%8D%96%E6%97%A7%E4%B9%B0%E6%96%B0%E7%9C%81%E9%92%B1%E5%AE%9E%E6%93%8D/",
+      "target": ".recovery-public-stage/zh/二手闲置交易平台对比卖旧买新省钱实操/index.html",
+      "sha256": "e9c39169015b6aec8d4ee5d09ff6e09e0a3667974d064b3fc85653dba7e164ef"
+    },
+    {
+      "url": "https://select.cheap/zh/%E4%BD%8E%E4%BB%B7%E6%B8%B8%E6%88%8F%E6%9C%AC%E4%B8%8Eps5%E6%80%8E%E4%B9%88%E9%80%89%E6%B8%B8%E6%88%8F%E5%BA%93%E4%B8%8E%E9%95%BF%E6%9C%9F%E8%8A%B1%E8%B4%B9%E5%88%86%E6%9E%90/",
+      "target": ".recovery-public-stage/zh/低价游戏本与ps5怎么选游戏库与长期花费分析/index.html",
+      "sha256": "64985d3c938766c489cb233ee832e907ea4c86d09b3081461f8e1e47a4b9662d"
+    },
+    {
+      "url": "https://select.cheap/zh/%E4%BD%8E%E4%BB%B7win%E6%9C%AC%E4%B8%8Echromebook%E7%B3%BB%E7%BB%9F%E7%94%9F%E6%80%81%E4%B8%8E%E7%A6%BB%E7%BA%BF%E5%8A%9F%E8%83%BD%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/低价win本与chromebook系统生态与离线功能对比/index.html",
+      "sha256": "24eae004406e5a5fb081152a79c599bc6a539144a9ff665a8f74fe867a30bfc3"
+    },
+    {
+      "url": "https://select.cheap/zh/%E4%BD%8E%E4%BB%B7windows%E7%AC%94%E8%AE%B0%E6%9C%AC%E4%B8%8Echromebook%E6%95%99%E8%82%B2%E5%8A%9E%E5%85%AC%E5%9C%BA%E6%99%AF%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/低价windows笔记本与chromebook教育办公场景对比/index.html",
+      "sha256": "17fe3510cd6ee378ac4f6f38dfd8400aa4a5d22c668a49f024e5be2f5b7304e2"
+    },
+    {
+      "url": "https://select.cheap/zh/%E4%BE%BF%E5%AE%9C%E5%B7%A5%E5%85%B7%E5%AE%9E%E4%BD%93%E5%BA%97%E8%BF%9E%E9%94%81%E5%93%81%E7%89%8C%E7%9B%98%E7%82%B9%E4%B8%8E%E4%BC%9A%E5%91%98%E6%8A%98%E6%89%A3/",
+      "target": ".recovery-public-stage/zh/便宜工具实体店连锁品牌盘点与会员折扣/index.html",
+      "sha256": "5fdad45e31c3f81a54b8c424c3d7cf732039ac321ac1564ff20e3c9c32db497f"
+    },
+    {
+      "url": "https://select.cheap/zh/%E4%BE%BF%E5%AE%9C%E5%B7%A5%E5%85%B7%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%BE%BF%E5%AE%9C%E5%A4%9F%E7%94%A8%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E8%AF%A5%E5%8A%A0%E9%92%B1/",
+      "target": ".recovery-public-stage/zh/便宜工具选购指南什么时候便宜够用什么时候该加钱/index.html",
+      "sha256": "5f77c6ea1fbc4fbb3bdf7db6de4bc53bac4bdd09a8aee925cb0bf1a3e6d2ed97"
+    },
+    {
+      "url": "https://select.cheap/zh/%E4%BE%BF%E5%AE%9C%E7%AC%94%E8%AE%B0%E6%9C%AC%E4%B8%8E%E5%B9%B3%E6%9D%BF%E9%80%89%E8%B4%AD%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A0%E5%A8%B1%E4%B9%90%E9%9C%80%E6%B1%82%E5%8C%B9%E9%85%8D/",
+      "target": ".recovery-public-stage/zh/便宜笔记本与平板选购对比学习娱乐需求匹配/index.html",
+      "sha256": "4c4191a9492e1e6f6496c875c140e376e2c4b346712e6b571a5af9b9fac88453"
+    },
+    {
+      "url": "https://select.cheap/zh/%E4%BE%BF%E5%AE%9C%E7%AC%94%E8%AE%B0%E6%9C%AC%E5%AF%B9%E6%AF%94%E5%B9%B3%E6%9D%BF%E5%A4%96%E6%8E%A5%E6%98%BE%E7%A4%BA%E5%99%A8%E4%B8%8E%E5%A4%9A%E4%BB%BB%E5%8A%A1%E8%83%BD%E5%8A%9B/",
+      "target": ".recovery-public-stage/zh/便宜笔记本对比平板外接显示器与多任务能力/index.html",
+      "sha256": "57c56c55a4133521937470e253e0d5a7e2d84e5e5ae316cc581eb53deffe6a4e"
+    },
+    {
+      "url": "https://select.cheap/zh/%E4%BF%A1%E6%81%AF%E5%9E%8B%E5%86%85%E5%AE%B9%E9%80%89%E9%A2%98%E7%9C%81%E9%92%B1%E7%9F%A5%E8%AF%86%E4%B8%8E%E5%B7%A5%E5%85%B7%E7%A7%91%E6%99%AE%E7%B3%BB%E5%88%97/",
+      "target": ".recovery-public-stage/zh/信息型内容选题省钱知识与工具科普系列/index.html",
+      "sha256": "efa64c3d4d5a1202bf3999d93e7ff593e3c0199dd7143ab91adbb4e34ee33acc"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%85%A5%E9%97%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E8%A3%85%E5%A4%87%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E4%B9%8B%E9%80%89%E4%BB%8E%E5%AE%89%E5%85%A8%E5%88%B0%E8%88%92%E9%80%82/",
+      "target": ".recovery-public-stage/zh/入门自行车装备高性价比之选从安全到舒适/index.html",
+      "sha256": "e0c75eceb72e411849b5ac8857813d08404689e46e0ee1b61d6aee5b1479851d"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%85%A8%E5%90%88%E6%88%90%E6%9C%BA%E6%B2%B9%E5%93%81%E7%89%8C%E6%BA%A2%E4%BB%B7%E4%B8%8E%E5%BB%89%E4%BB%B7%E8%AE%A4%E8%AF%81%E6%A0%87%E5%87%86%E8%A7%A3%E8%AF%BB/",
+      "target": ".recovery-public-stage/zh/全合成机油品牌溢价与廉价认证标准解读/index.html",
+      "sha256": "c4503df115366a5025f7d533b6abc1cc8e12652d3d3ac7a1a33093df4322dd3d"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%8D%B0%E5%BA%A6%E5%B8%82%E5%9C%BA%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E8%87%AA%E8%A1%8C%E8%BD%A6%E8%A3%85%E5%A4%87%E8%B4%AD%E4%B9%B0%E6%B8%A0%E9%81%93%E6%B1%87%E6%80%BB/",
+      "target": ".recovery-public-stage/zh/印度市场高性价比自行车装备购买渠道汇总/index.html",
+      "sha256": "1cd74a2632d0b9471c918395a1d5574eb7680a34ea41b7ca352f38246fa91043"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%8D%B0%E5%BA%A6%E8%87%AA%E8%A1%8C%E8%BD%A6%E8%A3%85%E5%A4%87%E7%BA%BF%E4%B8%8B%E6%89%B9%E5%8F%91%E5%B8%82%E5%9C%BA%E4%B8%8E%E7%BA%BF%E4%B8%8A%E4%BB%B7%E6%A0%BC%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/印度自行车装备线下批发市场与线上价格对比/index.html",
+      "sha256": "2f0b4d5bb9e400f4dc4a496774454df500eb7c47d0a71cbda1d2f1caed796bfe"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%8D%B0%E5%BA%A6%E8%87%AA%E8%A1%8C%E8%BD%A6%E8%A3%85%E5%A4%87%E7%BD%91%E8%B4%AD%E5%B9%B3%E5%8F%B0%E5%8F%AF%E9%9D%A0%E6%80%A7%E8%AF%84%E4%BB%B7%E4%B8%8E%E6%94%AF%E4%BB%98%E6%96%B9%E5%BC%8F/",
+      "target": ".recovery-public-stage/zh/印度自行车装备网购平台可靠性评价与支付方式/index.html",
+      "sha256": "7b4ac06c7e0cfdc57b82cf1b6af3b4e661f826baf2aba88dd497cce4ea48b405"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%8D%B0%E5%BA%A6%E8%87%AA%E8%A1%8C%E8%BD%A6%E8%A3%85%E5%A4%87%E9%A2%84%E7%AE%97%E5%88%86%E9%85%8D%E8%BD%A6%E8%BA%AB%E9%85%8D%E4%BB%B6%E4%B8%8E%E4%BA%BA%E8%BA%AB%E8%A3%85%E5%A4%87/",
+      "target": ".recovery-public-stage/zh/印度自行车装备预算分配车身配件与人身装备/index.html",
+      "sha256": "ada01a4d366dd5fbb00bfa717ce2a992e071dac4eca51fa4baffd883d1d763ca"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%8D%B0%E5%BA%A6%E8%87%AA%E8%A1%8C%E8%BD%A6%E9%85%8D%E4%BB%B6%E4%BA%9A%E9%A9%AC%E9%80%8A%E4%B8%8Eflipkart%E6%AF%94%E4%BB%B7%E6%8A%80%E5%B7%A7/",
+      "target": ".recovery-public-stage/zh/印度自行车配件亚马逊与flipkart比价技巧/index.html",
+      "sha256": "430b1cf0740295cbb77f5965755a6a9242179641272916d5cdbcdfe8b6b12189"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%8F%B0%E5%BC%8F%E6%9C%BA%E4%BA%8C%E6%89%8B%E6%98%BE%E5%8D%A1%E9%80%89%E8%B4%AD%E4%B8%8E%E4%BD%8E%E4%BB%B7%E6%B8%B8%E6%88%8F%E6%9C%AC%E6%95%B4%E6%9C%BA%E9%A3%8E%E9%99%A9%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/台式机二手显卡选购与低价游戏本整机风险对比/index.html",
+      "sha256": "d704f34cf70350eb677bb2e1961ae91e9946e9094d236af5b68ac9bc324ba871"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%8F%B0%E5%BC%8F%E6%9C%BA%E7%94%B5%E6%BA%90%E4%B8%8E%E4%BD%8E%E4%BB%B7%E6%B8%B8%E6%88%8F%E6%9C%AC%E4%BE%9B%E7%94%B5%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%B7%AE%E5%BC%82%E5%88%86%E6%9E%90/",
+      "target": ".recovery-public-stage/zh/台式机电源与低价游戏本供电稳定性差异分析/index.html",
+      "sha256": "c1e03f12936e992a813991db0cdda2dd275e196aeddca74e3f1ccee86b44bb38"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%90%8C%E4%BB%B7%E4%BD%8D%E5%8F%B0%E5%BC%8F%E6%9C%BA%E4%B8%8E%E7%AC%94%E8%AE%B0%E6%9C%AC%E6%80%A7%E8%83%BD%E5%AF%B9%E5%86%B3%E6%95%A3%E7%83%AD%E4%B8%8E%E5%8D%87%E7%BA%A7%E7%A9%BA%E9%97%B4/",
+      "target": ".recovery-public-stage/zh/同价位台式机与笔记本性能对决散热与升级空间/index.html",
+      "sha256": "4c7787253bc11bb11d834b8ab6612e9a9eb136bdf67c39451e58b3ac92ea4e7a"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%90%8C%E4%BB%B7%E4%BD%8D%E5%8F%B0%E5%BC%8F%E6%9C%BA%E7%BB%84%E8%A3%85%E6%B8%85%E5%8D%95%E4%B8%8E%E6%B8%B8%E6%88%8F%E6%9C%AC%E9%85%8D%E7%BD%AE%E5%8F%82%E6%95%B0%E7%9B%B4%E6%8E%A5%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/同价位台式机组装清单与游戏本配置参数直接对比/index.html",
+      "sha256": "653abcbd84feacaf69a874626baf241f73bc160b4cc2a988db4a63a910365c6e"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%A6%82%E4%BD%95%E5%BB%BA%E7%AB%8B%E5%AD%98%E9%92%B1%E7%9B%AE%E6%A0%87%E4%B8%8E%E6%AD%A5%E9%AA%A4%E8%AE%A1%E5%88%92%E5%AD%A6%E7%94%9F%E4%B8%8E%E8%81%8C%E5%9C%BA%E6%96%B0%E4%BA%BA%E9%80%82%E7%94%A8/",
+      "target": ".recovery-public-stage/zh/如何建立存钱目标与步骤计划学生与职场新人适用/index.html",
+      "sha256": "082121017466793c00b4fc49b26ca28db0e490f4032ef9fdf0f1363135e7e2c4"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%AD%98%E9%92%B1%E6%8C%91%E6%88%9852%E5%91%A8%E9%98%B6%E6%A2%AF%E6%B3%95%E4%B8%8E%E6%AF%8F%E6%97%A5%E9%9B%B6%E9%92%B1%E5%82%A8%E8%93%84%E6%95%88%E6%9E%9C/",
+      "target": ".recovery-public-stage/zh/存钱挑战52周阶梯法与每日零钱储蓄效果/index.html",
+      "sha256": "ac287d18c1e980ccda0830a018fe0f80a7ee51947ee1aaa50ce26c1bc4f33546"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%AD%98%E9%92%B1%E7%9B%AE%E6%A0%87%E5%8F%AF%E8%A7%86%E5%8C%96%E6%A8%A1%E6%9D%BF%E4%B8%8E%E8%BF%9B%E5%BA%A6%E8%BF%BD%E8%B8%AAapp%E6%8E%A8%E8%8D%90/",
+      "target": ".recovery-public-stage/zh/存钱目标可视化模板与进度追踪app推荐/index.html",
+      "sha256": "49a549dc5c777fdcc898224fbbc16c551af3c2d75f2875c498db7dbee6bbd497"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%AD%A6%E7%94%9F%E6%8A%98%E6%89%A3%E5%B7%A5%E5%85%B7%E7%94%B3%E8%AF%B7%E5%85%A8%E6%94%BB%E7%95%A5%E4%BB%8E%E9%AA%8C%E8%AF%81%E5%88%B0%E4%B8%8B%E5%8D%95%E5%85%A8%E6%B5%81%E7%A8%8B/",
+      "target": ".recovery-public-stage/zh/学生折扣工具申请全攻略从验证到下单全流程/index.html",
+      "sha256": "5ef078306316b200666e5c22fd9c48f1b73329ea5ab6dd2cb35c512f73175459"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%AD%A6%E7%94%9F%E6%8A%98%E6%89%A3unidays%E4%B8%8Estudent-beans%E5%B7%A5%E5%85%B7%E5%93%81%E7%89%8C%E8%A6%86%E7%9B%96/",
+      "target": ".recovery-public-stage/zh/学生折扣unidays与student-beans工具品牌覆盖/index.html",
+      "sha256": "eefba5970f3898a5f23979ef4d722022873be5d3bc1dd83e9b90639a1a844f46"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%AD%A6%E7%94%9F%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81%E5%B9%B3%E5%8F%B0%E4%B8%8E%E5%B7%A5%E5%85%B7%E6%8A%98%E6%89%A3%E8%87%AA%E5%8A%A8%E5%8C%96%E7%94%B3%E8%AF%B7%E6%B5%81%E7%A8%8B/",
+      "target": ".recovery-public-stage/zh/学生身份验证平台与工具折扣自动化申请流程/index.html",
+      "sha256": "0d8a1af1859ca3560fa631de349089d1acc6be0935a6bdd5b0e0c7f5f99269ec"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%AD%A6%E7%94%9F%E9%9B%B6%E8%8A%B1%E9%92%B1%E7%AE%A1%E7%90%86%E6%96%B9%E6%B3%95%E6%AF%8F%E5%91%A8%E9%A2%84%E7%AE%97%E4%B8%8E%E6%B6%88%E8%B4%B9%E5%88%86%E7%B1%BB/",
+      "target": ".recovery-public-stage/zh/学生零花钱管理方法每周预算与消费分类/index.html",
+      "sha256": "250e56830edf518522069a05cd80fa5946955166ae693acad2716fb922421b9f"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%AE%B6%E5%BA%AD%E5%8A%9E%E5%85%AC%E5%AE%A4%E4%BA%8C%E6%89%8B%E5%AE%B6%E5%85%B7%E7%BF%BB%E6%96%B0%E4%B8%8E%E5%B9%B3%E4%BB%B7%E9%87%87%E8%B4%AD%E6%B8%A0%E9%81%93/",
+      "target": ".recovery-public-stage/zh/家庭办公室二手家具翻新与平价采购渠道/index.html",
+      "sha256": "f227767f1ebb05cbef9b8964d6f75e210f866d2b3ace56d3947eda13ade51497"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%AE%B6%E5%BA%AD%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%BF%85%E5%A4%87%E6%B8%85%E5%8D%95%E9%A2%84%E7%AE%97%E6%9C%89%E9%99%90%E4%B9%9F%E8%83%BD%E9%AB%98%E6%95%88%E5%B7%A5%E4%BD%9C/",
+      "target": ".recovery-public-stage/zh/家庭办公室必备清单预算有限也能高效工作/index.html",
+      "sha256": "5ab5730092cf9cc04e0359903a0da92c2dfd46e80e16e44087d7664d03881dec"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%AE%B6%E5%BA%AD%E5%8A%9E%E5%85%AC%E5%AE%A4%E7%81%AF%E5%85%89%E5%B8%83%E7%BD%AE%E7%9C%81%E9%92%B1%E6%96%B9%E6%A1%88%E8%87%AA%E7%84%B6%E5%85%89%E4%B8%8Eled%E8%A1%A5%E5%85%89/",
+      "target": ".recovery-public-stage/zh/家庭办公室灯光布置省钱方案自然光与led补光/index.html",
+      "sha256": "b29a91693b13ab28c87b585e53f73104220baf878f7bd62a7c36842e94a4b42a"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%B1%85%E5%AE%B6%E5%8A%9E%E5%85%AC%E5%92%96%E5%95%A1%E8%8C%B6%E6%B0%B4%E9%97%B4%E5%B9%B3%E4%BB%B7%E7%94%B5%E5%99%A8%E9%85%8D%E7%BD%AE%E6%B8%85%E5%8D%95/",
+      "target": ".recovery-public-stage/zh/居家办公咖啡茶水间平价电器配置清单/index.html",
+      "sha256": "cd5de2a0295b9314464e6a8f4881fd67f1499f62c139f08aa38ae421d67efdf6"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%B1%85%E5%AE%B6%E5%8A%9E%E5%85%AC%E5%BF%85%E5%A4%87%E8%A3%85%E5%A4%87%E6%8E%A8%E8%8D%90%E6%A1%8C%E6%A4%85%E7%81%AF%E5%85%89%E6%94%B6%E7%BA%B3%E6%96%B9%E6%A1%88/",
+      "target": ".recovery-public-stage/zh/居家办公必备装备推荐桌椅灯光收纳方案/index.html",
+      "sha256": "5a674233150309bf1cd0bf47e427898fda4d645b492cc8f4c5ebf0f02f1946e6"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%B1%85%E5%AE%B6%E5%8A%9E%E5%85%AC%E9%99%8D%E5%99%AA%E6%96%B9%E6%A1%88%E5%B9%B3%E4%BB%B7%E8%80%B3%E5%A1%9E%E4%B8%8E%E9%9A%94%E9%9F%B3%E5%B8%98%E6%95%88%E6%9E%9C%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/居家办公降噪方案平价耳塞与隔音帘效果对比/index.html",
+      "sha256": "1eac8f65f1ad9b50c91ab75b73ad34decd624d28b77bd8d374fbade913192984"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%B7%A5%E5%85%B7%E6%AF%94%E4%BB%B7%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BB%B7%E6%A0%BC%E6%8F%90%E9%86%92%E8%AE%BE%E7%BD%AE%E6%96%B9%E6%B3%95/",
+      "target": ".recovery-public-stage/zh/工具比价插件安装与浏览器价格提醒设置方法/index.html",
+      "sha256": "bcd7659ba39a31b1a373b79c880a218c351efd60653a21404a2b5135bbf9f7dd"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%B7%A5%E5%85%B7%E6%AF%94%E4%BB%B7%E7%BD%91%E7%AB%99%E5%8E%86%E5%8F%B2%E4%BB%B7%E6%A0%BC%E6%9B%B2%E7%BA%BF%E4%B8%8E%E9%99%8D%E4%BB%B7%E9%A2%84%E6%B5%8B%E5%87%86%E7%A1%AE%E6%80%A7/",
+      "target": ".recovery-public-stage/zh/工具比价网站历史价格曲线与降价预测准确性/index.html",
+      "sha256": "c89494bad9a39b84bb3c4933b1ea788271d483dbb2e41f8cb2bb7db2e5117dca"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%B7%A5%E5%85%B7%E6%AF%94%E4%BB%B7%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90%E4%B8%80%E9%94%AE%E6%90%9C%E7%B4%A2%E5%85%A8%E7%BD%91%E6%9C%80%E4%BD%8E%E4%BB%B7/",
+      "target": ".recovery-public-stage/zh/工具比价网站推荐一键搜索全网最低价/index.html",
+      "sha256": "04ba1ca013b65b678b610118f1ed5ed17a5163fd9c4caf3eea2d8fd9ba26b91a"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%B9%B3%E4%BB%B7%E6%B8%B8%E6%88%8F%E6%9C%AC%E4%B8%8E%E5%8F%B0%E5%BC%8F%E6%9C%BA%E6%80%A7%E8%83%BD%E6%95%88%E7%8E%87%E5%85%A8%E9%9D%A2%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/平价游戏本与台式机性能效率全面对比/index.html",
+      "sha256": "3812da67686a5d51fd3a27352e264376bbd6c39cdd7d3bbcccb1b7e8fd01da0c"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%B9%B3%E4%BB%B7%E6%B8%B8%E6%88%8F%E6%9C%AC%E4%B8%8Eps5%E6%B8%B8%E6%88%8F%E4%BD%93%E9%AA%8C%E4%B8%8E%E9%95%BF%E6%9C%9F%E6%88%90%E6%9C%AC%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/平价游戏本与ps5游戏体验与长期成本对比/index.html",
+      "sha256": "f0256a5f5d84147b7818d090022a461378b60a4944766bf18b82994f96047d41"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%B9%B3%E4%BB%B7%E6%B8%B8%E6%88%8F%E6%9C%AC%E4%B8%8Esteam-deck%E4%BE%BF%E6%90%BA%E6%80%A7%E8%83%BD%E5%8F%96%E8%88%8D%E5%88%86%E6%9E%90/",
+      "target": ".recovery-public-stage/zh/平价游戏本与steam-deck便携性能取舍分析/index.html",
+      "sha256": "94401f7f9c9d03896f07a5dd156ab34e68ae8064271e50fda1ae5edd4cc081e3"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%B9%B3%E4%BB%B7%E6%B8%B8%E6%88%8F%E6%9C%AC%E5%AF%B9%E6%AF%94steam-deck%E5%B1%8F%E5%B9%95%E9%94%AE%E7%9B%98%E5%A4%96%E6%8E%A5%E4%BD%93%E9%AA%8C/",
+      "target": ".recovery-public-stage/zh/平价游戏本对比steam-deck屏幕键盘外接体验/index.html",
+      "sha256": "a3ce31bc254b8997faf43d7e1cbd86f9cd2f0b4857fd9d909fb73e69463fb4f2"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%B9%B3%E4%BB%B7%E7%AC%94%E8%AE%B0%E6%9C%AC%E4%B8%8E%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91%E7%94%9F%E4%BA%A7%E5%8A%9B%E4%B8%8E%E5%A8%B1%E4%B9%90%E5%8F%96%E8%88%8D%E5%88%86%E6%9E%90/",
+      "target": ".recovery-public-stage/zh/平价笔记本与平板电脑生产力与娱乐取舍分析/index.html",
+      "sha256": "6666647e1a0267959aafeb32fb836e03203b8a2de119f4610fba8b72859cc0db"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%B9%B3%E4%BB%B7%E7%AC%94%E8%AE%B0%E6%9C%AC%E4%B8%8Echromebook%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF%E4%B8%8E%E9%99%90%E5%88%B6%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/平价笔记本与chromebook使用场景与限制对比/index.html",
+      "sha256": "5492d6eb13dc7d2b3e9d929c7f65d1d8cb5cd8dc0aa51a7c1450f7fa7a11ec34"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%B9%B3%E4%BB%B7%E7%AC%94%E8%AE%B0%E6%9C%AC%E5%AF%B9%E6%AF%94%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97%E7%B3%BB%E7%BB%9F%E5%B9%B3%E5%8F%B0%E4%B8%8E%E7%94%A8%E9%80%94%E5%86%B3%E5%AE%9A/",
+      "target": ".recovery-public-stage/zh/平价笔记本对比选购指南系统平台与用途决定/index.html",
+      "sha256": "f6494396618f32bc3d45e74decb6726576a16a3cd10d44eae67073f77bf7991e"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%B9%B3%E4%BB%B7%E9%AA%91%E8%A1%8C%E6%89%8B%E5%A5%97%E5%A4%B4%E7%9B%94%E6%8A%A4%E7%9B%AE%E9%95%9C%E5%A4%9A%E5%93%81%E7%89%8C%E6%A8%AA%E5%90%91%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/平价骑行手套头盔护目镜多品牌横向对比/index.html",
+      "sha256": "372c6ba4d87193b256800aa4c0714b0a5f27cebf7ac2e87bb5dc6902b174e352"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%B9%B3%E4%BB%B7%E9%AA%91%E8%A1%8C%E8%A3%85%E5%A4%87%E9%80%89%E8%B4%AD%E6%B8%85%E5%8D%95%E4%BB%8E%E5%A4%B4%E7%9B%94%E5%88%B0%E9%94%81%E9%9E%8B%E5%85%A8%E6%B6%B5%E7%9B%96/",
+      "target": ".recovery-public-stage/zh/平价骑行装备选购清单从头盔到锁鞋全涵盖/index.html",
+      "sha256": "f22afd5c122410f909f4f07d4d0b4b864378f497c35dc318fd1abb1aa9b6aa8f"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%B9%B3%E4%BB%B7%E9%BD%BF%E8%BD%AE%E4%BA%91%E5%8F%B0%E9%80%89%E8%B4%AD%E5%AF%B9%E6%AF%94%E6%8B%8D%E8%A7%86%E9%A2%91%E4%B8%8E%E5%BB%B6%E6%97%B6%E6%91%84%E5%BD%B1%E9%80%82%E7%94%A8%E6%AC%BE/",
+      "target": ".recovery-public-stage/zh/平价齿轮云台选购对比拍视频与延时摄影适用款/index.html",
+      "sha256": "142a60a007ea1252691a04a6307ac0c70b06383d2aeff338c9c8a27235bb85dc"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%B9%B3%E6%9D%BF%E6%89%8B%E5%86%99%E7%AC%94%E4%B8%8E%E4%BD%8E%E4%BB%B7%E7%AC%94%E8%AE%B0%E6%9C%AC%E8%A7%A6%E6%8E%A7%E6%9D%BF%E7%AC%94%E8%AE%B0%E4%BD%93%E9%AA%8C%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/平板手写笔与低价笔记本触控板笔记体验对比/index.html",
+      "sha256": "652ef207e2a52fdf37774756c80700c863ccfbf65dc54aee82b7e587da9b17ed"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91%E5%A4%96%E6%8E%A5%E9%94%AE%E7%9B%98%E9%BC%A0%E6%A0%87%E4%B8%8E%E4%BD%8E%E4%BB%B7%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/平板电脑外接键盘鼠标与低价笔记本生产力对比/index.html",
+      "sha256": "58df8d249cd956157dbc5578d3c5312963ba4b0af4deecdfc55799b6367bf212"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%BB%89%E4%BB%B7%E4%B8%8E%E6%98%82%E8%B4%B5%E4%B8%8D%E9%94%88%E9%92%A2%E9%94%85%E5%85%B7%E5%AF%BC%E7%83%AD%E4%B8%8E%E8%80%90%E7%94%A8%E6%80%A7%E5%AE%9E%E6%B5%8B/",
+      "target": ".recovery-public-stage/zh/廉价与昂贵不锈钢锅具导热与耐用性实测/index.html",
+      "sha256": "c8c74e0f3b7e703e84e5529fa31aea8689c354af976b6410d270f2944ad4cdba"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%BB%89%E4%BB%B7%E4%B8%8E%E6%98%82%E8%B4%B5%E7%89%A9%E5%93%81%E5%AF%B9%E6%AF%94%E4%BB%8E%E6%97%A5%E7%94%A8%E5%88%B0%E4%B8%93%E4%B8%9A%E5%B7%A5%E5%85%B7%E6%80%8E%E4%B9%88%E9%80%89/",
+      "target": ".recovery-public-stage/zh/廉价与昂贵物品对比从日用到专业工具怎么选/index.html",
+      "sha256": "bd41be49e69ac41422067fe5bd676d6825ac3f276dc061597696adc846d8cff1"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%BB%89%E4%BB%B7%E5%90%89%E4%BB%96%E4%B8%8E%E9%AB%98%E7%AB%AF%E5%90%89%E4%BB%96%E6%89%8B%E6%84%9F%E9%9F%B3%E8%89%B2%E5%B7%AE%E5%BC%82%E5%AE%9E%E6%B5%8B/",
+      "target": ".recovery-public-stage/zh/廉价吉他与高端吉他手感音色差异实测/index.html",
+      "sha256": "f27ccbf5ee40ca548e142be29060a12729e5b40628cd30ff14bc87555c8ee512"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%BB%89%E4%BB%B7%E6%84%8F%E9%9D%A2%E4%B8%8E%E9%AB%98%E7%AB%AF%E6%84%8F%E9%9D%A2%E7%9B%B2%E6%B5%8B%E5%8F%A3%E6%84%9F%E4%B8%8E%E5%8E%9F%E6%96%99%E5%B7%AE%E5%BC%82%E5%88%86%E6%9E%90/",
+      "target": ".recovery-public-stage/zh/廉价意面与高端意面盲测口感与原料差异分析/index.html",
+      "sha256": "2055ba68116b91dc8d1b7df1e908e7bb1720596f1a7cd633cc418251ee0ff1ef"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%BB%89%E4%BB%B7%E6%9C%BA%E6%B2%B9%E4%B8%8E%E5%85%A8%E5%90%88%E6%88%90%E6%9C%BA%E6%B2%B9%E5%AE%9E%E6%B5%8B%E5%AF%B9%E6%AF%94%E5%AF%B9%E5%8F%91%E5%8A%A8%E6%9C%BA%E5%BD%B1%E5%93%8D%E6%9C%89%E5%A4%9A%E5%A4%A7/",
+      "target": ".recovery-public-stage/zh/廉价机油与全合成机油实测对比对发动机影响有多大/index.html",
+      "sha256": "4c00bcadbb4e691c3c4b38bd0c8482e9b9760089cee269e9b524ad91867a854c"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%BB%89%E4%BB%B7%E7%89%99%E8%86%8F%E4%B8%8E%E9%AB%98%E7%AB%AF%E7%89%99%E8%86%8F%E6%88%90%E5%88%86%E5%B7%AE%E5%BC%82%E4%B8%8E%E7%9C%9F%E5%AE%9E%E6%95%88%E6%9E%9C%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/廉价牙膏与高端牙膏成分差异与真实效果对比/index.html",
+      "sha256": "1ea5782f0db762fe79f2fbbaf58e08c6d6d3a3258cb4e38d882b0890a12299cf"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%BB%89%E4%BB%B7%E7%A3%A8%E5%88%80%E7%9F%B3%E4%B8%8E%E9%AB%98%E7%AB%AF%E7%A3%A8%E5%88%80%E7%9F%B3%E7%A0%94%E7%A3%A8%E6%95%88%E7%8E%87%E4%B8%8E%E7%9B%AE%E6%95%B0%E5%AE%9E%E6%B5%8B/",
+      "target": ".recovery-public-stage/zh/廉价磨刀石与高端磨刀石研磨效率与目数实测/index.html",
+      "sha256": "651f231af3d1f02de89b6a9b759c30fed06659dd9883b4ea5ed7c5bdf3959375"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%BB%89%E4%BB%B7%E8%A5%BF%E8%A3%85%E4%B8%8E%E5%AE%9A%E5%88%B6%E8%A5%BF%E8%A3%85%E9%9D%A2%E6%96%99%E5%89%AA%E8%A3%81%E7%BB%86%E8%8A%82%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/廉价西装与定制西装面料剪裁细节对比/index.html",
+      "sha256": "ff2204eab70ddc1ff54b93ddeda48928c850da8efd2dbdbc3dea3432f87a6643"
+    },
+    {
+      "url": "https://select.cheap/zh/%E5%BB%89%E4%BB%B7%E9%A6%99%E6%B0%B4%E4%B8%8E%E5%A4%A7%E7%89%8C%E9%A6%99%E6%B0%B4%E7%95%99%E9%A6%99%E6%97%B6%E9%95%BF%E4%B8%8E%E6%88%90%E5%88%86%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/廉价香水与大牌香水留香时长与成分对比/index.html",
+      "sha256": "f478c9b6429dcd07215f2a62ae0d19becfae96e478a642dd7ae80fee94364611"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%84%8F%E9%9D%A2%E5%8E%9F%E6%96%99%E6%9D%9C%E5%85%B0%E5%B0%8F%E9%BA%A6%E5%90%AB%E9%87%8F%E4%B8%8E%E5%BB%89%E4%BB%B7%E5%93%81%E7%89%8C%E9%85%8D%E6%96%99%E8%A1%A8%E5%88%86%E6%9E%90/",
+      "target": ".recovery-public-stage/zh/意面原料杜兰小麦含量与廉价品牌配料表分析/index.html",
+      "sha256": "8171673be5492ea45285ee02620dadc414cdebcc94081fef690fa8752d44dafc"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%84%8F%E9%9D%A2%E9%9D%92%E9%93%9C%E6%A8%A1%E5%85%B7%E4%B8%8E%E7%89%B9%E6%B0%9F%E9%BE%99%E6%A8%A1%E5%85%B7%E5%BB%89%E4%BB%B7%E6%AC%BE%E8%A1%A8%E9%9D%A2%E7%B2%97%E7%B3%99%E5%BA%A6/",
+      "target": ".recovery-public-stage/zh/意面青铜模具与特氟龙模具廉价款表面粗糙度/index.html",
+      "sha256": "1ca60878248a2d603bbfbed2870e7ad0e3cdc655a57db95540719e6492e70766"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%88%B4%E5%B0%94%E5%B9%B3%E4%BB%B7%E7%AC%94%E8%AE%B0%E6%9C%AC%E4%B8%8E%E5%8F%B0%E5%BC%8F%E6%9C%BA%E6%80%A7%E8%83%BD%E9%87%8A%E6%94%BE%E4%B8%8E%E6%89%A9%E5%B1%95%E6%80%A7%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/戴尔平价笔记本与台式机性能释放与扩展性对比/index.html",
+      "sha256": "a628e6653a6d75c7127230727b407a2b67cfe33a006d261e6337239bc087df6e"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%88%B4%E5%B0%94%E5%B9%B3%E4%BB%B7%E7%AC%94%E8%AE%B0%E6%9C%AC%E4%B8%8E%E5%8F%B0%E5%BC%8F%E6%9C%BA%E9%80%89%E8%B4%AD%E5%86%B3%E7%AD%96%E6%A0%91%E4%B8%8E%E5%9C%BA%E6%99%AF%E5%88%86%E6%9E%90/",
+      "target": ".recovery-public-stage/zh/戴尔平价笔记本与台式机选购决策树与场景分析/index.html",
+      "sha256": "bd9e31ccabe3fc8efd2019f5bf5c4ed5b2fd8d06cf7770a2c0984a3a3fb520ff"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%91%A9%E6%89%98%E8%BD%A6%E5%85%A5%E9%97%A8%E8%A3%85%E5%A4%87%E7%9C%81%E9%92%B1%E6%8E%A8%E8%8D%90%E5%A4%B4%E7%9B%94%E6%8A%A4%E5%85%B7%E9%80%9A%E8%AE%AF%E7%B3%BB%E7%BB%9F/",
+      "target": ".recovery-public-stage/zh/摩托车入门装备省钱推荐头盔护具通讯系统/index.html",
+      "sha256": "3631f27aae519c2468fddef0b5f832271649e93b2b1d4cb409d07eec5591256f"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%91%A9%E6%89%98%E8%BD%A6%E5%A4%B4%E7%9B%94ece%E4%B8%8Edot%E8%AE%A4%E8%AF%81%E5%B9%B3%E4%BB%B7%E6%AC%BE%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95/",
+      "target": ".recovery-public-stage/zh/摩托车头盔ece与dot认证平价款安全测试/index.html",
+      "sha256": "bccec4d6ba78eb37affaa464e210fce0decc21396710eaecc1791744b00010fc"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%91%A9%E6%89%98%E8%BD%A6%E9%AA%91%E8%A1%8C%E8%A3%85%E5%A4%87%E7%9C%81%E9%92%B1%E6%90%AD%E9%85%8D%E5%9B%9B%E5%AD%A3%E9%80%9A%E7%94%A8%E4%B8%8E%E5%AE%89%E5%85%A8%E8%AE%A4%E8%AF%81/",
+      "target": ".recovery-public-stage/zh/摩托车骑行装备省钱搭配四季通用与安全认证/index.html",
+      "sha256": "a0039f48929e4d55244eb594a1e7d01d1d35d731824f901f5548e5c1885397a0"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%95%B0%E5%AD%97%E6%B8%B8%E6%B0%91%E4%BF%9D%E9%99%A9%E4%B8%8E%E5%BB%89%E4%BB%B7%E5%85%A8%E7%90%83%E5%8C%BB%E7%96%97%E8%A6%86%E7%9B%96%E6%96%B9%E6%A1%88%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/数字游民保险与廉价全球医疗覆盖方案对比/index.html",
+      "sha256": "ffb55807e0eed1516d597b18a00118f51d5e067cc6c9352d06c17f138caf9e2f"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%95%B0%E5%AD%97%E6%B8%B8%E6%B0%91%E5%85%A8%E7%90%83esim%E4%B8%8Ewifi%E7%83%AD%E7%82%B9%E7%9C%81%E9%92%B1%E4%B8%8A%E7%BD%91%E6%96%B9%E6%A1%88/",
+      "target": ".recovery-public-stage/zh/数字游民全球esim与wifi热点省钱上网方案/index.html",
+      "sha256": "fbc699960c71e1d621a8f04fbfd230f77fa663fe8c506122a4de1b2616153410"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%95%B0%E5%AD%97%E6%B8%B8%E6%B0%91%E5%BF%85%E5%A4%87%E8%A3%85%E5%A4%87%E6%B8%85%E5%8D%95%E4%BB%8E%E8%83%8C%E5%8C%85%E5%88%B0%E4%BE%BF%E6%90%BA%E5%B1%8F%E5%B9%95/",
+      "target": ".recovery-public-stage/zh/数字游民必备装备清单从背包到便携屏幕/index.html",
+      "sha256": "f72cb815124f3a601a458227166160cfb0e0ccb75f7aef51dff688a7368d032d"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%95%B0%E5%AD%97%E6%B8%B8%E6%B0%91%E5%BF%85%E5%A4%87%E8%A3%85%E5%A4%87%E7%B2%BE%E9%80%89%E8%BD%BB%E9%87%8F%E5%8C%96%E4%B8%8E%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%85%BC%E9%A1%BE/",
+      "target": ".recovery-public-stage/zh/数字游民必备装备精选轻量化与多功能兼顾/index.html",
+      "sha256": "7ea3f3f14b92f214a933c6f5740c85c7b4d5538fd9c45595a5ae3ddb92f6b53c"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%95%B0%E5%AD%97%E6%B8%B8%E6%B0%91%E6%97%85%E8%A1%8C%E5%8A%9E%E5%85%AC%E8%A3%85%E5%A4%87%E6%89%93%E5%8C%85%E6%80%9D%E8%B7%AF%E4%B8%8E%E9%87%8D%E9%87%8F%E6%8E%A7%E5%88%B6/",
+      "target": ".recovery-public-stage/zh/数字游民旅行办公装备打包思路与重量控制/index.html",
+      "sha256": "108b8af3f5fabf70ab8db6ed1daa4c74b26719da8cd7e01b93a88ca3ae7e82fb"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%95%B0%E5%AD%97%E6%B8%B8%E6%B0%91%E6%97%85%E8%A1%8C%E8%A3%85%E5%A4%87%E8%BD%BB%E9%87%8F%E5%8C%96%E6%94%B9%E9%80%A0%E6%96%B9%E6%A1%88%E4%B8%8E%E6%B8%85%E5%8D%95/",
+      "target": ".recovery-public-stage/zh/数字游民旅行装备轻量化改造方案与清单/index.html",
+      "sha256": "40b018e71edef407893432a07480829e593a90be211f98182035974cfd5cc161"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%95%B0%E5%AD%97%E6%B8%B8%E6%B0%91%E7%A7%91%E6%8A%80%E4%BA%A7%E5%93%81%E6%8E%A8%E8%8D%90%E4%BF%9D%E6%8C%81%E9%AB%98%E6%95%88%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%B9%B3%E4%BB%B7%E9%80%89%E6%8B%A9/",
+      "target": ".recovery-public-stage/zh/数字游民科技产品推荐保持高效工作的平价选择/index.html",
+      "sha256": "c279e60cfbdaeca1f39a3540e87cf91dbef6b18f94370d321c728929f9f1da39"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%95%B0%E5%AD%97%E6%B8%B8%E6%B0%91%E7%A7%BB%E5%8A%A8%E5%8A%9E%E5%85%AC%E7%94%B5%E5%8A%9B%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E5%85%85%E7%94%B5%E5%AE%9D%E4%B8%8E%E5%A4%AA%E9%98%B3%E8%83%BD/",
+      "target": ".recovery-public-stage/zh/数字游民移动办公电力解决方案充电宝与太阳能/index.html",
+      "sha256": "dd951b1e804d8cfe2ce8abdea4db9bdc092e64a9363616fc7a2c702ef1cf1509"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%95%B0%E5%AD%97%E6%B8%B8%E6%B0%91%E8%A3%85%E5%A4%87%E5%85%A8%E5%93%81%E7%B1%BB%E6%8E%A8%E8%8D%90%E4%BB%8E%E6%94%B6%E7%BA%B3%E5%88%B0%E7%94%B5%E6%BA%90%E6%96%B9%E6%A1%88/",
+      "target": ".recovery-public-stage/zh/数字游民装备全品类推荐从收纳到电源方案/index.html",
+      "sha256": "68cfc8d624038e50b88e5a693804aff1bd1eb091180bd4711ddcf8aa6c1572a0"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%95%B0%E5%AD%97%E6%B8%B8%E6%B0%91%E8%A3%85%E5%A4%87%E6%B8%85%E5%8D%95%E6%A8%A1%E6%9D%BF%E5%85%8D%E8%B4%B9%E4%B8%8B%E8%BD%BD%E4%B8%8E%E8%87%AA%E5%AE%9A%E4%B9%89%E7%BC%96%E8%BE%91/",
+      "target": ".recovery-public-stage/zh/数字游民装备清单模板免费下载与自定义编辑/index.html",
+      "sha256": "5f5361618a1212f6d6a11ea45cf0d02a09e41502d2736823acb939b9279be893"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%95%B0%E5%AD%97%E6%B8%B8%E6%B0%91%E9%82%AE%E4%BB%B6%E4%B8%8E%E6%97%A5%E5%8E%86%E5%85%8D%E8%B4%B9%E5%B7%A5%E5%85%B7%E7%BB%84%E5%90%88%E4%B8%8E%E4%BB%98%E8%B4%B9%E6%9B%BF%E4%BB%A3/",
+      "target": ".recovery-public-stage/zh/数字游民邮件与日历免费工具组合与付费替代/index.html",
+      "sha256": "1921178d963fbcc93d08f90d0d400454e0491de26accd11c2877dbf868f02133"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%9A%97%E5%8C%BA%E7%AA%81%E5%9B%B4%E5%B8%82%E5%9C%BA%E5%80%92%E5%8D%96%E4%B8%8E%E6%80%A7%E4%BB%B7%E6%AF%94%E8%A3%85%E5%A4%87%E5%A5%97%E5%88%A9%E6%80%9D%E8%B7%AF/",
+      "target": ".recovery-public-stage/zh/暗区突围市场倒卖与性价比装备套利思路/index.html",
+      "sha256": "1b24590a36a443348280ef0897ff73f0736e51bd838267509028f094f22f409e"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%9A%97%E5%8C%BA%E7%AA%81%E5%9B%B4%E6%80%A7%E4%BB%B7%E6%AF%94%E8%A3%85%E5%A4%87%E6%8E%A8%E8%8D%90%E5%B8%82%E5%9C%BA%E6%B3%A2%E5%8A%A8%E4%B8%8E%E6%97%B6%E6%9C%BA%E6%8A%8A%E6%8F%A1/",
+      "target": ".recovery-public-stage/zh/暗区突围性价比装备推荐市场波动与时机把握/index.html",
+      "sha256": "8d2c0bd8ac1b97b5ed7f843a87d79a81197508420e522cb4921913b746b7ca1f"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%9A%97%E5%8C%BA%E7%AA%81%E5%9B%B4%E6%80%A7%E4%BB%B7%E6%AF%94%E8%A3%85%E5%A4%87%E6%8E%A8%E8%8D%90%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8%E5%88%B0%E8%BF%9B%E9%98%B6%E9%85%8D%E8%A3%85/",
+      "target": ".recovery-public-stage/zh/暗区突围性价比装备推荐新手入门到进阶配装/index.html",
+      "sha256": "ddd40e359fbc84e9681bdad39f83c87ee7bd267c02e0b7adee6d053f4160f1f7"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%9A%97%E5%8C%BA%E7%AA%81%E5%9B%B4%E6%80%A7%E4%BB%B7%E6%AF%94%E8%A3%85%E5%A4%87%E6%90%AD%E9%85%8D%E4%B8%8E%E5%B8%82%E5%9C%BA%E6%8D%A1%E6%BC%8F%E6%8A%80%E5%B7%A7/",
+      "target": ".recovery-public-stage/zh/暗区突围性价比装备搭配与市场捡漏技巧/index.html",
+      "sha256": "dc8d70c7f840e94b6463987d833289c9fbec9b5bbc3daaee2c7626cc05edc87b"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%9C%BA%E6%B2%B9%E6%9B%B4%E6%8D%A2%E5%91%A8%E6%9C%9F%E4%B8%8E%E5%BB%89%E4%BB%B7%E5%85%A8%E5%90%88%E6%88%90%E6%9C%BA%E6%B2%B9%E4%BD%BF%E7%94%A8%E9%A3%8E%E9%99%A9%E8%AF%84%E4%BC%B0/",
+      "target": ".recovery-public-stage/zh/机油更换周期与廉价全合成机油使用风险评估/index.html",
+      "sha256": "d3debf299b4ed32f23c84506e14080cb7f8421fc29d2e3f4d7bd54a3fd5d191f"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%A8%A1%E6%8B%9F%E8%B5%9B%E8%BD%A6%E5%85%A5%E9%97%A8%E8%A3%85%E5%A4%87%E9%A2%84%E7%AE%97%E5%88%86%E9%85%8D%E6%96%B9%E5%90%91%E7%9B%98%E8%B8%8F%E6%9D%BF%E6%8E%92%E6%8C%A1%E6%9D%86/",
+      "target": ".recovery-public-stage/zh/模拟赛车入门装备预算分配方向盘踏板排挡杆/index.html",
+      "sha256": "c735a5352a57b41d5c12420da88916d83660314ae3799b649cbf36bef1c7fbac"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%A8%A1%E6%8B%9F%E8%B5%9B%E8%BD%A6%E5%B9%B3%E4%BB%B7%E6%8E%92%E6%8C%A1%E6%9D%86%E6%8E%A8%E8%8D%90%E4%B8%8E%E6%89%8B%E6%84%9F%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/模拟赛车平价排挡杆推荐与手感对比/index.html",
+      "sha256": "a05de045be18efcc81ac69a0a605f7000dabee2891e8b0e576968876bab8847b"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%A8%A1%E6%8B%9F%E8%B5%9B%E8%BD%A6%E6%8E%92%E6%8C%A1%E6%9D%86h%E6%A1%A3%E4%B8%8E%E5%BA%8F%E5%88%97%E6%A1%A3%E5%B9%B3%E4%BB%B7%E6%96%B9%E6%A1%88%E9%80%89%E6%8B%A9/",
+      "target": ".recovery-public-stage/zh/模拟赛车排挡杆h档与序列档平价方案选择/index.html",
+      "sha256": "4916336930e39dbdc5371db7e6a7a7398dd55352911a5134beb75df3dfb322ca"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%AD%A3%E7%89%88%E8%BD%AF%E4%BB%B6%E4%BD%8E%E4%BB%B7%E6%B8%A0%E9%81%93%E5%90%88%E6%B3%95%E6%80%A7%E9%AA%8C%E8%AF%81%E4%B8%8E%E8%AE%A2%E9%98%85%E7%AE%A1%E7%90%86%E6%8A%80%E5%B7%A7/",
+      "target": ".recovery-public-stage/zh/正版软件低价渠道合法性验证与订阅管理技巧/index.html",
+      "sha256": "74554c392ad6b0bdebaf8e27103bb63ae782896630e981a50de30f1b13e108d3"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%AD%A3%E7%89%88%E8%BD%AF%E4%BB%B6%E4%BD%8E%E4%BB%B7%E8%AE%A2%E9%98%85%E8%81%9A%E5%90%88%E5%B9%B3%E5%8F%B0%E6%8E%A8%E8%8D%90%E4%B8%8E%E9%81%BF%E5%9D%91%E6%8C%87%E5%8D%97/",
+      "target": ".recovery-public-stage/zh/正版软件低价订阅聚合平台推荐与避坑指南/index.html",
+      "sha256": "493e2b5f58c46f8526d3596d458f0a646dc73eab7044ee0b111ff0ecb9700688"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%B5%B7%E5%A4%96atm%E5%8F%96%E7%8E%B0%E5%85%8D%E6%89%8B%E7%BB%AD%E8%B4%B9%E5%85%A8%E6%B5%81%E7%A8%8B%E5%AE%9E%E6%93%8D%E6%8C%87%E5%8D%97/",
+      "target": ".recovery-public-stage/zh/海外atm取现免手续费全流程实操指南/index.html",
+      "sha256": "3afa2eda9acede93643e90724c73f74ff6fa562916d2cafedec64284852ee687"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%B8%B8%E6%88%8F%E6%9C%AC%E5%A4%96%E6%8E%A5%E6%98%BE%E5%8D%A1%E5%9D%9E%E4%B8%8E%E5%B9%B3%E4%BB%B7%E5%8F%B0%E5%BC%8F%E6%9C%BA%E5%8D%87%E7%BA%A7%E6%88%90%E6%9C%AC%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/游戏本外接显卡坞与平价台式机升级成本对比/index.html",
+      "sha256": "ea51a05349dbaa52610b5471e49b13175dedecb6e139b69b8f73d9e9d5e6578f"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%B8%B8%E6%88%8F%E6%9C%AC%E6%95%A3%E7%83%AD%E5%BA%95%E5%BA%A7%E4%B8%8E%E5%B9%B3%E4%BB%B7%E5%8F%B0%E5%BC%8F%E6%9C%BA%E9%A3%8E%E9%81%93%E8%AE%BE%E8%AE%A1%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/游戏本散热底座与平价台式机风道设计对比/index.html",
+      "sha256": "eb21c09d86ec677effbf2e1e27bf0f76f81118f222d99bc045b2aff3bfb9dae7"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%BE%B3%E6%B4%B2%E4%BE%BF%E5%AE%9C%E5%B7%A5%E5%85%B7%E8%B4%AD%E4%B9%B0%E6%B8%A0%E9%81%93%E6%B1%87%E6%80%BB%E7%BA%BF%E4%B8%8A%E4%B8%8E%E5%AE%9E%E4%BD%93%E5%BA%97/",
+      "target": ".recovery-public-stage/zh/澳洲便宜工具购买渠道汇总线上与实体店/index.html",
+      "sha256": "6296d21acba6e516ac95ad23f9dcd673cb707e6d5feb79638eeb9fad147e98ca"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%BE%B3%E6%B4%B2%E5%B7%A5%E5%85%B7%E5%BA%97%E5%AD%A6%E7%94%9F%E6%8A%98%E6%89%A3%E4%B8%8E%E4%BC%9A%E5%91%98%E7%A7%AF%E5%88%86%E5%8F%A0%E5%8A%A0%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/",
+      "target": ".recovery-public-stage/zh/澳洲工具店学生折扣与会员积分叠加使用技巧/index.html",
+      "sha256": "5800bcbff23bb24201ab6277f9928d5cc02e6cca1b85cf58bca0c1d0f4947677"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%BE%B3%E6%B4%B2%E5%B7%A5%E5%85%B7%E5%BA%97bunnings-powerpass%E4%BC%9A%E5%91%98%E7%94%B3%E8%AF%B7%E6%9D%A1%E4%BB%B6/",
+      "target": ".recovery-public-stage/zh/澳洲工具店bunnings-powerpass会员申请条件/index.html",
+      "sha256": "4ac547ec18f9c35469388a5563875e74d1b0c7d15eb05bb329f0b7dd67dd45e5"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%BE%B3%E6%B4%B2%E7%BA%BF%E4%B8%8A%E4%BE%BF%E5%AE%9C%E5%B7%A5%E5%85%B7%E5%BA%97%E9%93%BA%E6%8E%A8%E8%8D%90%E4%B8%8E%E8%BF%90%E8%B4%B9%E8%AE%A1%E7%AE%97%E6%8A%80%E5%B7%A7/",
+      "target": ".recovery-public-stage/zh/澳洲线上便宜工具店铺推荐与运费计算技巧/index.html",
+      "sha256": "02b27e384f5e1142b62bd4e620b3b4b87bd58a25fdddd2b21a8d1706ad2327d0"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%BE%B3%E6%B4%B2%E7%BA%BF%E4%B8%8A%E5%B7%A5%E5%85%B7%E5%BA%97afterpay%E4%B8%8Ezip%E5%88%86%E6%9C%9F%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/",
+      "target": ".recovery-public-stage/zh/澳洲线上工具店afterpay与zip分期使用体验/index.html",
+      "sha256": "6f652090a32a353f67a55532c8e26ca4d99d3909ff924012c854e55471dfd429"
+    },
+    {
+      "url": "https://select.cheap/zh/%E6%BE%B3%E6%B4%B2kmart%E4%B8%8Ebunnings%E5%B7%A5%E5%85%B7%E4%BB%B7%E6%A0%BC%E9%87%8D%E5%8F%A0%E5%93%81%E7%B1%BB%E7%9B%98%E7%82%B9/",
+      "target": ".recovery-public-stage/zh/澳洲kmart与bunnings工具价格重叠品类盘点/index.html",
+      "sha256": "c4d8a6e110366f5764e0cbe70d71399e17573852b84a5294d296d675a036f8d4"
+    },
+    {
+      "url": "https://select.cheap/zh/%E7%88%B1%E5%B0%94%E5%85%B0%E5%B7%A5%E5%85%B7%E5%BA%97%E7%BD%91%E4%B8%8A%E9%A2%84%E8%AE%A2%E4%B8%8E%E9%97%A8%E5%BA%97%E8%87%AA%E6%8F%90%E6%97%B6%E9%97%B4%E6%95%88%E7%8E%87/",
+      "target": ".recovery-public-stage/zh/爱尔兰工具店网上预订与门店自提时间效率/index.html",
+      "sha256": "246ed460a530f2bfd1671b5817902ec9063ff29ceab931adca813787573e2668"
+    },
+    {
+      "url": "https://select.cheap/zh/%E7%88%B1%E5%B0%94%E5%85%B0%E5%B7%A5%E5%85%B7%E7%BD%91%E8%B4%AD%E5%85%B3%E7%A8%8E%E4%B8%8E%E9%80%80%E8%B4%A7%E6%94%BF%E7%AD%96%E8%AF%A6%E7%BB%86%E8%A7%A3%E8%AF%BB/",
+      "target": ".recovery-public-stage/zh/爱尔兰工具网购关税与退货政策详细解读/index.html",
+      "sha256": "193c949aa57cd8b81fd6617dc5e165e53251550f64e4ffb85f77afa4d2f4604d"
+    },
+    {
+      "url": "https://select.cheap/zh/%E7%88%B1%E5%B0%94%E5%85%B0%E5%B9%B3%E4%BB%B7%E5%B7%A5%E5%85%B7%E8%B4%AD%E4%B9%B0%E6%8C%87%E5%8D%97%E6%9C%AC%E5%9C%B0%E5%BA%97%E9%93%BA%E4%B8%8E%E8%B7%A8%E5%A2%83%E6%B5%B7%E6%B7%98/",
+      "target": ".recovery-public-stage/zh/爱尔兰平价工具购买指南本地店铺与跨境海淘/index.html",
+      "sha256": "f1b89ace080659f9d2c12aa82f112519cb48fcdb6032cfd9f02aa7f008c0eb51"
+    },
+    {
+      "url": "https://select.cheap/zh/%E7%88%B1%E5%B0%94%E5%85%B0%E5%BB%BA%E6%9D%90%E5%B7%A5%E5%85%B7%E5%BA%97%E7%BA%BF%E4%B8%8A%E8%AE%A2%E8%B4%AD%E4%B8%8Eclick-collect%E6%B5%81%E7%A8%8B/",
+      "target": ".recovery-public-stage/zh/爱尔兰建材工具店线上订购与click-collect流程/index.html",
+      "sha256": "ddb82bc9acc5abbe426ace5bad6681fe09f30e9aa52f0e1c89ec85209522e2d5"
+    },
+    {
+      "url": "https://select.cheap/zh/%E7%88%B1%E5%B0%94%E5%85%B0screwfix%E4%B8%8Ewoodies%E5%B7%A5%E5%85%B7%E6%8A%98%E6%89%A3%E5%AD%A3%E6%97%B6%E9%97%B4%E8%A1%A8/",
+      "target": ".recovery-public-stage/zh/爱尔兰screwfix与woodies工具折扣季时间表/index.html",
+      "sha256": "2613d43be8356c962f67a5a3b4ac6523ca827d899992626957bd6f35bb5d614e"
+    },
+    {
+      "url": "https://select.cheap/zh/%E7%94%B5%E5%8A%A8%E5%B7%A5%E5%85%B7%E5%AF%B9%E6%AF%94%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90%E5%8F%82%E6%95%B0%E7%AD%9B%E9%80%89%E4%B8%8E%E7%94%A8%E6%88%B7%E8%AF%84%E4%BB%B7/",
+      "target": ".recovery-public-stage/zh/电动工具对比网站推荐参数筛选与用户评价/index.html",
+      "sha256": "b8623b1b3f671ee64bd50a2e6b73bc44490c91ca8d8fd41935ce41a37f426d27"
+    },
+    {
+      "url": "https://select.cheap/zh/%E7%94%B5%E8%B4%B9%E5%88%86%E6%97%B6%E7%94%B5%E4%BB%B7%E4%B8%8E%E5%BB%89%E4%BB%B7%E5%82%A8%E8%83%BD%E8%AE%BE%E5%A4%87%E5%9B%9E%E6%9C%AC%E5%91%A8%E6%9C%9F%E8%AE%A1%E7%AE%97/",
+      "target": ".recovery-public-stage/zh/电费分时电价与廉价储能设备回本周期计算/index.html",
+      "sha256": "8117831e3fe2797a5d1db6cf5a8f3a83e87af6338016edb5b95a754e168392f8"
+    },
+    {
+      "url": "https://select.cheap/zh/%E7%94%B5%E8%B4%B9%E8%B4%A6%E5%8D%95%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7%E4%B8%8E%E6%99%BA%E8%83%BD%E6%8F%92%E5%BA%A7%E8%8A%82%E7%94%B5%E6%95%88%E6%9E%9C%E5%AE%9E%E6%B5%8B/",
+      "target": ".recovery-public-stage/zh/电费账单分析工具与智能插座节电效果实测/index.html",
+      "sha256": "f5dd0e7f58f94747a0a7ad1a7ef7062c2242b217b7bf62746ab5f2f05421cc4f"
+    },
+    {
+      "url": "https://select.cheap/zh/%E7%94%B5%E8%B4%B9%E8%B4%A6%E5%8D%95%E8%8A%82%E7%9C%81%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7%E4%BB%8E%E7%94%B5%E5%99%A8%E4%BD%BF%E7%94%A8%E5%88%B0%E8%B4%B9%E7%8E%87%E4%BC%98%E5%8C%96/",
+      "target": ".recovery-public-stage/zh/电费账单节省实用技巧从电器使用到费率优化/index.html",
+      "sha256": "14cfa44936ecbb2222501dbcc313bb69df49a0f6ee78f51aab8eed70f785b2a0"
+    },
+    {
+      "url": "https://select.cheap/zh/%E7%9C%81%E9%92%B1%E6%8C%87%E5%8D%97pdf%E5%85%8D%E8%B4%B9%E4%B8%8B%E8%BD%BD%E6%95%B4%E7%90%86%E6%97%A5%E5%B8%B8%E8%8A%82%E7%BA%A6%E6%96%B9%E6%B3%95%E8%AE%BA/",
+      "target": ".recovery-public-stage/zh/省钱指南pdf免费下载整理日常节约方法论/index.html",
+      "sha256": "72b85d2a2e4cdbf45ba0accbc4b1ccef29af02c9c7dac5b3c7bc7b282ae8f4af"
+    },
+    {
+      "url": "https://select.cheap/zh/%E7%9C%81%E9%92%B1%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C%E6%A1%86%E6%9E%B6%E4%B8%8E%E8%AE%BA%E7%82%B9%E7%BB%8F%E6%B5%8E%E5%AD%A6%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E6%B6%88%E8%B4%B9%E5%86%B3%E7%AD%96/",
+      "target": ".recovery-public-stage/zh/省钱论文写作框架与论点经济学视角下的消费决策/index.html",
+      "sha256": "6f0d7ffa257b0955ae88d71d5959c945d8cc6e0e9aebf14e5daad957b7f316fd"
+    },
+    {
+      "url": "https://select.cheap/zh/%E7%9F%A5%E5%90%8D%E5%BB%89%E4%BB%B7%E5%B7%A5%E5%85%B7%E8%BF%9E%E9%94%81%E5%BA%97%E7%9B%98%E7%82%B9%E5%85%A8%E7%90%83%E4%B8%8E%E5%8C%BA%E5%9F%9F%E5%93%81%E7%89%8C/",
+      "target": ".recovery-public-stage/zh/知名廉价工具连锁店盘点全球与区域品牌/index.html",
+      "sha256": "163433e80d9a59e479c446bf755c2d5dabd8a22dc45f4eb9c4b4e31c3b910dbc"
+    },
+    {
+      "url": "https://select.cheap/zh/%E7%A3%A8%E5%88%80%E7%9F%B3%E7%9B%AE%E6%95%B0%E9%80%89%E6%8B%A9%E4%B8%8E%E5%BB%89%E4%BB%B7%E5%8F%8C%E9%9D%A2%E6%B2%B9%E7%9F%B3%E7%A0%94%E7%A3%A8%E6%95%88%E6%9E%9C%E9%AA%8C%E8%AF%81/",
+      "target": ".recovery-public-stage/zh/磨刀石目数选择与廉价双面油石研磨效果验证/index.html",
+      "sha256": "86dee399eb464912310637b3709de00db29c099b0d3613534fcdbccacafec9f1"
+    },
+    {
+      "url": "https://select.cheap/zh/%E7%A3%A8%E5%88%80%E7%9F%B3%E7%A1%AC%E5%BA%A6%E4%B8%8E%E5%BB%89%E4%BB%B7%E6%B0%B4%E7%9F%B3%E5%87%BA%E6%B5%86%E9%80%9F%E5%BA%A6%E7%A0%94%E7%A3%A8%E6%95%88%E7%8E%87/",
+      "target": ".recovery-public-stage/zh/磨刀石硬度与廉价水石出浆速度研磨效率/index.html",
+      "sha256": "d54924149604e99c3c278866d50703c838903c82fce2937c19295a4306891bb7"
+    },
+    {
+      "url": "https://select.cheap/zh/%E7%B1%B3%E6%B2%83%E5%A5%87%E5%B7%A5%E5%85%B7%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E6%B4%BB%E5%8A%A8%E6%97%B6%E9%97%B4%E4%B8%8E%E5%8F%82%E4%B8%8E%E6%9D%A1%E4%BB%B6/",
+      "target": ".recovery-public-stage/zh/米沃奇工具学生优惠活动时间与参与条件/index.html",
+      "sha256": "ba4e757208a107a527527c7781afc88d05227ddcc861a04c713966959f929705"
+    },
+    {
+      "url": "https://select.cheap/zh/%E7%B1%B3%E6%B2%83%E5%A5%87%E5%B7%A5%E5%85%B7%E5%AD%A6%E7%94%9F%E6%8A%98%E6%89%A3%E7%94%B3%E8%AF%B7%E6%B8%A0%E9%81%93%E4%B8%8E%E9%AA%8C%E8%AF%81%E6%B5%81%E7%A8%8B/",
+      "target": ".recovery-public-stage/zh/米沃奇工具学生折扣申请渠道与验证流程/index.html",
+      "sha256": "26dde14977056804e341cdd02ff9f0d2d2f72b1c950381fb63f2d36970992647"
+    },
+    {
+      "url": "https://select.cheap/zh/%E7%BB%84%E8%A3%85%E5%8F%B0%E5%BC%8F%E6%9C%BA%E4%B8%8E%E8%B4%AD%E4%B9%B0%E6%B8%B8%E6%88%8F%E6%9C%AC%E6%88%90%E6%9C%AC%E6%95%88%E7%9B%8A%E8%AF%A6%E7%BB%86%E8%AE%A1%E7%AE%97/",
+      "target": ".recovery-public-stage/zh/组装台式机与购买游戏本成本效益详细计算/index.html",
+      "sha256": "2d120235a1a3b46e188116e5297cf7ca49a6910103db664927e27d3c80bba965"
+    },
+    {
+      "url": "https://select.cheap/zh/%E7%BD%91%E4%B8%8A%E4%B9%B0%E4%BE%BF%E5%AE%9C%E5%B7%A5%E5%85%B7%E6%80%8E%E4%B9%88%E6%8C%91%E5%B9%B3%E5%8F%B0%E4%BF%A1%E8%AA%89%E4%B8%8E%E5%93%81%E7%89%8C%E7%AD%9B%E9%80%89/",
+      "target": ".recovery-public-stage/zh/网上买便宜工具怎么挑平台信誉与品牌筛选/index.html",
+      "sha256": "cb0bd65d332cc75663878b3b00aec60cd8f4ef46fe2a16a23140bcf130bb1a42"
+    },
+    {
+      "url": "https://select.cheap/zh/%E7%BD%91%E7%AB%99%E5%9C%B0%E5%9B%BE%E5%AF%B9%E6%AF%94%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90seo%E4%B8%8E%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90%E7%94%A8%E9%80%94/",
+      "target": ".recovery-public-stage/zh/网站地图对比工具推荐seo与竞品分析用途/index.html",
+      "sha256": "f3e6c750ca8893bdd142cb1995125f0ada1ac90c5c50f1a8a9f994e6c14fd7e5"
+    },
+    {
+      "url": "https://select.cheap/zh/%E7%BD%91%E7%AB%99%E5%AF%B9%E6%AF%94%E5%B7%A5%E5%85%B7%E5%8F%AF%E8%A7%86%E5%8C%96%E5%B7%AE%E5%BC%82%E6%8A%A5%E5%91%8A%E4%B8%8Eseo%E4%BC%98%E5%85%88%E7%BA%A7/",
+      "target": ".recovery-public-stage/zh/网站对比工具可视化差异报告与seo优先级/index.html",
+      "sha256": "196764b983e5c802a1e4633eb53e6da1b7b02dbbf22edc803f6adf817679350c"
+    },
+    {
+      "url": "https://select.cheap/zh/%E7%BD%91%E7%AB%99%E5%AF%B9%E6%AF%94%E5%B7%A5%E5%85%B7%E7%AB%99%E7%82%B9%E5%9C%B0%E5%9B%BE%E6%8A%93%E5%8F%96%E4%B8%8E%E6%AD%BB%E9%93%BE%E6%A3%80%E6%B5%8B%E5%AE%9E%E6%93%8D/",
+      "target": ".recovery-public-stage/zh/网站对比工具站点地图抓取与死链检测实操/index.html",
+      "sha256": "3e8ec8b0b79022fac8ad7495d5416bce88077934ec51b42a0ddc7d9c13941239"
+    },
+    {
+      "url": "https://select.cheap/zh/%E8%81%9A%E5%90%88%E4%BD%8E%E4%BB%B7%E6%AD%A3%E7%89%88%E8%BD%AF%E4%BB%B6%E8%AE%A2%E9%98%85%E4%BC%98%E6%83%A0%E4%BF%A1%E6%81%AF%E5%B9%B3%E5%8F%B0%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/",
+      "target": ".recovery-public-stage/zh/聚合低价正版软件订阅优惠信息平台使用指南/index.html",
+      "sha256": "21592682dd1ed30a27cfb345f9fe6234cbf013b27615681ce28eba0adfc2d5b1"
+    },
+    {
+      "url": "https://select.cheap/zh/%E8%87%AA%E8%A1%8C%E8%BD%A6%E5%85%A5%E9%97%A8%E8%A3%85%E5%A4%87%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E9%80%89%E8%B4%AD%E6%B8%85%E5%8D%95/",
+      "target": ".recovery-public-stage/zh/自行车入门装备高性价比选购清单/index.html",
+      "sha256": "ed8bd8ae8b2f6a9e472b37f671d7632e33ed703ad9fecec4f62019dd200f4074"
+    },
+    {
+      "url": "https://select.cheap/zh/%E8%87%AA%E8%A1%8C%E8%BD%A6%E5%8F%98%E9%80%9F%E5%A5%97%E4%BB%B6microshift%E4%B8%8Eshimano-tourney%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/自行车变速套件microshift与shimano-tourney对比/index.html",
+      "sha256": "74e2c12f0e924263da718e84061579698ea60e80022c7f0642a02d1e6d3aba66"
+    },
+    {
+      "url": "https://select.cheap/zh/%E8%87%AA%E8%A1%8C%E8%BD%A6%E8%A3%85%E5%A4%87%E7%9C%81%E9%92%B1%E7%A7%98%E8%AF%80%E4%BA%8C%E6%89%8B%E5%B8%82%E5%9C%BA%E4%B8%8E%E8%BF%87%E5%AD%A3%E6%8A%98%E6%89%A3/",
+      "target": ".recovery-public-stage/zh/自行车装备省钱秘诀二手市场与过季折扣/index.html",
+      "sha256": "c8020f32f4118646b3f0cb1615987c4ece529bc387153ab9584bb3c20372a0ba"
+    },
+    {
+      "url": "https://select.cheap/zh/%E8%8B%B1%E5%9B%BD%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%B7%A5%E5%85%B7warehouse-deals%E4%BA%8C%E6%89%8B%E5%BC%80%E7%AE%B1%E8%B4%AD%E4%B9%B0%E6%8C%87%E5%8D%97/",
+      "target": ".recovery-public-stage/zh/英国亚马逊工具warehouse-deals二手开箱购买指南/index.html",
+      "sha256": "94e98a860a474a278a870ce6afdbbc68bc4d148b1707379814b63651fdddc4c7"
+    },
+    {
+      "url": "https://select.cheap/zh/%E8%8B%B1%E5%9B%BD%E4%BE%BF%E5%AE%9C%E5%B7%A5%E5%85%B7%E8%B4%AD%E4%B9%B0%E6%94%BB%E7%95%A5%E9%AB%98%E8%A1%97%E5%93%81%E7%89%8C%E4%B8%8E%E7%BA%BF%E4%B8%8A%E7%89%B9%E5%8D%96/",
+      "target": ".recovery-public-stage/zh/英国便宜工具购买攻略高街品牌与线上特卖/index.html",
+      "sha256": "6ba6e2a38bb4b68129a4ff35e4c77b18e4f5064c8574009b652e09260ce9e32e"
+    },
+    {
+      "url": "https://select.cheap/zh/%E8%8B%B1%E5%9B%BD%E5%B7%A5%E5%85%B7%E5%BA%97%E4%BB%B7%E6%A0%BC%E5%8C%B9%E9%85%8D%E6%94%BF%E7%AD%96%E4%B8%8E%E6%9C%80%E4%BD%8E%E4%BB%B7%E4%BF%9D%E8%AF%81%E6%9F%A5%E8%AF%A2/",
+      "target": ".recovery-public-stage/zh/英国工具店价格匹配政策与最低价保证查询/index.html",
+      "sha256": "5f337291c3a3ac5def3473b5c53cf5e635663b75fc7aca926d90a72ad501b021"
+    },
+    {
+      "url": "https://select.cheap/zh/%E8%8B%B1%E5%9B%BD%E5%B7%A5%E5%85%B7%E5%BA%97screwfix%E6%AC%A1%E6%97%A5%E8%BE%BE%E4%B8%8E%E5%85%8D%E8%B4%B9%E9%85%8D%E9%80%81%E9%97%A8%E6%A7%9B%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/英国工具店screwfix次日达与免费配送门槛对比/index.html",
+      "sha256": "7b63e096a8463a244086e3b7745011f77c48930c4772c6668c0ea5ed825b0a37"
+    },
+    {
+      "url": "https://select.cheap/zh/%E8%8B%B1%E5%9B%BD%E5%B7%A5%E5%85%B7%E5%BA%97toolstation%E4%B8%8Escrewfix%E4%BB%B7%E6%A0%BC%E5%AF%B9%E6%AF%94%E7%AD%96%E7%95%A5/",
+      "target": ".recovery-public-stage/zh/英国工具店toolstation与screwfix价格对比策略/index.html",
+      "sha256": "06f1e32f8e7c90e6cc32263ceacaf4cda601b92b539a93b0a17f7c6f4538f785"
+    },
+    {
+      "url": "https://select.cheap/zh/%E8%8B%B9%E6%9E%9Cmac%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90%E6%95%99%E8%82%B2%E5%95%86%E5%BA%97%E4%B8%8E%E7%AC%AC%E4%B8%89%E6%96%B9%E6%AF%94%E4%BB%B7/",
+      "target": ".recovery-public-stage/zh/苹果mac学生优惠工具推荐教育商店与第三方比价/index.html",
+      "sha256": "daffef3ca52fc9f49eaacca3cb4a80c7748bf338a3dd8692fcdf762b5496f569"
+    },
+    {
+      "url": "https://select.cheap/zh/%E8%A5%BF%E8%A3%85%E7%B2%98%E5%90%88%E8%A1%AC%E4%B8%8E%E5%8D%8A%E6%AF%9B%E8%A1%AC%E5%B7%A5%E8%89%BA%E5%BB%89%E4%BB%B7%E6%AC%BE%E7%A9%BF%E7%9D%80%E5%AF%BF%E5%91%BD%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/西装粘合衬与半毛衬工艺廉价款穿着寿命对比/index.html",
+      "sha256": "67f81f9a0cb4157d8c97a5af2fc0b81a9a7074304329553084f1488aaa59dcfe"
+    },
+    {
+      "url": "https://select.cheap/zh/%E8%A5%BF%E8%A3%85%E8%82%A9%E9%83%A8%E5%B7%A5%E8%89%BA%E5%BB%89%E4%BB%B7%E6%AC%BE%E5%9E%AB%E8%82%A9%E4%B8%8E%E6%89%8B%E5%B7%A5%E7%BA%B3%E9%A9%B3%E5%A4%B4%E5%B7%AE%E5%BC%82/",
+      "target": ".recovery-public-stage/zh/西装肩部工艺廉价款垫肩与手工纳驳头差异/index.html",
+      "sha256": "6aeeaa5184eb7fde04662dc81d84c0fc401ddf9fd2f1345f67133bbac26ea06f"
+    },
+    {
+      "url": "https://select.cheap/zh/%E8%BD%AF%E4%BB%B6%E8%AE%A2%E9%98%85stacksocial%E4%B8%8Ehumble-bundle%E4%BC%98%E6%83%A0%E9%A2%91%E7%8E%87/",
+      "target": ".recovery-public-stage/zh/软件订阅stacksocial与humble-bundle优惠频率/index.html",
+      "sha256": "d17a4e62f2cb084ea2a5037a57e3ceb07229c513bfabdc865c24240f666f98c8"
+    },
+    {
+      "url": "https://select.cheap/zh/%E8%BF%9C%E7%A8%8B%E5%8A%9E%E5%85%AC%E4%BA%BA%E4%BD%93%E5%B7%A5%E5%AD%A6%E5%B9%B3%E4%BB%B7%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%A1%88%E9%94%AE%E7%9B%98%E6%94%AF%E6%9E%B6%E4%B8%8E%E8%85%B0%E9%9D%A0/",
+      "target": ".recovery-public-stage/zh/远程办公人体工学平价替代方案键盘支架与腰靠/index.html",
+      "sha256": "464852ec6d1b8a26ce04d11d6a03a07157c5b8955144ba5b8a62cd62d32d2031"
+    },
+    {
+      "url": "https://select.cheap/zh/%E8%BF%9C%E7%A8%8B%E5%8A%9E%E5%85%AC%E5%9B%A2%E9%98%9F%E5%8D%8F%E4%BD%9C%E5%85%8D%E8%B4%B9%E5%B7%A5%E5%85%B7%E4%B8%8E%E4%BB%98%E8%B4%B9%E4%BD%8E%E4%BB%B7%E6%9B%BF%E4%BB%A3%E5%93%81/",
+      "target": ".recovery-public-stage/zh/远程办公团队协作免费工具与付费低价替代品/index.html",
+      "sha256": "b6ab8b7ebe2cc2ecb746dfe055843645e356a627cf335244616622afbfd94591"
+    },
+    {
+      "url": "https://select.cheap/zh/%E8%BF%9C%E7%A8%8B%E5%8A%9E%E5%85%AC%E6%91%84%E5%83%8F%E5%A4%B4%E4%B8%8E%E9%BA%A6%E5%85%8B%E9%A3%8E%E5%B9%B3%E4%BB%B7%E6%AC%BE%E8%A7%86%E9%A2%91%E4%BC%9A%E8%AE%AE%E6%95%88%E6%9E%9C/",
+      "target": ".recovery-public-stage/zh/远程办公摄像头与麦克风平价款视频会议效果/index.html",
+      "sha256": "5679e0be41fd08075de71252e1bf26e85af54e8c4b516be2fe9501b4d12946b6"
+    },
+    {
+      "url": "https://select.cheap/zh/%E8%BF%9C%E7%A8%8B%E5%8A%9E%E5%85%AC%E6%97%85%E8%A1%8C%E4%BE%BF%E6%90%BA%E6%98%BE%E7%A4%BA%E5%99%A8%E4%B8%8E%E5%B9%B3%E6%9D%BF%E4%BA%8C%E5%90%88%E4%B8%80%E6%96%B9%E6%A1%88/",
+      "target": ".recovery-public-stage/zh/远程办公旅行便携显示器与平板二合一方案/index.html",
+      "sha256": "97edc026dc8615852e954fe7c75d5052ff60d85d84d58fdb36c8bfc2569887cd"
+    },
+    {
+      "url": "https://select.cheap/zh/%E8%BF%9C%E7%A8%8B%E5%8A%9E%E5%85%AC%E6%97%85%E8%A1%8C%E8%A3%85%E5%A4%87%E6%B8%85%E5%8D%95%E9%85%92%E5%BA%97%E4%B8%8E%E5%92%96%E5%95%A1%E5%BA%97%E5%8A%9E%E5%85%AC%E9%80%82%E9%85%8D/",
+      "target": ".recovery-public-stage/zh/远程办公旅行装备清单酒店与咖啡店办公适配/index.html",
+      "sha256": "0dbfb7291a489ae9934ebf00feeb69f868bb52f6e437663cdf0bd5ccf389edb8"
+    },
+    {
+      "url": "https://select.cheap/zh/%E8%BF%9C%E7%A8%8B%E5%8A%9E%E5%85%AC%E6%A1%8C%E9%9D%A2%E5%BF%85%E5%A4%87%E5%A5%BD%E7%89%A9%E6%8F%90%E5%8D%87%E6%95%88%E7%8E%87%E7%9A%84%E5%B9%B3%E4%BB%B7%E5%A4%96%E8%AE%BE/",
+      "target": ".recovery-public-stage/zh/远程办公桌面必备好物提升效率的平价外设/index.html",
+      "sha256": "7557bde6806bf8d8ae05f91a0e45674bc6bf23ed99ce174ebd456ea93e8da68a"
+    },
+    {
+      "url": "https://select.cheap/zh/%E8%BF%9C%E7%A8%8B%E5%8A%9E%E5%85%ACvpn%E4%B8%8E%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%BB%89%E4%BB%B7%E6%96%B9%E6%A1%88%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%97/",
+      "target": ".recovery-public-stage/zh/远程办公vpn与网络安全廉价方案搭建指南/index.html",
+      "sha256": "52d6730f7a85a3e228ec2a70a93d36093c5a0aa03ae6ce52eb01570a9720923a"
+    },
+    {
+      "url": "https://select.cheap/zh/%E9%80%9A%E5%8B%A4%E8%87%AA%E8%A1%8C%E8%BD%A6%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E9%85%8D%E4%BB%B6%E6%8E%A8%E8%8D%90%E4%B8%8E%E9%81%BF%E5%9D%91%E6%8C%87%E5%8D%97/",
+      "target": ".recovery-public-stage/zh/通勤自行车高性价比配件推荐与避坑指南/index.html",
+      "sha256": "ef0f76a53ef3240c67d5c5ac6fbbc8539b62d7a41f8038b6ec1fa9e4a9152f09"
+    },
+    {
+      "url": "https://select.cheap/zh/%E9%99%84%E8%BF%91%E5%93%AA%E6%9C%89%E5%8D%96%E4%BE%BF%E5%AE%9C%E5%B7%A5%E5%85%B7%E6%9C%AC%E5%9C%B0%E5%AE%9E%E4%BD%93%E5%BA%97%E6%90%9C%E7%B4%A2%E6%96%B9%E6%B3%95/",
+      "target": ".recovery-public-stage/zh/附近哪有卖便宜工具本地实体店搜索方法/index.html",
+      "sha256": "bc04fce33d5f6e834c41d107ce21b04abb8e1cf8dfa444ad5672fe9388aed729"
+    },
+    {
+      "url": "https://select.cheap/zh/%E9%99%84%E8%BF%91%E5%BB%89%E4%BB%B7%E5%B7%A5%E5%85%B7%E5%AE%9E%E4%BD%93%E5%BA%97%E5%AF%BC%E8%88%AA%E5%9C%B0%E5%9B%BE%E6%90%9C%E7%B4%A2%E4%B8%8E%E5%BA%93%E5%AD%98%E6%9F%A5%E8%AF%A2/",
+      "target": ".recovery-public-stage/zh/附近廉价工具实体店导航地图搜索与库存查询/index.html",
+      "sha256": "5ed59513555be022cd4418f90d7ab9e8ed726f83a023d1cbb8dc6494da927d06"
+    },
+    {
+      "url": "https://select.cheap/zh/%E9%99%84%E8%BF%91%E6%89%93%E6%8A%98%E5%B7%A5%E5%85%B7%E5%AE%9E%E4%BD%93%E5%BA%97%E5%AE%9E%E6%97%B6%E6%9F%A5%E8%AF%A2%E6%8A%80%E5%B7%A7%E4%B8%8Eapp%E6%8E%A8%E8%8D%90/",
+      "target": ".recovery-public-stage/zh/附近打折工具实体店实时查询技巧与app推荐/index.html",
+      "sha256": "99277213e0d2111f685833fa9baacfd3d6c63724bd27f9e81544f6c82b75c319"
+    },
+    {
+      "url": "https://select.cheap/zh/%E9%9D%92%E5%B0%91%E5%B9%B4%E4%BA%8C%E6%89%8B%E7%90%83%E9%9E%8B%E4%B8%8E%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81%E8%BD%AC%E5%8D%96%E6%94%92%E9%92%B1%E5%AE%9E%E6%93%8D/",
+      "target": ".recovery-public-stage/zh/青少年二手球鞋与电子产品转卖攒钱实操/index.html",
+      "sha256": "30268665315ba7a83639be2408dab55372e4d352f4064a09e1ce32cc9f433ec7"
+    },
+    {
+      "url": "https://select.cheap/zh/%E9%9D%92%E5%B0%91%E5%B9%B4%E9%9B%B6%E8%8A%B1%E9%92%B1%E5%82%A8%E8%93%84%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7%E4%BB%8E%E8%AE%B0%E8%B4%A6%E5%88%B0%E7%9B%AE%E6%A0%87%E8%AE%BE%E5%AE%9A/",
+      "target": ".recovery-public-stage/zh/青少年零花钱储蓄实用技巧从记账到目标设定/index.html",
+      "sha256": "1949e7c715070069f5c6bf4b5f82669bad35c705a3a47d0755535a30f68eee96"
+    },
+    {
+      "url": "https://select.cheap/zh/%E9%A6%99%E6%B0%B4%E7%BA%BF%E4%BA%BA%E9%A6%99%E7%B2%BE%E4%B8%8E%E5%BB%89%E4%BB%B7%E9%85%92%E7%B2%BE%E5%9F%BA%E5%BA%95%E6%8C%A5%E5%8F%91%E6%9B%B2%E7%BA%BF%E6%B5%8B%E8%AF%95/",
+      "target": ".recovery-public-stage/zh/香水线人香精与廉价酒精基底挥发曲线测试/index.html",
+      "sha256": "27468f7a5463b390acf21eae712872ec0839cf4ef7bf335b47ba912aeb5c2056"
+    },
+    {
+      "url": "https://select.cheap/zh/%E9%A6%99%E6%B0%B4%E9%A6%99%E7%B2%BE%E6%B5%93%E5%BA%A6%E4%B8%8E%E5%BB%89%E4%BB%B7%E6%9B%BF%E4%BB%A3%E5%93%81%E7%95%99%E9%A6%99%E6%8F%90%E5%8D%87%E6%96%B9%E6%B3%95/",
+      "target": ".recovery-public-stage/zh/香水香精浓度与廉价替代品留香提升方法/index.html",
+      "sha256": "fdfdba7e1d0fd1e4e1c77a6fcc19ae1a03528158d12ab69ae4ac2a6b7fec0956"
+    },
+    {
+      "url": "https://select.cheap/zh/%E9%AA%91%E8%A1%8C%E8%A3%85%E5%A4%87%E8%BF%AA%E5%8D%A1%E4%BE%AC%E4%B8%8E%E4%B8%93%E4%B8%9A%E5%93%81%E7%89%8C%E5%85%A5%E9%97%A8%E7%BA%A7%E4%BB%B7%E6%A0%BC%E9%87%8D%E5%8F%A0/",
+      "target": ".recovery-public-stage/zh/骑行装备迪卡侬与专业品牌入门级价格重叠/index.html",
+      "sha256": "d82a5f01742e54cedcbd42b55938c9faf9c6a9da46868aa574ada026c9fd542b"
+    },
+    {
+      "url": "https://select.cheap/zh/%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E8%87%AA%E8%A1%8C%E8%BD%A6%E5%8F%98%E9%80%9F%E5%A5%97%E4%BB%B6%E6%8E%A8%E8%8D%90%E7%A6%A7%E7%8E%9B%E8%AF%BA%E4%B8%8E%E5%9B%BD%E4%BA%A7%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/高性价比自行车变速套件推荐禧玛诺与国产对比/index.html",
+      "sha256": "cc10f4d074d72d04fb7c868d4e8c3d6c01b2a17fa622d889c148dab6cd346a49"
+    },
+    {
+      "url": "https://select.cheap/zh/%E9%BD%BF%E8%BD%AE%E4%BA%91%E5%8F%B0%E5%85%A8%E6%99%AF%E6%8E%A5%E7%89%87%E4%B8%8E%E5%B9%B3%E4%BB%B7%E4%B8%89%E7%BB%B4%E4%BA%91%E5%8F%B0%E7%B2%BE%E5%BA%A6%E5%B7%AE%E5%BC%82/",
+      "target": ".recovery-public-stage/zh/齿轮云台全景接片与平价三维云台精度差异/index.html",
+      "sha256": "ef6657ceb9960f96b624e61e29430bca51dd7583f95edd60f6d78e2870812c28"
+    },
+    {
+      "url": "https://select.cheap/zh/%E9%BD%BF%E8%BD%AE%E4%BA%91%E5%8F%B0%E6%9B%BC%E5%AF%8C%E5%9B%BE%E4%B8%8E%E5%9B%BD%E4%BA%A7%E5%B9%B3%E6%9B%BF%E6%89%BF%E9%87%8D%E7%B2%BE%E5%BA%A6%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/齿轮云台曼富图与国产平替承重精度对比/index.html",
+      "sha256": "94f47c05727f536141d1ccfa5d74606da7fda81d502edcfae98fafa12a9c96be"
+    },
+    {
+      "url": "https://select.cheap/zh/%E9%BD%BF%E8%BD%AE%E4%BA%91%E5%8F%B0%E9%80%89%E8%B4%AD%E6%89%BF%E9%87%8D%E9%98%BB%E5%B0%BC%E4%B8%8E%E5%BF%AB%E8%A3%85%E7%B3%BB%E7%BB%9F%E5%85%B3%E9%94%AE%E5%8F%82%E6%95%B0/",
+      "target": ".recovery-public-stage/zh/齿轮云台选购承重阻尼与快装系统关键参数/index.html",
+      "sha256": "de0c2902e9c8fe74bb0f1ab762a7900322d77df70cde3ea37262c4ec245011e4"
+    },
+    {
+      "url": "https://select.cheap/zh/2025%E5%B9%B4%E6%9C%80%E4%BD%B3%E9%A2%84%E7%AE%97%E8%A3%85%E5%A4%87%E6%B8%85%E5%8D%95%E6%95%B0%E7%A0%81%E4%B8%8E%E5%B7%A5%E5%85%B7%E5%85%A8%E5%93%81%E7%B1%BB/",
+      "target": ".recovery-public-stage/zh/2025年最佳预算装备清单数码与工具全品类/index.html",
+      "sha256": "866d06b98b78b091af1efcdeb9ded3a049035f4e8956aa8541c40b3c102b50da"
+    },
+    {
+      "url": "https://select.cheap/zh/2025%E5%B9%B4%E8%BF%9C%E7%A8%8B%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%BF%85%E5%A4%87%E8%B6%8B%E5%8A%BF%E6%B7%B7%E5%90%88%E5%8A%9E%E5%85%AC%E7%A1%AC%E4%BB%B6%E8%A7%84%E5%88%92/",
+      "target": ".recovery-public-stage/zh/2025年远程办公室必备趋势混合办公硬件规划/index.html",
+      "sha256": "18fe2bbbe33e190b0e9959c6bfe40d06898191b462cd010fc6be7e4b893700a7"
+    },
+    {
+      "url": "https://select.cheap/zh/2025%E5%B9%B4%E8%BF%9C%E7%A8%8B%E5%8A%9E%E5%85%AC%E5%BF%85%E5%A4%87%E8%A3%85%E5%A4%87%E6%B8%85%E5%8D%95%E4%BB%8E%E6%A1%8C%E9%9D%A2%E5%88%B0%E6%94%B6%E7%BA%B3%E5%85%A8%E6%94%BB%E7%95%A5/",
+      "target": ".recovery-public-stage/zh/2025年远程办公必备装备清单从桌面到收纳全攻略/index.html",
+      "sha256": "057f1bc3df088f28b279f14fc225b4df451eb341b20faa5cbe3bf00b59ec1399"
+    },
+    {
+      "url": "https://select.cheap/zh/ai%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7%E5%AF%B9%E6%AF%94%E6%8C%89%E5%AD%97%E6%95%B0%E6%88%90%E6%9C%AC%E4%B8%8E%E8%B4%A8%E9%87%8F%E8%AF%84%E5%88%86%E6%8E%92%E5%BA%8F/",
+      "target": ".recovery-public-stage/zh/ai写作工具对比按字数成本与质量评分排序/index.html",
+      "sha256": "d5bdc3d7918346dd2b4459060c4316e54195fb809351cc3f93ab7605390952bd"
+    },
+    {
+      "url": "https://select.cheap/zh/ai%E5%B7%A5%E5%85%B7%E5%AF%B9%E6%AF%94%E7%BD%91%E7%AB%99%E5%A6%82%E4%BD%95%E8%AF%84%E4%BC%B0%E8%BE%93%E5%87%BA%E8%B4%A8%E9%87%8F%E4%B8%8E%E9%80%9F%E5%BA%A6%E6%8C%87%E6%A0%87/",
+      "target": ".recovery-public-stage/zh/ai工具对比网站如何评估输出质量与速度指标/index.html",
+      "sha256": "4b20b5e79cbf85803d09276a2d9dfdf30320a5d37818e341b07bbda79adec79c"
+    },
+    {
+      "url": "https://select.cheap/zh/ai%E5%B7%A5%E5%85%B7%E5%AF%B9%E6%AF%94%E8%AF%84%E6%B5%8B%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90%E5%A6%82%E4%BD%95%E6%8C%91%E9%80%89%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%80%E9%AB%98%E7%9A%84%E5%8A%A9%E6%89%8B/",
+      "target": ".recovery-public-stage/zh/ai工具对比评测网站推荐如何挑选性价比最高的助手/index.html",
+      "sha256": "e3c20a612ed1508eab000e52799b61c29aa63ba62eb1451262e95fdeec512755"
+    },
+    {
+      "url": "https://select.cheap/zh/atm%E5%8A%A8%E6%80%81%E8%B4%A7%E5%B8%81%E8%BD%AC%E6%8D%A2%E9%99%B7%E9%98%B1%E8%AF%86%E5%88%AB%E4%B8%8E%E5%8F%96%E7%8E%B0%E6%89%8B%E7%BB%AD%E8%B4%B9%E8%A7%84%E9%81%BF/",
+      "target": ".recovery-public-stage/zh/atm动态货币转换陷阱识别与取现手续费规避/index.html",
+      "sha256": "dc8114a9ef3d155b86e9d1f3e4a6a146b87c1c0223237e85bf4da89b3e5fe2f3"
+    },
+    {
+      "url": "https://select.cheap/zh/atm%E5%8F%96%E7%8E%B0%E5%85%8D%E6%89%8B%E7%BB%AD%E8%B4%B9%E9%93%B6%E8%A1%8C%E4%B8%8E%E5%8D%A1%E7%89%87%E7%B1%BB%E5%9E%8B%E9%80%89%E6%8B%A9%E6%8C%87%E5%8D%97/",
+      "target": ".recovery-public-stage/zh/atm取现免手续费银行与卡片类型选择指南/index.html",
+      "sha256": "a369ec00532edfbcabe86105e43b644bbab252e9670e702e883c405425d61ebd"
+    },
+    {
+      "url": "https://select.cheap/zh/chromebook%E5%AE%89%E8%A3%85linux%E4%B8%8E%E4%BD%8E%E4%BB%B7win%E6%9C%AC%E5%85%BC%E5%AE%B9%E6%80%A7%E6%B5%8B%E8%AF%95/",
+      "target": ".recovery-public-stage/zh/chromebook安装linux与低价win本兼容性测试/index.html",
+      "sha256": "c0ba16a07d22b5f364e8bdd6ef5b5569f7aeba4c4c4766991f3eefb7d0b94063"
+    },
+    {
+      "url": "https://select.cheap/zh/chromebook-google-play%E4%B8%8E%E4%BD%8E%E4%BB%B7win%E6%9C%AC%E5%BA%94%E7%94%A8%E7%94%9F%E6%80%81/",
+      "target": ".recovery-public-stage/zh/chromebook-google-play与低价win本应用生态/index.html",
+      "sha256": "57ab4e024a16b5d6bcfb00b8cb6fbbacd7f9b156b2be357c33488ee8f9306ae7"
+    },
+    {
+      "url": "https://select.cheap/zh/claude-code%E8%AE%A2%E9%98%85%E6%96%B9%E6%A1%88%E5%AF%B9%E6%AF%94%E4%B8%AA%E4%BA%BA%E7%89%88%E4%B8%8E%E5%9B%A2%E9%98%9F%E7%89%88%E7%9C%81%E9%92%B1%E7%AD%96%E7%95%A5/",
+      "target": ".recovery-public-stage/zh/claude-code订阅方案对比个人版与团队版省钱策略/index.html",
+      "sha256": "9ceb73bd412ba3f8c6382fb91aa0fd9a45501d1a6508ae4128648033797bf029"
+    },
+    {
+      "url": "https://select.cheap/zh/claude-code%E8%AE%A2%E9%98%85%E7%9C%81%E9%92%B1%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97%E5%AD%A6%E7%94%9F%E4%B8%8E%E5%BC%80%E5%8F%91%E8%80%85%E9%80%82%E7%94%A8/",
+      "target": ".recovery-public-stage/zh/claude-code订阅省钱完全指南学生与开发者适用/index.html",
+      "sha256": "9db23ca16fecebc7ecf381c8df35c401737848c3e8086b6ccd57234a5499a08b"
+    },
+    {
+      "url": "https://select.cheap/zh/claude-code-api%E8%B0%83%E7%94%A8%E4%B8%8E%E8%AE%A2%E9%98%85%E4%BB%98%E8%B4%B9%E6%88%90%E6%9C%AC%E6%8E%A7%E5%88%B6%E6%96%B9%E6%A1%88/",
+      "target": ".recovery-public-stage/zh/claude-code-api调用与订阅付费成本控制方案/index.html",
+      "sha256": "3645693088aac050d74183648ae5445413f613fd86e6d3aa010328bf572216a1"
+    },
+    {
+      "url": "https://select.cheap/zh/cornwell%E5%B7%A5%E5%85%B7%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E9%A1%B9%E7%9B%AE%E8%AF%A6%E7%BB%86%E7%94%B3%E8%AF%B7%E6%AD%A5%E9%AA%A4/",
+      "target": ".recovery-public-stage/zh/cornwell工具学生优惠项目详细申请步骤/index.html",
+      "sha256": "820ed064293671d6afb76a6947b312dfb351c02a2261fb0e5932be0d625d183b"
+    },
+    {
+      "url": "https://select.cheap/zh/cornwell%E5%B7%A5%E5%85%B7%E5%AD%A6%E7%94%9F%E6%8A%98%E6%89%A3%E7%94%B3%E8%AF%B7%E6%AD%A5%E9%AA%A4%E4%B8%8E%E8%B5%84%E6%A0%BC%E8%AF%A6%E8%A7%A3/",
+      "target": ".recovery-public-stage/zh/cornwell工具学生折扣申请步骤与资格详解/index.html",
+      "sha256": "ccf830692ba7c18c5739c336fe8f1c35fdefd1191c788496893870b3eabb52ba"
+    },
+    {
+      "url": "https://select.cheap/zh/cornwell%E5%B7%A5%E5%85%B7%E5%AD%A6%E7%94%9F%E6%8A%98%E6%89%A3%E7%94%B3%E8%AF%B7%E8%A2%AB%E6%8B%92%E5%B8%B8%E8%A7%81%E5%8E%9F%E5%9B%A0%E4%B8%8E%E8%A7%A3%E5%86%B3/",
+      "target": ".recovery-public-stage/zh/cornwell工具学生折扣申请被拒常见原因与解决/index.html",
+      "sha256": "e3aada25eb56d2d75307b6e464e15b6a12b9f03b6c7b1939526ba21cffc3f6f7"
+    },
+    {
+      "url": "https://select.cheap/zh/ipad%E4%B8%8E%E5%B9%B3%E4%BB%B7%E7%AC%94%E8%AE%B0%E6%9C%AC%E6%80%A7%E4%BB%B7%E6%AF%94%E5%AF%B9%E6%AF%94%E5%AD%A6%E7%94%9F%E4%BD%9C%E4%B8%9A%E4%B8%8E%E8%BD%BB%E5%8A%9E%E5%85%AC/",
+      "target": ".recovery-public-stage/zh/ipad与平价笔记本性价比对比学生作业与轻办公/index.html",
+      "sha256": "1dad4115bbacfae604280245738b361255da1bcd0ad2f980ec44480222b977a5"
+    },
+    {
+      "url": "https://select.cheap/zh/mac%E5%AD%A6%E7%94%9F%E6%8A%98%E6%89%A3%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90%E8%8B%B9%E6%9E%9C%E5%AE%98%E6%96%B9%E4%B8%8E%E7%AC%AC%E4%B8%89%E6%96%B9%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0/",
+      "target": ".recovery-public-stage/zh/mac学生折扣工具推荐苹果官方与第三方教育优惠/index.html",
+      "sha256": "fb995aa05650a0b2344558cd581cb939ce173a8047e8be270b0c6c1d3b14007c"
+    },
+    {
+      "url": "https://select.cheap/zh/matco%E5%B7%A5%E5%85%B7%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E7%94%B3%E8%AF%B7%E6%9D%A1%E4%BB%B6%E4%B8%8E%E9%AA%8C%E8%AF%81%E6%B5%81%E7%A8%8B/",
+      "target": ".recovery-public-stage/zh/matco工具学生优惠申请条件与验证流程/index.html",
+      "sha256": "8753da63fa32bfc267d8f04c9910ac21374c0e22242c32ac011dc99be5e51649"
+    },
+    {
+      "url": "https://select.cheap/zh/matco%E5%B7%A5%E5%85%B7%E5%AD%A6%E7%94%9F%E6%8A%98%E6%89%A3%E9%A1%B9%E7%9B%AE%E6%9B%B4%E6%96%B0%E4%B8%8E%E7%94%B3%E8%AF%B7%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/",
+      "target": ".recovery-public-stage/zh/matco工具学生折扣项目更新与申请注意事项/index.html",
+      "sha256": "15fd601ac88a40d2a56d2e6f88570c3e76fa6f0a7de59d1cbb91dcf4da94e56a"
+    },
+    {
+      "url": "https://select.cheap/zh/ps5%E4%BA%8C%E6%89%8B%E5%85%89%E7%9B%98%E5%9B%9E%E8%A1%80%E4%B8%8E%E4%BD%8E%E4%BB%B7%E6%B8%B8%E6%88%8F%E6%9C%ACsteam%E6%8A%98%E6%89%A3%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/ps5二手光盘回血与低价游戏本steam折扣对比/index.html",
+      "sha256": "6f20b2be9cdbe55dcd96b1bc20bdc500ad001ca79a02d973674696683729813c"
+    },
+    {
+      "url": "https://select.cheap/zh/ps5%E6%95%B0%E5%AD%97%E7%89%88%E4%B8%8E%E4%BD%8E%E4%BB%B7%E6%B8%B8%E6%88%8F%E6%9C%AC%E6%B8%B8%E6%88%8F%E8%8E%B7%E5%8F%96%E6%88%90%E6%9C%AC%E9%95%BF%E6%9C%9F%E6%B5%8B%E7%AE%97/",
+      "target": ".recovery-public-stage/zh/ps5数字版与低价游戏本游戏获取成本长期测算/index.html",
+      "sha256": "76da21c96c9bd95074e11a03b80d6dd5c6eed314f914366cb1337c82408b22aa"
+    },
+    {
+      "url": "https://select.cheap/zh/sidemen%E5%BB%89%E4%BB%B7%E4%B8%8E%E6%98%82%E8%B4%B5%E6%8C%91%E6%88%98%E8%83%8C%E5%90%8E%E7%9A%84%E6%B6%88%E8%B4%B9%E9%80%BB%E8%BE%91%E8%A7%A3%E6%9E%90/",
+      "target": ".recovery-public-stage/zh/sidemen廉价与昂贵挑战背后的消费逻辑解析/index.html",
+      "sha256": "ac5e663f017f5289922c40b961378a653f0b33581a261b5c9a5d1a4d114da3d2"
+    },
+    {
+      "url": "https://select.cheap/zh/sidemen%E5%BB%89%E4%BB%B7vs%E6%98%82%E8%B4%B5%E7%B3%BB%E5%88%97%E8%A7%86%E9%A2%91%E6%B5%8B%E8%AF%95%E6%96%B9%E6%B3%95%E5%8F%AF%E4%BF%A1%E5%BA%A6%E5%88%86%E6%9E%90/",
+      "target": ".recovery-public-stage/zh/sidemen廉价vs昂贵系列视频测试方法可信度分析/index.html",
+      "sha256": "b4471abc89620a834bab3592b204f8a4f272c4b18e5df43277b1a376774e03de"
+    },
+    {
+      "url": "https://select.cheap/zh/sidemen%E6%8C%91%E6%88%98%E4%B8%AD%E5%BB%89%E4%BB%B7%E4%BA%A7%E5%93%81%E8%8E%B7%E8%83%9C%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90/",
+      "target": ".recovery-public-stage/zh/sidemen挑战中廉价产品获胜案例分析/index.html",
+      "sha256": "fe2a47b2132bd3ff23694e8a548bd8efbb5b7887af09e776bddeca1e74c836ee"
+    },
+    {
+      "url": "https://select.cheap/zh/site24x7%E4%B8%8Epingdom%E7%BD%91%E7%AB%99%E7%9B%91%E6%8E%A7%E5%8A%9F%E8%83%BD%E4%B8%8E%E4%BB%B7%E6%A0%BC%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/site24x7与pingdom网站监控功能与价格对比/index.html",
+      "sha256": "57aba0fe7204464d92418cd30f37035022e3875d0eabb8932c17a501b4952a57"
+    },
+    {
+      "url": "https://select.cheap/zh/site24x7%E7%BD%91%E7%AB%99%E5%AF%B9%E6%AF%94%E5%8A%9F%E8%83%BD%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%E4%B8%8E%E7%9B%91%E6%B5%8B%E8%AE%BE%E7%BD%AE/",
+      "target": ".recovery-public-stage/zh/site24x7网站对比功能使用教程与监测设置/index.html",
+      "sha256": "fc6f10ea574c14be1368f9fba444f3faad6bf3ee0333aa5140c4cc2ed1c45a18"
+    },
+    {
+      "url": "https://select.cheap/zh/site24x7%E7%BD%91%E7%AB%99%E7%9B%91%E6%8E%A7%E5%AF%B9%E6%AF%94%E5%8A%9F%E8%83%BD%E9%AB%98%E7%BA%A7%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B/",
+      "target": ".recovery-public-stage/zh/site24x7网站监控对比功能高级配置教程/index.html",
+      "sha256": "1e6b5aa62d0500fb8215f01d25197d2920f8392b9bec1ff18c7d3a43400cee39"
+    },
+    {
+      "url": "https://select.cheap/zh/sk%E5%B7%A5%E5%85%B7%E5%AD%A6%E7%94%9F%E6%8A%98%E6%89%A3%E8%8E%B7%E5%8F%96%E6%96%B9%E5%BC%8F%E4%B8%8E%E9%80%82%E7%94%A8%E5%9C%B0%E5%8C%BA%E8%AF%B4%E6%98%8E/",
+      "target": ".recovery-public-stage/zh/sk工具学生折扣获取方式与适用地区说明/index.html",
+      "sha256": "fa121decd1250aff68b9d027a4f7d68a268706b689d5969138fd6da814639e07"
+    },
+    {
+      "url": "https://select.cheap/zh/sk%E5%B7%A5%E5%85%B7%E5%AD%A6%E7%94%9F%E6%8A%98%E6%89%A3%E8%8E%B7%E5%8F%96%E8%B7%AF%E5%BE%84%E4%B8%8E%E4%BD%BF%E7%94%A8%E9%99%90%E5%88%B6%E8%AF%B4%E6%98%8E/",
+      "target": ".recovery-public-stage/zh/sk工具学生折扣获取路径与使用限制说明/index.html",
+      "sha256": "aad3b0a19d8757eda8c00894119988452e5eefa6e67dd2569126f05ecca4bbce"
+    },
+    {
+      "url": "https://select.cheap/zh/snap-on%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E5%B7%A5%E5%85%B7%E7%9B%AE%E5%BD%95%E4%B8%8E%E7%94%B3%E8%AF%B7%E8%B5%84%E6%A0%BC%E6%9F%A5%E8%AF%A2/",
+      "target": ".recovery-public-stage/zh/snap-on学生优惠工具目录与申请资格查询/index.html",
+      "sha256": "a464da174b23805f5886b9990619387150024c76048608cfa92c99da1fde05eb"
+    },
+    {
+      "url": "https://select.cheap/zh/snap-on%E5%B7%A5%E5%85%B7%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E9%A1%B9%E7%9B%AE%E7%94%B3%E8%AF%B7%E5%85%A8%E6%94%BB%E7%95%A5/",
+      "target": ".recovery-public-stage/zh/snap-on工具学生优惠项目申请全攻略/index.html",
+      "sha256": "2a763b6a0bb2dff191e63a5feaf71fe20481ddf31735f9abcd6ed6b15ebdea52"
+    },
+    {
+      "url": "https://select.cheap/zh/sonic%E5%B7%A5%E5%85%B7%E5%AD%A6%E7%94%9F%E6%8A%98%E6%89%A3%E7%A0%81%E8%8E%B7%E5%8F%96%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/",
+      "target": ".recovery-public-stage/zh/sonic工具学生折扣码获取与使用技巧/index.html",
+      "sha256": "d875a100534d14f40220d5624d20dd93b3805d78ee3a70d836698d063a1a56c6"
+    },
+    {
+      "url": "https://select.cheap/zh/sonic%E5%B7%A5%E5%85%B7%E5%AD%A6%E7%94%9F%E6%8A%98%E6%89%A3%E8%AE%A1%E5%88%92%E8%AF%A6%E8%A7%A3%E5%93%AA%E4%BA%9B%E4%BA%A7%E5%93%81%E5%8F%82%E4%B8%8E/",
+      "target": ".recovery-public-stage/zh/sonic工具学生折扣计划详解哪些产品参与/index.html",
+      "sha256": "7c26791946c76f15b1f95274c783d0419fb0e9a5d17a8aedb9ef74a958bb4a10"
+    },
+    {
+      "url": "https://select.cheap/zh/steam-deck%E4%B8%8E%E4%BD%8E%E4%BB%B7%E7%AC%94%E8%AE%B0%E6%9C%AC%E6%B8%B8%E6%88%8F%E5%B8%A7%E6%95%B0%E4%B8%8E%E7%BB%AD%E8%88%AA%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/steam-deck与低价笔记本游戏帧数与续航对比/index.html",
+      "sha256": "bc40b6830158af5b28109b388a8517c39857dd7d1303b33eec216cfa2e801de8"
+    },
+    {
+      "url": "https://select.cheap/zh/steam-deck%E4%B8%8E%E5%B9%B3%E4%BB%B7%E7%AC%94%E8%AE%B0%E6%9C%AC%E6%B8%B8%E6%88%8F%E6%80%A7%E8%83%BD%E5%AE%9E%E6%B5%8B%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/steam-deck与平价笔记本游戏性能实测对比/index.html",
+      "sha256": "a09c774716f231dc1c83659bb104427d314644720e4404fb1b59a6cceab8d79e"
+    },
+    {
+      "url": "https://select.cheap/zh/steam-deck%E4%B8%B2%E6%B5%81%E4%B8%8E%E4%BD%8E%E4%BB%B7%E7%AC%94%E8%AE%B0%E6%9C%AC%E6%9C%AC%E5%9C%B0%E6%B8%B8%E6%88%8F%E7%94%BB%E8%B4%A8%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zh/steam-deck串流与低价笔记本本地游戏画质对比/index.html",
+      "sha256": "6afba67c4f5555ec04d0546d2b4d8ecf924b1f1721fa16fdc4802bcb76f24418"
+    },
+    {
+      "url": "https://select.cheap/zh/steam-deck%E5%8F%8C%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E4%B8%8E%E5%B9%B3%E4%BB%B7%E7%AC%94%E8%AE%B0%E6%9C%AC%E6%A8%A1%E6%8B%9F%E5%99%A8%E6%80%A7%E8%83%BD/",
+      "target": ".recovery-public-stage/zh/steam-deck双系统安装与平价笔记本模拟器性能/index.html",
+      "sha256": "971d2dfb50a5a3a8ad739dc8c5a48a50656bfdc0b2afd68b464437b576d28e60"
+    },
+    {
+      "url": "https://select.cheap/zh/tekton%E5%B7%A5%E5%85%B7%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E7%A0%81%E8%8E%B7%E5%8F%96%E4%B8%8E%E6%9C%89%E6%95%88%E6%9C%9F%E8%AF%B4%E6%98%8E/",
+      "target": ".recovery-public-stage/zh/tekton工具学生优惠码获取与有效期说明/index.html",
+      "sha256": "33997a48a31788a7a0db264b27b7782ade1f37689c6f5b826ab9a993f777d4cb"
+    },
+    {
+      "url": "https://select.cheap/zh/tekton%E5%B7%A5%E5%85%B7%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E8%B5%84%E6%A0%BC%E8%AE%A4%E5%AE%9A%E4%B8%8E%E7%94%B3%E8%AF%B7%E6%8C%87%E5%8D%97/",
+      "target": ".recovery-public-stage/zh/tekton工具学生优惠资格认定与申请指南/index.html",
+      "sha256": "2271c9f2b5af40369ca30c59bb9f13813ad683970080c159d40c8a73b91963b7"
+    },
+    {
+      "url": "https://select.cheap/zh/toolstation%E5%AD%A6%E7%94%9F%E6%8A%98%E6%89%A3%E7%94%B3%E8%AF%B7%E6%94%BB%E7%95%A5%E7%BA%BF%E4%B8%8A%E4%B8%8E%E9%97%A8%E5%BA%97%E9%80%9A%E7%94%A8%E6%96%B9%E6%B3%95/",
+      "target": ".recovery-public-stage/zh/toolstation学生折扣申请攻略线上与门店通用方法/index.html",
+      "sha256": "069b36ed54f551c9d6436f13a33f64e43ccc2d329d14535782f9b8aa78033026"
+    },
+    {
+      "url": "https://select.cheap/zh/toolstation%E5%AD%A6%E7%94%9F%E6%8A%98%E6%89%A3%E7%BA%BF%E4%B8%8A%E7%94%B3%E8%AF%B7%E4%B8%8E%E9%97%A8%E5%BA%97%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/",
+      "target": ".recovery-public-stage/zh/toolstation学生折扣线上申请与门店使用说明/index.html",
+      "sha256": "c3e1fa22d72e5af66d9842cafe45a2dc4ebc5410bfefeada289c378f29f7a558"
+    }
+  ],
+  "writes": [
+    {
+      "topic_id": "select-cheap-0905",
+      "target": "public/articles/select-cheap-0905/index.html",
+      "url": "https://select.cheap/articles/select-cheap-0905/",
+      "sha256": "65cdebf5bb70d3d2735b3e47403cca02d9bdb776cbf407bd85684db4883fe401"
+    },
+    {
+      "topic_id": "select-cheap-0906",
+      "target": "public/articles/select-cheap-0906/index.html",
+      "url": "https://select.cheap/articles/select-cheap-0906/",
+      "sha256": "8dc0121d40871279a4a85b311030b7ba6ac5467d2aefe3d2fcd52e1041b094d0"
+    },
+    {
+      "topic_id": "select-cheap-0907",
+      "target": "public/articles/select-cheap-0907/index.html",
+      "url": "https://select.cheap/articles/select-cheap-0907/",
+      "sha256": "0d0d5f2ead30ce0bbf27ed86a24803b7bcf9f1e73e241d07a68d37233fc66485"
+    },
+    {
+      "topic_id": "select-cheap-0908",
+      "target": "public/articles/select-cheap-0908/index.html",
+      "url": "https://select.cheap/articles/select-cheap-0908/",
+      "sha256": "32ffc92972be2d76bc0ac0aac4b5b6e614b823b1f886a1426918d5afb59a796f"
+    },
+    {
+      "topic_id": "select-cheap-0909",
+      "target": "public/articles/select-cheap-0909/index.html",
+      "url": "https://select.cheap/articles/select-cheap-0909/",
+      "sha256": "e5ab6781cb8e0ab3a9fac8a5b17474c3bf05c6e4375aa7d47f4e58855bdc18b1"
+    },
+    {
+      "topic_id": "select-cheap-0910",
+      "target": "public/articles/select-cheap-0910/index.html",
+      "url": "https://select.cheap/articles/select-cheap-0910/",
+      "sha256": "fea24c2e413950b15d8bfcdb17d06f5b4b1a667d08e9b72c26514641f2cedf5c"
+    }
+  ]
+}
