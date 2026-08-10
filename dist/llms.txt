@@ -1,0 +1,14 @@
+# Cheap Picks
+
+> select.cheap 是独立中文比较型消费知识站，帮助读者理解总成本、使用限制与性价比。
+
+## 主要内容
+- 机票、酒店、软件与电子产品比较方法
+- 标价、税费、续费与隐藏成本
+- 功能、质量、保修与适用场景
+- 优惠真实性与商家条款核验
+
+本站提供一般消费信息，不代表商家，也不保证价格、库存或适用性。购买前请核对最新条款。
+
+Canonical: https://select.cheap/
+Sitemap: https://select.cheap/sitemap-index.xml
