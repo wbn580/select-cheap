@@ -1,2 +1,6 @@
 .wrangler-deploy.lock
 public/pagefind/
+dist/
+node_modules/
+.astro/
+.wrangler/
