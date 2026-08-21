@@ -1,10 +1,20 @@
 # Workers Static Assets
 name = "select-cheap"
+main = "worker/index.ts"
 compatibility_date = "2025-01-01"
 
 [assets]
 directory = "./dist"
+binding = "ASSETS"
 not_found_handling = "404-page"
 
 [observability]
 enabled = true
+
+# 运行时文章层（R254，d1_runtime_scaffold 生成）。只存还没进构建产物的
+# 新文章，静态正本优先。刻意不设 run_worker_first：Worker 只接管构建产物里
+# 根本不存在的路径（云构建等价闸按 dist manifest 逐文件核 sha256）。
+[[d1_databases]]
+binding = "DB"
+database_name = "select-cheap-content"
+database_id = "776ab2a4-2303-4fe1-aede-2df3b22b0527"
