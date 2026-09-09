@@ -59,7 +59,7 @@ If privacy is a top priority, MEGA's end-to-end encryption stands out.
 
 Your choice may also depend on the devices you use:
 
-![Comparison chart of five cloud storage services](https://img.ulec.com.cn/对比评测-便宜工具/google-drive-dropbox-onedrive-icloud-mega-2026-08-18-7ac556a83c-image-01-2026-1880x1253.jpg)
+![Comparison chart of five cloud storage services](https://img.select.cheap/对比评测-便宜工具/google-drive-dropbox-onedrive-icloud-mega-2026-08-18-7ac556a83c-image-01-2026-1880x1253.jpg)
 
 
 - **Google Drive** integrates seamlessly with Google Workspace (Docs, Sheets, Slides) and is accessible on all major platforms.

@@ -43,7 +43,7 @@ Adobe Illustrator is a paid vector graphics editor. Inkscape is a free alternati
 ## Video Editing: Paid vs Free
 
 
-![Student working on a laptop with various software icons](https://img.ulec.com.cn/对比评测-便宜工具/select-cheap-10-guide-2026-08-22-8cd8a88a05-image-01-2026-1880x1253.jpg)
+![Student working on a laptop with various software icons](https://img.select.cheap/对比评测-便宜工具/select-cheap-10-guide-2026-08-22-8cd8a88a05-image-01-2026-1880x1253.jpg)
 
 ### Adobe Premiere Pro vs DaVinci Resolve
 

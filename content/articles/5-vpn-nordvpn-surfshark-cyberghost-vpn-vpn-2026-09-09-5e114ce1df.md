@@ -28,7 +28,7 @@ In our tests, NordVPN delivered the fastest download speeds, averaging 89 Mbps, 
 
 All three providers offer solid privacy features. NordVPN and Surfshark both operate strict no-logs policies, meaning they don't track your online activity. CyberGhost also has a no-logs policy, but it stores connection timestamps, which some users may find less private.
 
-![Chart comparing five budget VPN services](https://img.ulec.com.cn/对比评测-便宜工具/5-vpn-nordvpn-surfshark-cyberghost-vpn-vpn-2026-09-09-5e114ce1df-image-02-2026-1679x1300.jpg)
+![Chart comparing five budget VPN services](https://img.select.cheap/对比评测-便宜工具/5-vpn-nordvpn-surfshark-cyberghost-vpn-vpn-2026-09-09-5e114ce1df-image-02-2026-1679x1300.jpg)
 
 
 When it comes to server availability, NordVPN leads with 5,400 servers across 60 countries. Surfshark has 3,200 servers in 65 countries, and CyberGhost has 6,000 servers in 90 countries, offering the broadest coverage.
