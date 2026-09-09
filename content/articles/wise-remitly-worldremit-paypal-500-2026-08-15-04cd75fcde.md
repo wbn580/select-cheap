@@ -8,7 +8,7 @@ slug: 'wise-remitly-worldremit-paypal-500-2026-08-15-04cd75fcde'
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: 'https://img.ulec.com.cn/对比评测-便宜工具/wise-remitly-worldremit-paypal-500-2026-08-15-04cd75fcde-image-01-2026-1880x1253.jpg'
+ogImage: "https://img.select.cheap/对比评测-便宜工具/wise-remitly-worldremit-paypal-500-2026-08-15-04cd75fcde-image-01-2026-1880x1253.jpg"
 verified: '2026-08-15T00:00:00Z'
 tags:
   - 'international money transfer'

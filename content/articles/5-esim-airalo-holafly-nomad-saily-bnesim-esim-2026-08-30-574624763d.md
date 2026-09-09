@@ -8,7 +8,7 @@ slug: '5-esim-airalo-holafly-nomad-saily-bnesim-esim-2026-08-30-574624763d'
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: 'https://img.ulec.com.cn/对比评测-便宜工具/5-esim-airalo-holafly-nomad-saily-bnesim-esim-2026-08-30-574624763d-image-01-2026-1880x1253.jpg'
+ogImage: "https://img.select.cheap/对比评测-便宜工具/5-esim-airalo-holafly-nomad-saily-bnesim-esim-2026-08-30-574624763d-image-01-2026-1880x1253.jpg"
 verified: '2026-08-30T00:00:00Z'
 tags:
   - 'eSIM'

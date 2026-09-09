@@ -8,7 +8,7 @@ slug: 'google-drive-dropbox-onedrive-icloud-mega-2026-08-18-7ac556a83c'
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: 'https://img.ulec.com.cn/对比评测-便宜工具/google-drive-dropbox-onedrive-icloud-mega-2026-08-18-7ac556a83c-image-01-2026-1880x1253.jpg'
+ogImage: "https://img.select.cheap/对比评测-便宜工具/google-drive-dropbox-onedrive-icloud-mega-2026-08-18-7ac556a83c-image-01-2026-1880x1253.jpg"
 verified: '2026-08-18T00:00:00Z'
 tags:
   - 'cloud storage'
