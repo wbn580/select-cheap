@@ -64,15 +64,37 @@ if (!["published", "draft"].includes(status)) {
   process.exit(2);
 }
 
+// 逐篇 og:image（R254，2026-09-18）：og_image 直接进 <meta content="...">，
+// 带引号/尖括号/空白的值会把 meta 标签撕开，所以在这里 fail closed，而不是
+// 到运行时再兜。允许绝对 http(s) URL 与站内根相对路径两种写法。
+const hasOgImage = Object.prototype.hasOwnProperty.call(a, "og_image");
+const ogImage = hasOgImage ? String(a.og_image ?? "").trim() : "";
+if (ogImage && !/^(?:https?:\/\/|\/)[^\s"'<>]*$/.test(ogImage)) {
+  console.error(`og_image 只能是绝对 http(s) URL 或 / 开头的站内路径，且不能含引号/尖括号/空白：${ogImage}`);
+  process.exit(2);
+}
+
 const q = (s) => `'${String(s).replace(/'/g, "''")}'`;
+// 列清单动态拼：没带 og_image key 时产出的 SQL 与改造前逐字一致，
+// 未迁移（没有 og_image 列）的库因此完全不受影响。
+const columns = ["slug", "title", "description", "category", "body_html", "published_at", "updated_at", "status"];
+const values = [
+  q(a.slug), q(a.title), q(a.description || ""), q(a.category || ""),
+  q(a.body_html), q(published_at), q(today), q(status),
+];
+if (hasOgImage) {
+  columns.push("og_image");
+  values.push(q(ogImage));
+}
+const updates = columns
+  .filter((c) => c !== "slug")
+  .map((c) => `${c}=excluded.${c}`)
+  .join(", ");
 const sql =
-  `INSERT INTO articles (slug, title, description, category, body_html, published_at, updated_at, status)
-   VALUES (${q(a.slug)}, ${q(a.title)}, ${q(a.description || "")}, ${q(a.category || "")},
-           ${q(a.body_html)}, ${q(published_at)}, ${q(today)}, ${q(status)})
+  `INSERT INTO articles (${columns.join(", ")})
+   VALUES (${values.join(", ")})
    ON CONFLICT(slug) DO UPDATE SET
-     title=excluded.title, description=excluded.description, category=excluded.category,
-     body_html=excluded.body_html, published_at=excluded.published_at,
-     updated_at=excluded.updated_at, status=excluded.status;`;
+     ${updates};`;
 
 if (dryRun) {
   console.log(sql);
